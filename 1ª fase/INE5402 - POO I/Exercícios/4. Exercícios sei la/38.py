@@ -22,4 +22,4 @@ elif afirmacoes == 3 or afirmacoes == 4:
 elif afirmacoes == 5:
     print('Assasino!')
 else:
-    print('Inocenter')
+    print('Inocente')
