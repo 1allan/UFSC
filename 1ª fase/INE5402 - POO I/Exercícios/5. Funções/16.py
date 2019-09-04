@@ -1,9 +1,13 @@
-n = int(input('Número: '))
-for i in range(1, n):
+f = 0
+i = 0
+
+while f < 500:
+    i += 1
     def fibonacci(n):
         if n <= 1:
-            return n
+          return n
         else:
                 return fibonacci(n - 1) + fibonacci(n - 2)
 
-    print(fibonacci(i))
+    f = fibonacci(i)
+    print(f)
