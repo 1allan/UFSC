@@ -1,0 +1,99 @@
+# do somador_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying /opt/altera/18.1/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {/home/allan/Desktop/pimba/somador.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:01:32 on Sep 18,2019
+# vcom -reportprogress 300 -93 -work work /home/allan/Desktop/pimba/somador.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity somador
+# -- Compiling architecture soma of somador
+# End time: 23:01:32 on Sep 18,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/allan/Desktop/pimba/fulladder.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:01:32 on Sep 18,2019
+# vcom -reportprogress 300 -93 -work work /home/allan/Desktop/pimba/fulladder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity fulladder
+# -- Compiling architecture full of fulladder
+# End time: 23:01:32 on Sep 18,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/allan/Desktop/pimba/halfadder.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:01:32 on Sep 18,2019
+# vcom -reportprogress 300 -93 -work work /home/allan/Desktop/pimba/halfadder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity halfadder
+# -- Compiling architecture half of halfadder
+# End time: 23:01:32 on Sep 18,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/allan/Desktop/pimba/mult3.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:01:32 on Sep 18,2019
+# vcom -reportprogress 300 -93 -work work /home/allan/Desktop/pimba/mult3.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mult3
+# -- Compiling architecture mult3arch of mult3
+# End time: 23:01:32 on Sep 18,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# 
+# stdin: <EOF>
+vsim work.mult3
+# vsim work.mult3 
+# Start time: 23:01:37 on Sep 18,2019
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.mult3(mult3arch)
+# Loading work.somador(soma)
+# Loading work.halfadder(half)
+# Loading work.fulladder(full)
+vsim work.mult3
+# End time: 23:01:39 on Sep 18,2019, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+# vsim work.mult3 
+# Start time: 23:01:39 on Sep 18,2019
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.mult3(mult3arch)
+# Loading work.somador(soma)
+# Loading work.halfadder(half)
+# Loading work.fulladder(full)
+force -freeze sim:/mult3/Z(3) 0 0
+force -freeze sim:/mult3/SUM1/FA3/Cin 0 0
+# ** Warning: (vsim-8780) Forcing /mult3/SUM1/C2 as root of /mult3/SUM1/FA3/Cin specified in the force.
+force -freeze sim:/mult3/SUM1/FA3/Cout 0 0
+# ** Warning: (vsim-8780) Forcing /mult3/E as root of /mult3/SUM1/FA3/Cout specified in the force.
+force -freeze sim:/mult3/Z(1) 1 0
+run
+force -freeze sim:/mult3/Z(2) 0 0
+force -freeze sim:/mult3/Z(0) 0 0
+force -freeze sim:/mult3/Z(2) 0 0
+force -freeze sim:/mult3/Z(0) 0 0
+run
+force -freeze sim:/mult3/Z 1111 0
+run
+force -freeze sim:/mult3/Z 0110 0
+run
+# Window cannot be closed because the modal window "Quit Vsim" is still open.
+# End time: 23:06:37 on Sep 18,2019, Elapsed time: 0:04:58
+# Errors: 0, Warnings: 3, Suppressed Warnings: 8

@@ -1,0 +1,154 @@
+|mult3
+Z[0] => somador:SUM1.X0
+Z[0] => somador:SUM1.Y0
+Z[0] => somador:SUM2.X0
+Z[1] => somador:SUM1.X1
+Z[1] => somador:SUM1.Y1
+Z[1] => somador:SUM2.X1
+Z[2] => somador:SUM1.X2
+Z[2] => somador:SUM1.Y2
+Z[2] => somador:SUM2.X2
+Z[3] => somador:SUM1.X3
+Z[3] => somador:SUM1.Y3
+Z[3] => somador:SUM2.X3
+R[0] <= somador:SUM2.S0
+R[1] <= somador:SUM2.S1
+R[2] <= somador:SUM2.S2
+R[3] <= somador:SUM2.S3
+R[4] <= somador:SUM2.S4
+
+
+|mult3|somador:SUM1
+X3 => fulladder:FA3.A
+X2 => fulladder:FA2.A
+X1 => fulladder:FA1.A
+X0 => halfadder:HA.A
+Y3 => fulladder:FA3.B
+Y2 => fulladder:FA2.B
+Y1 => fulladder:FA1.B
+Y0 => halfadder:HA.B
+S4 <= fulladder:FA3.Cout
+S3 <= fulladder:FA3.Sum
+S2 <= fulladder:FA2.Sum
+S1 <= fulladder:FA1.Sum
+S0 <= halfadder:HA.Sum
+
+
+|mult3|somador:SUM1|halfadder:HA
+A => Sum.IN0
+A => Cout.IN0
+B => Sum.IN1
+B => Cout.IN1
+Sum <= Sum.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|mult3|somador:SUM1|fulladder:FA1
+A => Sum.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Sum.IN1
+B => Cout.IN1
+B => Cout.IN0
+Cin => Sum.IN1
+Cin => Cout.IN1
+Cin => Cout.IN1
+Sum <= Sum.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|mult3|somador:SUM1|fulladder:FA2
+A => Sum.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Sum.IN1
+B => Cout.IN1
+B => Cout.IN0
+Cin => Sum.IN1
+Cin => Cout.IN1
+Cin => Cout.IN1
+Sum <= Sum.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|mult3|somador:SUM1|fulladder:FA3
+A => Sum.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Sum.IN1
+B => Cout.IN1
+B => Cout.IN0
+Cin => Sum.IN1
+Cin => Cout.IN1
+Cin => Cout.IN1
+Sum <= Sum.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|mult3|somador:SUM2
+X3 => fulladder:FA3.A
+X2 => fulladder:FA2.A
+X1 => fulladder:FA1.A
+X0 => halfadder:HA.A
+Y3 => fulladder:FA3.B
+Y2 => fulladder:FA2.B
+Y1 => fulladder:FA1.B
+Y0 => halfadder:HA.B
+S4 <= fulladder:FA3.Cout
+S3 <= fulladder:FA3.Sum
+S2 <= fulladder:FA2.Sum
+S1 <= fulladder:FA1.Sum
+S0 <= halfadder:HA.Sum
+
+
+|mult3|somador:SUM2|halfadder:HA
+A => Sum.IN0
+A => Cout.IN0
+B => Sum.IN1
+B => Cout.IN1
+Sum <= Sum.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|mult3|somador:SUM2|fulladder:FA1
+A => Sum.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Sum.IN1
+B => Cout.IN1
+B => Cout.IN0
+Cin => Sum.IN1
+Cin => Cout.IN1
+Cin => Cout.IN1
+Sum <= Sum.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|mult3|somador:SUM2|fulladder:FA2
+A => Sum.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Sum.IN1
+B => Cout.IN1
+B => Cout.IN0
+Cin => Sum.IN1
+Cin => Cout.IN1
+Cin => Cout.IN1
+Sum <= Sum.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|mult3|somador:SUM2|fulladder:FA3
+A => Sum.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Sum.IN1
+B => Cout.IN1
+B => Cout.IN0
+Cin => Sum.IN1
+Cin => Cout.IN1
+Cin => Cout.IN1
+Sum <= Sum.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
