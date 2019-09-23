@@ -1,4 +1,5 @@
 numeros = []
+rep = False
 
 for i in range(5):
     n = int(input('N: '))
