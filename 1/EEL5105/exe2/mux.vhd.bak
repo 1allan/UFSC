@@ -1,0 +1,10 @@
+library IEEE;
+use IEEE.Std_Logic_1164.all;
+
+entity mux is port (
+	
+);
+
+architecture mux_arch of mux is begin
+
+end mux_arch;
