@@ -46,11 +46,13 @@ Calcular o aumento de no mínimo 3 funcionários. A cada cálculo efetuado mostr
 
 
 [12.](12.py)
-![Exerício 12][images/12.png]
+
+![Exercício 12](./images/12.png)
 
 
 [13.](13.py)
-![Exerício 13][images/13.png]
+
+![Exercício 13](./images/13.png)
 
 
 [14.](14.py) Coloque em ordem crescente três números quaisquer.
