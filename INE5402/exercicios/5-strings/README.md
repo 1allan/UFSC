@@ -10,7 +10,7 @@ Saída:
     Para cada caso de teste da entrada seu programa deve produzir uma única linha da saída, indicando a direção para a qual o recruta deve ter sua face voltada após executar a série de comandos, considerando que no início o recruta tem a face voltada para o norte. A linha deve conter uma letra entre 'N', 'L', 'S' e 'O', representando respectivamente as direções norte, leste, sul e oeste.
 
 
-[2.](2.py)[Nova Senha RA](https://www.urionlinejudge.com.br/judge/pt/problems/view/2690) 
+[2.](2.py) [Nova Senha RA](https://www.urionlinejudge.com.br/judge/pt/problems/view/2690) 
 Um novo conjunto de autenticação será implementado no Instituto Federal do Sul de Minas, campus Muzambinho.
 
 Bom, o novo serviço de autenticação é seguro, sem bugs e dores de cabeça mesmo porque estamos no final de semestre. Ele permitirá que sua senha tenha espaços, mas não números ou caracteres especiais. A atualização ocorre sempre no período de férias, para que todos os ajustes sejam feitos e no final agrade todos os usuarios. Como estagiário da central de suporte da escola, seu dever é implementar a nova autenticação. Por enquanto o novo padrão para nomes de usuários está sendo estudado.
