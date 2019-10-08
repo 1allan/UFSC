@@ -8,3 +8,4 @@
 | [Tratamento de strings](./5-strings/) | Cadeia de Caracteres (String) | 5-strings |
 | [Listas e tuplas](./6-listas/) | Tupla, Lista | 6-listas |
 | [Listas e tuplas 2](./7-listas-tuplas/) | Aula 12 - Lista Exercícios (Tupla, Lista) | 7-listas-tuplas |
+| [OBI](./8-obi/) | Lista de Exercícios - 07/10 | 8-obi |
