@@ -1,9 +1,12 @@
 n = int(input('Quantidade de casos: '))
 res = ''
+output = []
 
 for i in range(n):
     s = input('Strings: ').split()
     
+    output.append('')
+
     if s[0] > s[1]:
         maior = s[0]
         menor = s[1]
@@ -11,12 +14,11 @@ for i in range(n):
         maior = s[1]
         menor = s[0]
 
-    for i in range(len(maior)):
-        if i < len(menor):
-            res += s[0][i] + s[1][i]
+    for j in range(len(maior)):
+        if j < len(menor):
+            output[i] += s[0][j] + s[1][j]
         else:
-            res += maior[i]
-    res += ' '
+            output[i] += maior[j]
 
-print(res.split()[0])
-print(res.split()[1])
+for i in range(len(output)):
+    print(output[i])
