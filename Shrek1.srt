@@ -4,7 +4,7 @@ Era uma vez uma doce princesa.
 
 2
 00:00:52,900 --> 00:00:56,400
-Mas, havia um feitiço
+Mas, havia um feitiï¿½o
 muito poderoso sobre ela,
 
 3
@@ -18,13 +18,13 @@ Ela foi presa num castelo,
 
 5
 00:01:03,900 --> 00:01:08,100
-vigiada por um terrível dragão
+vigiada por um terrï¿½vel dragï¿½o
 que soltava fogo pelas ventas.
 
 6
 00:01:08,400 --> 00:01:12,200
 Muitos cavaleiros corajosos tentaram
-libertá-la desta prisão terrível,
+libertï¿½-la desta prisï¿½o terrï¿½vel,
 
 7
 00:01:12,500 --> 00:01:14,500
@@ -33,7 +33,7 @@ mas nenhum conseguiu.
 8
 00:01:15,800 --> 00:01:18,100
 Ela esperava onde
-o dragão a mantinha,
+o dragï¿½o a mantinha,
 
 9
 00:01:18,300 --> 00:01:20,600
@@ -55,7 +55,7 @@ Que bobagem.
 
 13
 00:01:32,500 --> 00:01:34,500
-<i>Alguém certa vez me disse</i>
+<i>Alguï¿½m certa vez me disse</i>
 
 14
 00:01:34,600 --> 00:01:37,400
@@ -63,12 +63,12 @@ Que bobagem.
 
 15
 00:01:37,500 --> 00:01:40,800
-<i>que eu não sou
-a ferramenta mais afiada no galpão</i>
+<i>que eu nï¿½o sou
+a ferramenta mais afiada no galpï¿½o</i>
 
 16
 00:01:40,800 --> 00:01:43,700
-<i>Ela estava parecendo meio estúpida</i>
+<i>Ela estava parecendo meio estï¿½pida</i>
 
 17
 00:01:43,700 --> 00:01:45,800
@@ -81,25 +81,25 @@ na forma de um L na sua testa</i>
 
 19
 00:01:50,400 --> 00:01:52,600
-<i>Bem, os anos começam a vir</i>
+<i>Bem, os anos comeï¿½am a vir</i>
 
 20
 00:01:52,600 --> 00:01:53,800
-<i>e não param de vir</i>
+<i>e nï¿½o param de vir</i>
 
 21
 00:01:53,900 --> 00:01:56,300
 <i>Satisfiz as regras
-e alcancei o chão, fugindo</i>
+e alcancei o chï¿½o, fugindo</i>
 
 22
 00:01:56,400 --> 00:01:58,400
-<i>Não fazia sentido não viver pela diversão</i>
+<i>Nï¿½o fazia sentido nï¿½o viver pela diversï¿½o</i>
 
 23
 00:01:58,500 --> 00:02:00,900
-<i>Seu cérebro fica esperto
-mas sua cabeça fica estúpida</i>
+<i>Seu cï¿½rebro fica esperto
+mas sua cabeï¿½a fica estï¿½pida</i>
 
 24
 00:02:01,000 --> 00:02:02,200
@@ -108,30 +108,30 @@ tanto para ver</i>
 
 25
 00:02:02,200 --> 00:02:05,100
-<i>Então o que tem de errado
-em usar as ruas de trás?</i>
+<i>Entï¿½o o que tem de errado
+em usar as ruas de trï¿½s?</i>
 
 26
 00:02:05,100 --> 00:02:06,800
-<i>Você nunca saberá
-se não for</i>
+<i>Vocï¿½ nunca saberï¿½
+se nï¿½o for</i>
 
 27
 00:02:06,800 --> 00:02:09,700
-<i>Você nunca brilhará
-se não arder</i>
+<i>Vocï¿½ nunca brilharï¿½
+se nï¿½o arder</i>
 
 28
 00:02:09,700 --> 00:02:11,800
-<i>Ei, agora, você é um Astro</i>
+<i>Ei, agora, vocï¿½ ï¿½ um Astro</i>
 
 29
 00:02:11,800 --> 00:02:13,800
-<i>prossiga com seu jogo, vá jogar</i>
+<i>prossiga com seu jogo, vï¿½ jogar</i>
 
 30
 00:02:13,900 --> 00:02:15,900
-<i>Ei, agora, você é um Estrela do Rock</i>
+<i>Ei, agora, vocï¿½ ï¿½ um Estrela do Rock</i>
 
 31
 00:02:16,000 --> 00:02:18,900
@@ -139,25 +139,25 @@ se não arder</i>
 
 32
 00:02:18,900 --> 00:02:22,200
-<i>E tudo que reluz é ouro</i>
+<i>E tudo que reluz ï¿½ ouro</i>
 
 33
 00:02:22,200 --> 00:02:27,600
-<i>Só estrelas cadentes
+<i>Sï¿½ estrelas cadentes
 quebram o molde</i>
 
 34
 00:02:27,700 --> 00:02:30,500
-<i>É um lugar fresco
+<i>ï¿½ um lugar fresco
 e dizem que fica mais frio</i>
 
 35
 00:02:30,600 --> 00:02:31,800
-<i>Você está bem agasalhado agora</i>
+<i>Vocï¿½ estï¿½ bem agasalhado agora</i>
 
 36
 00:02:31,800 --> 00:02:33,000
-<i>espere até que fique mais velho</i>
+<i>espere atï¿½ que fique mais velho</i>
 
 37
 00:02:33,100 --> 00:02:35,100
@@ -165,20 +165,20 @@ e dizem que fica mais frio</i>
 
 38
 00:02:35,200 --> 00:02:36,800
-<i>Julgando pelo buraco na foto do satélite</i>
+<i>Julgando pelo buraco na foto do satï¿½lite</i>
 
 39
 00:02:36,800 --> 00:02:38,900
 <i>O gelo em que patinamos
-está ficando bastante fino</i>
+estï¿½ ficando bastante fino</i>
 
 40
 00:02:38,900 --> 00:02:40,500
-<i>A água está ficando quente</i>
+<i>A ï¿½gua estï¿½ ficando quente</i>
 
 41
 00:02:40,600 --> 00:02:41,800
-<i>então você pode nadar também</i>
+<i>entï¿½o vocï¿½ pode nadar tambï¿½m</i>
 
 42
 00:02:41,800 --> 00:02:43,900
@@ -187,20 +187,20 @@ e o seu?</i>
 
 43
 00:02:43,900 --> 00:02:46,400
-<i>Este é o modo como gosto dele, nunca fico entediado
+<i>Este ï¿½ o modo como gosto dele, nunca fico entediado
 -Cuidado, Ogro!</i>
 
 44
 00:02:47,300 --> 00:02:49,000
-<i>Ei, agora, você é um Astro</i>
+<i>Ei, agora, vocï¿½ ï¿½ um Astro</i>
 
 45
 00:02:49,000 --> 00:02:51,500
-<i>Prossiga com seu jogo, vá jogar</i>
+<i>Prossiga com seu jogo, vï¿½ jogar</i>
 
 46
 00:02:51,400 --> 00:02:53,100
-<i>Ei, agora, você é um Estrela do Rock</i>
+<i>Ei, agora, vocï¿½ ï¿½ um Estrela do Rock</i>
 
 47
 00:02:53,100 --> 00:02:55,600
@@ -208,25 +208,25 @@ e o seu?</i>
 
 48
 00:02:55,700 --> 00:02:59,000
-<i>E tudo que reluz é ouro</i>
+<i>E tudo que reluz ï¿½ ouro</i>
 
 49
 00:02:59,000 --> 00:03:04,400
-<i>Só estrelas cadentes
+<i>Sï¿½ estrelas cadentes
 quebram o molde</i>
 
 50
 00:03:14,000 --> 00:03:16,400
-<i>Ei, agora, você é um Astro</i>
+<i>Ei, agora, vocï¿½ ï¿½ um Astro</i>
 
 51
 00:03:16,600 --> 00:03:18,600
-<i>Prossiga com seu jogo, vá jogar
+<i>Prossiga com seu jogo, vï¿½ jogar
 -Afaste-se</i>
 
 52
 00:03:18,600 --> 00:03:21,500
-<i>Ei, agora, você é um Estrela do Rock</i>
+<i>Ei, agora, vocï¿½ ï¿½ um Estrela do Rock</i>
 
 53
 00:03:21,500 --> 00:03:24,000
@@ -234,31 +234,31 @@ quebram o molde</i>
 
 54
 00:03:24,000 --> 00:03:26,900
-<i>E tudo que reluz é ouro</i>
+<i>E tudo que reluz ï¿½ ouro</i>
 
 55
 00:03:27,000 --> 00:03:31,900
-<i>Só estrelas cadentes
+<i>Sï¿½ estrelas cadentes
 quebram o molde</i>
 
 56
 00:03:37,500 --> 00:03:39,100
-Acho que ele está lá.
+Acho que ele estï¿½ lï¿½.
 
 57
 00:03:39,300 --> 00:03:40,400
-Está certo.
-Vamos pegá-lo.
+Estï¿½ certo.
+Vamos pegï¿½-lo.
 
 58
 00:03:41,100 --> 00:03:43,700
-Espere, você não sabe o que essa
-coisa pode fazer com você?
+Espere, vocï¿½ nï¿½o sabe o que essa
+coisa pode fazer com vocï¿½?
 
 59
 00:03:43,900 --> 00:03:46,200
-Ele moerá os seus ossos
-para fazer pão.
+Ele moerï¿½ os seus ossos
+para fazer pï¿½o.
 
 60
 00:03:47,700 --> 00:03:50,700
@@ -267,26 +267,26 @@ isso seria um gigante.
 
 61
 00:03:50,700 --> 00:03:57,500
-Os Ogros são muito piores. Eles arrancam
+Os Ogros sï¿½o muito piores. Eles arrancam
 as suas peles e fazem roupas com elas.
 
 62
 00:03:57,700 --> 00:04:02,600
-Eles fatiam seus fígados, espremem
-a geléia dos seus olhos.
+Eles fatiam seus fï¿½gados, espremem
+a gelï¿½ia dos seus olhos.
 
 63
 00:04:02,700 --> 00:04:04,200
-Geralmente, são muito bons com torradas.
+Geralmente, sï¿½o muito bons com torradas.
 
 64
 00:04:04,600 --> 00:04:07,900
-Para trás! Para trás!
+Para trï¿½s! Para trï¿½s!
 Estou avisando.
 
 65
 00:04:29,800 --> 00:04:33,200
-Esta é a parte onde vocês devem correr.
+Esta ï¿½ a parte onde vocï¿½s devem correr.
 
 66
 00:04:34,500 --> 00:04:38,900
@@ -294,7 +294,7 @@ Yeah!
 
 67
 00:04:40,800 --> 00:04:45,400
-E não voltem.
+E nï¿½o voltem.
 
 68
 00:04:46,200 --> 00:04:51,800
@@ -303,43 +303,43 @@ Criaturas de contos de fada.
 
 69
 00:04:55,100 --> 00:05:00,800
-Certo, esta está cheia.
+Certo, esta estï¿½ cheia.
 Leve-a embora.
 
 70
 00:05:02,800 --> 00:05:04,300
-Dê-me isso.
+Dï¿½-me isso.
 
 71
 00:05:04,800 --> 00:05:06,000
-Seus dias de vôo estão acabados.
+Seus dias de vï¿½o estï¿½o acabados.
 
 72
 00:05:06,100 --> 00:05:07,800
-Aqui estão 25 moedas de prata pela bruxa.
+Aqui estï¿½o 25 moedas de prata pela bruxa.
 
 73
 00:05:07,800 --> 00:05:09,600
-Próximo.
+Prï¿½ximo.
 -Venha.
 
 74
 00:05:13,200 --> 00:05:17,100
-Sente lá!
+Sente lï¿½!
 E fique quieto!
 
 75
 00:05:17,400 --> 00:05:19,500
-Esta cela é tão pequena.
+Esta cela ï¿½ tï¿½o pequena.
 
 76
 00:05:19,800 --> 00:05:22,000
-Você não deveria me entregar. Nunca
+Vocï¿½ nï¿½o deveria me entregar. Nunca
 empacarei novamente. Eu posso mudar.
 
 77
 00:05:22,200 --> 00:05:23,500
-Por favor, dê-me outra chance.
+Por favor, dï¿½-me outra chance.
 
 78
 00:05:23,800 --> 00:05:25,100
@@ -347,7 +347,7 @@ Fique quieto.
 
 79
 00:05:25,200 --> 00:05:27,000
-Próximo.
+Prï¿½ximo.
 O que temos aqui?
 
 80
@@ -356,7 +356,7 @@ Este pequeno boneco de madeira.
 
 81
 00:05:29,900 --> 00:05:32,100
-Não sou um boneco,
+Nï¿½o sou um boneco,
 sou um garoto de verdade.
 
 82
@@ -366,7 +366,7 @@ Tire-o daqui.
 
 83
 00:05:38,700 --> 00:05:40,800
-Próximo.
+Prï¿½ximo.
 O que temos?
 
 84
@@ -376,11 +376,11 @@ Tenho um burro falante.
 85
 00:05:44,900 --> 00:05:47,900
 Certo. Isto vale 10 moedas.
-Se você puder provar.
+Se vocï¿½ puder provar.
 
 86
 00:05:48,300 --> 00:05:50,200
-Vamos lá, amiguinho.
+Vamos lï¿½, amiguinho.
 
 87
 00:05:52,900 --> 00:05:54,900
@@ -388,22 +388,22 @@ Bem ...
 
 88
 00:05:54,700 --> 00:05:56,900
-Ele só está um pouco...
+Ele sï¿½ estï¿½ um pouco...
 apenas um pouco nervoso.
 
 89
 00:05:57,200 --> 00:05:59,600
-Ele é realmente...
-ele é muito tagarela.
+Ele ï¿½ realmente...
+ele ï¿½ muito tagarela.
 
 90
 00:06:00,200 --> 00:06:02,400
-Chega, já ouvi o bastante,
+Chega, jï¿½ ouvi o bastante,
 guardas.
 
 91
 00:06:02,600 --> 00:06:05,500
-Não, não, ele fala, muito bem!
+Nï¿½o, nï¿½o, ele fala, muito bem!
 
 92
 00:06:05,700 --> 00:06:08,900
@@ -413,12 +413,12 @@ Eu adoro falar.
 93
 00:06:08,900 --> 00:06:11,900
 Sou a coisa mais falante
-que você jamais viu.
+que vocï¿½ jamais viu.
 
 94
 00:06:11,900 --> 00:06:18,000
 Levem-na daqui.
-Não, não eu juro.
+Nï¿½o, nï¿½o eu juro.
 
 95
 00:06:21,700 --> 00:06:22,800
@@ -432,7 +432,7 @@ Ele pode voar.
 97
 00:06:24,600 --> 00:06:27,300
 Ele pode falar.
--É isso aí, bobão!
+-ï¿½ isso aï¿½, bobï¿½o!
 
 98
 00:06:27,500 --> 00:06:30,300
@@ -441,7 +441,7 @@ burro falante voador!
 
 99
 00:06:30,600 --> 00:06:31,900
-Talvez já tenham visto
+Talvez jï¿½ tenham visto
 uma casa voadora.
 
 100
@@ -463,7 +463,7 @@ Peguem-no. Por aqui. Depressa!
 
 104
 00:07:05,300 --> 00:07:09,300
-Você aí, Ogro.
+Vocï¿½ aï¿½, Ogro.
 -Eu.
 
 105
@@ -473,11 +473,11 @@ Por ordem de Lorde Farquaad.
 106
 00:07:11,100 --> 00:07:14,000
 Estou autorizado a levar
-vocês dois presos
+vocï¿½s dois presos
 
 107
 00:07:14,000 --> 00:07:20,000
-e transportá-los a um
+e transportï¿½-los a um
 local de reassentamento designado.
 
 108
@@ -486,7 +486,7 @@ Realmente?
 
 109
 00:07:21,800 --> 00:07:24,300
-Você e que exército?
+Vocï¿½ e que exï¿½rcito?
 
 110
 00:07:34,500 --> 00:07:36,400
@@ -494,12 +494,12 @@ Posso te dizer algo?
 
 111
 00:07:36,500 --> 00:07:40,300
-Ouça, você foi realmente
-ótimo lá atrás. Incrível.
+Ouï¿½a, vocï¿½ foi realmente
+ï¿½timo lï¿½ atrï¿½s. Incrï¿½vel.
 
 112
 00:07:40,500 --> 00:07:43,500
-Está falando...
+Estï¿½ falando...
 
 113
 00:07:43,700 --> 00:07:45,300
@@ -507,25 +507,25 @@ comigo?
 
 114
 00:07:46,100 --> 00:07:47,400
-Sim, estava falando com você.
+Sim, estava falando com vocï¿½.
 
 115
 00:07:47,600 --> 00:07:50,300
-Posso te dizer que você foi realmente
-ótimo lá atrás com os guardas.
+Posso te dizer que vocï¿½ foi realmente
+ï¿½timo lï¿½ atrï¿½s com os guardas.
 
 116
 00:07:50,300 --> 00:07:51,300
-Eles estavam se achando o máximo.
+Eles estavam se achando o mï¿½ximo.
 
 117
 00:07:51,500 --> 00:07:53,100
-Aí, você apenas se mostrou e BAM.
+Aï¿½, vocï¿½ apenas se mostrou e BAM.
 
 118
 00:07:53,200 --> 00:07:55,200
-Eles tropeçaram sobre eles mesmos
-como bebês nas árvores.
+Eles tropeï¿½aram sobre eles mesmos
+como bebï¿½s nas ï¿½rvores.
 
 119
 00:07:55,400 --> 00:07:57,000
@@ -533,15 +533,15 @@ Isso realmente me fez bem.
 
 120
 00:07:57,000 --> 00:07:58,000
-Que ótimo.
+Que ï¿½timo.
 
 121
 00:07:58,200 --> 00:08:00,000
-Cara, é bom estar livre.
+Cara, ï¿½ bom estar livre.
 
 122
 00:08:00,200 --> 00:08:03,400
-Por que não vai festejar
+Por que nï¿½o vai festejar
 sua liberdade com seus amigos?
 
 123
@@ -550,25 +550,25 @@ Mas eu...
 
 124
 00:08:07,000 --> 00:08:08,900
-não tenho amigos,
+nï¿½o tenho amigos,
 
 125
 00:08:09,000 --> 00:08:11,200
-e eu não vou lá sozinho.
+e eu nï¿½o vou lï¿½ sozinho.
 
 126
 00:08:11,900 --> 00:08:13,200
 Ei, espere um pouco,
-tive uma ótima idéia.
+tive uma ï¿½tima idï¿½ia.
 
 127
 00:08:13,400 --> 00:08:14,600
-Ficarei com você.
+Ficarei com vocï¿½.
 
 128
 00:08:14,900 --> 00:08:16,000
-Você é uma malvada
-máquina verde de lutar.
+Vocï¿½ ï¿½ uma malvada
+mï¿½quina verde de lutar.
 
 129
 00:08:16,200 --> 00:08:21,000
@@ -581,26 +581,26 @@ Isso foi muito assustador.
 
 131
 00:08:26,100 --> 00:08:27,600
-Se não se importar
+Se nï¿½o se importar
 que eu diga,
 
 132
 00:08:27,600 --> 00:08:29,200
-se isso não funcionar seu hálito certamente
-fará o serviço, porque...
+se isso nï¿½o funcionar seu hï¿½lito certamente
+farï¿½ o serviï¿½o, porque...
 
 133
 00:08:29,300 --> 00:08:31,600
-você precisa definitivamente
+vocï¿½ precisa definitivamente
 de um tic-tac ou alguma coisa,
 
 134
 00:08:31,800 --> 00:08:34,200
-porque seu hálito fede!
+porque seu hï¿½lito fede!
 
 135
 00:08:34,500 --> 00:08:36,000
-Cara, você quase queimou
+Cara, vocï¿½ quase queimou
 os pelos do meu nariz.
 
 136
@@ -609,7 +609,7 @@ Como no dia...
 
 137
 00:08:39,100 --> 00:08:40,400
-...e aí eu comi algumas
+...e aï¿½ eu comi algumas
 frutinhas estragadas.
 
 138
@@ -619,7 +619,7 @@ pelo meu traseiro nesse dia.
 
 139
 00:08:42,900 --> 00:08:46,500
-Por que está me seguindo?
+Por que estï¿½ me seguindo?
 
 140
 00:08:46,800 --> 00:08:49,900
@@ -628,12 +628,12 @@ Eu lhe digo porque.
 141
 00:08:50,200 --> 00:08:52,200
 Porque eu estou
-completamente só,
+completamente sï¿½,
 
 142
 00:08:52,500 --> 00:08:56,300
-não há ninguém aqui
-além de mim.
+nï¿½o hï¿½ ninguï¿½m aqui
+alï¿½m de mim.
 
 143
 00:08:56,500 --> 00:08:58,500
@@ -642,12 +642,12 @@ problemas se foram.
 
 144
 00:08:58,600 --> 00:09:03,500
-Não há ninguém para
+Nï¿½o hï¿½ ninguï¿½m para
 zombar de mim.
 
 145
 00:09:03,800 --> 00:09:05,900
-Mas você tem
+Mas vocï¿½ tem
 de ter amigos ...
 
 146
@@ -656,13 +656,13 @@ Pare de cantar.
 
 147
 00:09:08,000 --> 00:09:10,500
-Não me admira que
-não tenha amigos.
+Nï¿½o me admira que
+nï¿½o tenha amigos.
 
 148
 00:09:11,600 --> 00:09:14,100
-Uau! Só um amigo de verdade
-seria tão cruelmente sincero.
+Uau! Sï¿½ um amigo de verdade
+seria tï¿½o cruelmente sincero.
 
 149
 00:09:14,200 --> 00:09:15,800
@@ -683,7 +683,7 @@ Ah...
 
 153
 00:09:24,500 --> 00:09:27,000
-Não! Sou um Ogro.
+Nï¿½o! Sou um Ogro.
 
 154
 00:09:27,100 --> 00:09:30,100
@@ -692,11 +692,11 @@ e ancinhos!
 
 155
 00:09:30,100 --> 00:09:33,600
-Isso não te incomoda?
+Isso nï¿½o te incomoda?
 
 156
 00:09:33,600 --> 00:09:35,000
-Não.
+Nï¿½o.
 
 157
 00:09:35,200 --> 00:09:37,300
@@ -705,7 +705,7 @@ Verdade?
 
 158
 00:09:37,600 --> 00:09:40,200
-Cara, gosto de você.
+Cara, gosto de vocï¿½.
 Qual o seu nome?
 
 159
@@ -718,21 +718,21 @@ Shrek?!
 
 161
 00:09:46,000 --> 00:09:47,200
-Sabe o que eu gosto em você?
+Sabe o que eu gosto em vocï¿½?
 
 162
 00:09:47,200 --> 00:09:48,600
-Você tem aquela coisa de:
+Vocï¿½ tem aquela coisa de:
 
 163
 00:09:48,800 --> 00:09:50,700
-"Eu não me importo
+"Eu nï¿½o me importo
 com o que pensam de mim".
 
 164
 00:09:51,000 --> 00:09:55,300
 Eu gosto disso, eu respeito isso, Shrek.
-Você está certo.
+Vocï¿½ estï¿½ certo.
 
 165
 00:09:55,700 --> 00:09:57,400
@@ -745,17 +745,17 @@ num lugar desses?
 
 167
 00:10:00,000 --> 00:10:02,400
-Esta é minha casa.
+Esta ï¿½ minha casa.
 
 168
 00:10:03,900 --> 00:10:07,200
-Que adorável.
-Você é um ótimo decorador.
+Que adorï¿½vel.
+Vocï¿½ ï¿½ um ï¿½timo decorador.
 
 169
 00:10:07,200 --> 00:10:09,400
-É maravilhoso o que fez
-com um modesto orçamento.
+ï¿½ maravilhoso o que fez
+com um modesto orï¿½amento.
 
 170
 00:10:09,500 --> 00:10:12,900
@@ -764,8 +764,8 @@ que rocha bonita.
 
 171
 00:10:18,600 --> 00:10:21,100
-Acho que você não se
-diverte muito, não é?
+Acho que vocï¿½ nï¿½o se
+diverte muito, nï¿½o ï¿½?
 
 172
 00:10:21,200 --> 00:10:23,000
@@ -773,27 +773,27 @@ Gosto da minha privacidade.
 
 173
 00:10:23,300 --> 00:10:26,200
-Eu também. É outra coisa
+Eu tambï¿½m. ï¿½ outra coisa
 que temos em comum.
 
 174
 00:10:26,400 --> 00:10:27,500
 Como eu odeio quando
-tem alguém na sua frente.
+tem alguï¿½m na sua frente.
 
 175
 00:10:27,500 --> 00:10:29,200
-Você tenta lhes dar uma dica
-e eles não saem.
+Vocï¿½ tenta lhes dar uma dica
+e eles nï¿½o saem.
 
 176
 00:10:29,200 --> 00:10:32,500
-E então há aquele silêncio
-constrangedor, você sabe.
+E entï¿½o hï¿½ aquele silï¿½ncio
+constrangedor, vocï¿½ sabe.
 
 177
 00:10:35,500 --> 00:10:37,100
-Posso ficar com você?
+Posso ficar com vocï¿½?
 
 178
 00:10:37,100 --> 00:10:38,400
@@ -801,7 +801,7 @@ O que?
 
 179
 00:10:38,500 --> 00:10:40,600
-Posso ficar com você, por favor?
+Posso ficar com vocï¿½, por favor?
 
 180
 00:10:41,100 --> 00:10:42,100
@@ -813,34 +813,34 @@ Verdade?
 
 182
 00:10:43,000 --> 00:10:44,200
-Não.
+Nï¿½o.
 
 183
 00:10:44,200 --> 00:10:45,300
-Por favor, não quero voltar.
+Por favor, nï¿½o quero voltar.
 
 184
 00:10:45,500 --> 00:10:47,600
-Você não sabe como é
+Vocï¿½ nï¿½o sabe como ï¿½
 ser considerado um esquisito.
 
 185
 00:10:47,900 --> 00:10:49,700
-Bem... talvez você saiba,
+Bem... talvez vocï¿½ saiba,
 
 186
 00:10:49,700 --> 00:10:51,000
-mas é por isso que
+mas ï¿½ por isso que
 temos que ficar juntos.
 
 187
 00:10:51,100 --> 00:10:52,800
-Você tem de me deixar ficar.
+Vocï¿½ tem de me deixar ficar.
 Por favor...
 
 188
 00:10:53,100 --> 00:10:55,200
-OK, está bom.
+OK, estï¿½ bom.
 
 189
 00:10:55,400 --> 00:10:57,700
@@ -849,16 +849,16 @@ Mas somente uma noite.
 
 190
 00:10:58,000 --> 00:10:59,200
-Ah, o que está fazendo... Não!
+Ah, o que estï¿½ fazendo... Nï¿½o!
 
 191
 00:10:59,200 --> 00:11:01,600
 Isso vai ser divertido, ficamos acordados
-até tarde, trocamos histórias...
+atï¿½ tarde, trocamos histï¿½rias...
 
 192
 00:11:02,200 --> 00:11:03,300
-e de manhã...
+e de manhï¿½...
 
 193
 00:11:03,600 --> 00:11:06,500
@@ -870,20 +870,20 @@ Onde eu durmo?
 
 195
 00:11:08,800 --> 00:11:11,300
-Lá fora!
+Lï¿½ fora!
 
 196
 00:11:12,300 --> 00:11:13,800
-Acho que lá fora está legal.
+Acho que lï¿½ fora estï¿½ legal.
 
 197
 00:11:14,100 --> 00:11:15,400
-Eu não te conheço e você não me conhece.
+Eu nï¿½o te conheï¿½o e vocï¿½ nï¿½o me conhece.
 
 198
 00:11:15,500 --> 00:11:18,300
-... então acho que lá fora
-é melhor.
+... entï¿½o acho que lï¿½ fora
+ï¿½ melhor.
 
 199
 00:11:19,200 --> 00:11:21,100
@@ -895,8 +895,8 @@ Boa noite.
 
 201
 00:11:27,900 --> 00:11:31,600
-Gosto dos espaços abertos, de verdade.
-Sou um Burro, eu nasci lá fora.
+Gosto dos espaï¿½os abertos, de verdade.
+Sou um Burro, eu nasci lï¿½ fora.
 
 202
 00:11:31,800 --> 00:11:36,800
@@ -904,13 +904,13 @@ Sentado aqui fora, sozinho.
 
 203
 00:11:36,900 --> 00:11:41,600
-Eu estou completamente só,
-não há ninguém aqui além de mim.
+Eu estou completamente sï¿½,
+nï¿½o hï¿½ ninguï¿½m aqui alï¿½m de mim.
 
 204
 00:12:46,500 --> 00:12:48,000
 Achei que tivesse dito
-para você ficar lá fora.
+para vocï¿½ ficar lï¿½ fora.
 
 205
 00:12:48,800 --> 00:12:52,100
@@ -918,17 +918,17 @@ Estou aqui fora.
 
 206
 00:12:58,100 --> 00:13:01,000
-Bem, cavalheiros, não se compara a
-fazenda, mas que escolha nós temos?
+Bem, cavalheiros, nï¿½o se compara a
+fazenda, mas que escolha nï¿½s temos?
 
 207
 00:13:01,200 --> 00:13:04,600
-Não é nossa casa,
-mas servirá muito bem.
+Nï¿½o ï¿½ nossa casa,
+mas servirï¿½ muito bem.
 
 208
 00:13:04,900 --> 00:13:07,200
-Que cama agradável.
+Que cama agradï¿½vel.
 Te peguei.
 
 209
@@ -937,11 +937,11 @@ Achei um queijo.
 
 210
 00:13:10,200 --> 00:13:11,700
-Hum, coisa horrível.
+Hum, coisa horrï¿½vel.
 
 211
 00:13:12,500 --> 00:13:13,900
-É você, Gorder?
+ï¿½ vocï¿½, Gorder?
 
 212
 00:13:14,200 --> 00:13:15,500
@@ -949,18 +949,18 @@ Como soube?
 
 213
 00:13:15,500 --> 00:13:18,400
-Chega, o que estão
+Chega, o que estï¿½o
 fazendo em minha casa?
 
 214
 00:13:22,400 --> 00:13:24,600
-Oh, não, não, não ...
+Oh, nï¿½o, nï¿½o, nï¿½o ...
 Coisas mortas fora da mesa.
 
 215
 00:13:24,700 --> 00:13:27,400
 Onde quer que a coloquemos?
-A cama está ocupada.
+A cama estï¿½ ocupada.
 
 216
 00:13:31,400 --> 00:13:32,400
@@ -968,12 +968,12 @@ O que foi?
 
 217
 00:13:32,900 --> 00:13:35,600
-Eu vivo num pântano.
+Eu vivo num pï¿½ntano.
 Eu coloquei avisos.
 
 218
 00:13:35,700 --> 00:13:38,000
-Sou um Ogro terrível.
+Sou um Ogro terrï¿½vel.
 
 219
 00:13:38,100 --> 00:13:43,000
@@ -982,15 +982,15 @@ para ter um pouco de privacidade?
 
 220
 00:13:44,100 --> 00:13:51,200
-Oh, não! Não, não!
+Oh, nï¿½o! Nï¿½o, nï¿½o!
 
 221
 00:13:58,600 --> 00:14:02,400
-O que estão fazendo em meu pântano?
+O que estï¿½o fazendo em meu pï¿½ntano?
 
 222
 00:14:10,300 --> 00:14:13,300
-Saiam daqui, todos vocês,
+Saiam daqui, todos vocï¿½s,
 movam-se.
 
 223
@@ -1000,22 +1000,22 @@ Hapaya! Hapaya! Hey!
 
 224
 00:14:16,600 --> 00:14:19,400
-Não, não, lá não.
-Lá não.
+Nï¿½o, nï¿½o, lï¿½ nï¿½o.
+Lï¿½ nï¿½o.
 
 225
 00:14:23,900 --> 00:14:26,200
-Não olhe para mim.
-Eu não os convidei.
+Nï¿½o olhe para mim.
+Eu nï¿½o os convidei.
 
 226
 00:14:26,500 --> 00:14:29,200
-Ninguém nos convidou.
+Ninguï¿½m nos convidou.
 -O que?
 
 227
 00:14:29,500 --> 00:14:31,900
-Fomos forçados a vir aqui.
+Fomos forï¿½ados a vir aqui.
 -Por quem?
 
 228
@@ -1029,26 +1029,26 @@ assinou um mandato de despejo.
 
 230
 00:14:39,000 --> 00:14:40,300
-Está bem.
+Estï¿½ bem.
 
 231
 00:14:40,600 --> 00:14:44,800
-Quem sabe onde está
+Quem sabe onde estï¿½
 este tal de Farquaad?
 
 232
 00:14:46,500 --> 00:14:48,300
 Eu sei.
-Eu sei onde ele está.
+Eu sei onde ele estï¿½.
 
 233
 00:14:48,600 --> 00:14:51,600
-Há mais alguém que
-sabe onde encontrá-lo?
+Hï¿½ mais alguï¿½m que
+sabe onde encontrï¿½-lo?
 
 234
 00:14:53,600 --> 00:14:55,000
-Ninguém mais?
+Ninguï¿½m mais?
 
 235
 00:14:56,600 --> 00:14:59,000
@@ -1057,16 +1057,16 @@ Eu, eu.
 
 236
 00:15:00,600 --> 00:15:07,400
-Ok, prestem atenção coisas
+Ok, prestem atenï¿½ï¿½o coisas
 de contos de fadas.
 
 237
 00:15:07,700 --> 00:15:09,700
-Não se sintam confortáveis.
+Nï¿½o se sintam confortï¿½veis.
 
 238
 00:15:09,900 --> 00:15:12,100
-Suas boas-vindas estão
+Suas boas-vindas estï¿½o
 oficialmente suspensas.
 
 239
@@ -1076,16 +1076,16 @@ tal de Farquaad agora mesmo e
 
 240
 00:15:16,300 --> 00:15:19,500
-tirá-los da minha terra e mandá-los de
+tirï¿½-los da minha terra e mandï¿½-los de
 volta para o lugar de onde vieram.
 
 241
 00:15:28,900 --> 00:15:31,600
-Você, você vem comigo.
+Vocï¿½, vocï¿½ vem comigo.
 
 242
 00:15:32,100 --> 00:15:34,100
-É o que queria ouvir, cara.
+ï¿½ o que queria ouvir, cara.
 
 243
 00:15:34,200 --> 00:15:40,100
@@ -1099,7 +1099,7 @@ Canta comigo, Shrek.
 
 245
 00:15:43,400 --> 00:15:45,600
-Não posso esperar,
+Nï¿½o posso esperar,
 para estar na estrada de novo.
 
 246
@@ -1117,39 +1117,39 @@ Tudo bem.
 
 249
 00:16:21,900 --> 00:16:23,500
-Já chega.
+Jï¿½ chega.
 
 250
 00:16:23,600 --> 00:16:24,800
-Ele está pronto para falar.
+Ele estï¿½ pronto para falar.
 
 251
 00:16:38,500 --> 00:16:42,800
-Corra tão rápido quanto puder.
-Você não pode me pegar.
+Corra tï¿½o rï¿½pido quanto puder.
+Vocï¿½ nï¿½o pode me pegar.
 
 252
 00:16:43,000 --> 00:16:44,300
-Sou o pão de gengibre.
+Sou o pï¿½o de gengibre.
 
 253
 00:16:44,600 --> 00:16:45,800
-Você é um monstro.
+Vocï¿½ ï¿½ um monstro.
 
 254
 00:16:46,000 --> 00:16:48,100
-Eu não sou o monstro aqui.
-Você é.
+Eu nï¿½o sou o monstro aqui.
+Vocï¿½ ï¿½.
 
 255
 00:16:48,200 --> 00:16:52,700
-Você e o resto desse lixo de contos de
+Vocï¿½ e o resto desse lixo de contos de
 fada envenenando meu mundo perfeito.
 
 256
 00:16:53,100 --> 00:16:54,500
 Agora, conte-me
-onde estão os outros?
+onde estï¿½o os outros?
 
 257
 00:16:54,700 --> 00:16:55,700
@@ -1158,11 +1158,11 @@ Coma-me.
 258
 00:16:57,600 --> 00:16:59,900
 Estou tentando ser justo
-com vocês, criaturas.
+com vocï¿½s, criaturas.
 
 259
 00:17:00,100 --> 00:17:02,800
-Agora minha paciência
+Agora minha paciï¿½ncia
 chegou ao fim.
 
 260
@@ -1171,15 +1171,15 @@ Diga-me ou eu ...
 
 261
 00:17:04,100 --> 00:17:05,600
-Não, meus botões não.
+Nï¿½o, meus botï¿½es nï¿½o.
 
 262
 00:17:05,600 --> 00:17:06,900
-Não meus botões engomados.
+Nï¿½o meus botï¿½es engomados.
 
 263
 00:17:06,900 --> 00:17:08,900
-Quem os está escondendo?
+Quem os estï¿½ escondendo?
 
 264
 00:17:09,100 --> 00:17:11,300
@@ -1199,7 +1199,7 @@ O homem bolinho?
 
 268
 00:17:17,000 --> 00:17:18,200
-Conheço o homem bolinho.
+Conheï¿½o o homem bolinho.
 
 269
 00:17:18,500 --> 00:17:20,200
@@ -1207,7 +1207,7 @@ Que vive na rua Drury?
 
 270
 00:17:20,500 --> 00:17:23,900
-Ela é casada
+Ela ï¿½ casada
 com o homem bolinho.
 
 271
@@ -1220,26 +1220,26 @@ com o homem bolinho.
 
 273
 00:17:26,200 --> 00:17:28,400
--Ela é casada
+-Ela ï¿½ casada
 com o homem bolinho.
 
 274
 00:17:28,800 --> 00:17:30,800
 Meu senhor,
-nós o encontramos.
+nï¿½s o encontramos.
 
 275
 00:17:31,000 --> 00:17:33,600
-O que estão esperando?
+O que estï¿½o esperando?
 Tragam-no aqui.
 
 276
 00:17:48,400 --> 00:17:49,800
-Espelho mágico.
+Espelho mï¿½gico.
 
 277
 00:17:50,100 --> 00:17:55,100
-Não lhe conte nada.
+Nï¿½o lhe conte nada.
 
 278
 00:17:56,200 --> 00:17:58,100
@@ -1251,13 +1251,13 @@ Espelho, espelho, na parede.
 
 280
 00:18:00,200 --> 00:18:03,800
-Este não é o mais
+Este nï¿½o ï¿½ o mais
 perfeito reino de todos?
 
 281
 00:18:03,800 --> 00:18:06,900
 Tecnicamente,
-você não é um rei.
+vocï¿½ nï¿½o ï¿½ um rei.
 
 282
 00:18:07,100 --> 00:18:09,600
@@ -1265,12 +1265,12 @@ Ah..., Malvadeza.
 
 283
 00:18:09,800 --> 00:18:11,700
--Você estava dizendo.
+-Vocï¿½ estava dizendo.
 O que eu dizia era ...
 
 284
 00:18:11,900 --> 00:18:13,100
-...você não é um rei,
+...vocï¿½ nï¿½o ï¿½ um rei,
 ainda.
 
 285
@@ -1279,7 +1279,7 @@ Mas pode se tornar um.
 
 286
 00:18:15,500 --> 00:18:18,100
-Tudo o que tem a fazer é
+Tudo o que tem a fazer ï¿½
 casar com uma princesa.
 
 287
@@ -1288,22 +1288,22 @@ Continue.
 
 288
 00:18:20,600 --> 00:18:23,900
-Então, sente-se e
+Entï¿½o, sente-se e
 relaxe, meu senhor.
 
 289
 00:18:24,000 --> 00:18:28,600
-Pois, é hora de encontrar
-as solteironas disponíveis para hoje.
+Pois, ï¿½ hora de encontrar
+as solteironas disponï¿½veis para hoje.
 
 290
 00:18:28,800 --> 00:18:31,700
-Aqui estão elas.
+Aqui estï¿½o elas.
 
 291
 00:18:32,300 --> 00:18:35,800
-Solteirona número 1 foi abusada mentalmente
-e é de um reino muito distante.
+Solteirona nï¿½mero 1 foi abusada mentalmente
+e ï¿½ de um reino muito distante.
 
 292
 00:18:36,800 --> 00:18:39,100
@@ -1313,15 +1313,15 @@ a qualquer hora.
 293
 00:18:39,600 --> 00:18:43,200
 Seus passa-tempo incluem cozinhar e
-limpar para 2 irmãs malignas.
+limpar para 2 irmï¿½s malignas.
 
 294
 00:18:43,300 --> 00:18:46,200
-Dê as boas-vindas a Cinderela.
+Dï¿½ as boas-vindas a Cinderela.
 
 295
 00:18:46,300 --> 00:18:49,500
-Solteirona número 2 usa uma capa
+Solteirona nï¿½mero 2 usa uma capa
 e vem de uma terra de fantasia.
 
 296
@@ -1330,40 +1330,40 @@ Embora viva com 7 outros homens,
 
 297
 00:18:51,700 --> 00:18:52,100
-ela não é fácil.
+ela nï¿½o ï¿½ fï¿½cil.
 
 298
 00:18:52,300 --> 00:18:56,300
-Apenas beije os seus lábios mortos e congelados
-e descubra que fio elétrico ela é.
+Apenas beije os seus lï¿½bios mortos e congelados
+e descubra que fio elï¿½trico ela ï¿½.
 
 299
 00:18:56,800 --> 00:18:59,900
-Vamos lá. Entregue-se a...
+Vamos lï¿½. Entregue-se a...
 Branca de neve.
 
 300
 00:19:00,200 --> 00:19:02,100
-E por último mas
-certamente não menos.
+E por ï¿½ltimo mas
+certamente nï¿½o menos.
 
 301
 00:19:02,300 --> 00:19:04,400
-Solteirona número 3 é uma ruiva,
+Solteirona nï¿½mero 3 ï¿½ uma ruiva,
 
 302
 00:19:04,400 --> 00:19:07,500
-mantida por um dragão em um castelo
+mantida por um dragï¿½o em um castelo
 cercado por lava fervente.
 
 303
 00:19:07,600 --> 00:19:08,900
-Mas não deixe isso desanimá-lo.
+Mas nï¿½o deixe isso desanimï¿½-lo.
 
 304
 00:19:09,000 --> 00:19:12,400
-Ela é uma pistola carregada que gosta de
-Piña Coladas e ser pega na chuva.
+Ela ï¿½ uma pistola carregada que gosta de
+Piï¿½a Coladas e ser pega na chuva.
 
 305
 00:19:12,600 --> 00:19:16,700
@@ -1371,44 +1371,44 @@ Sua para o salvamento, Princesa Fiona.
 
 306
 00:19:16,900 --> 00:19:21,100
-Quem seria? Solteirona número 1,
-solteirona número 2
+Quem seria? Solteirona nï¿½mero 1,
+solteirona nï¿½mero 2
 
 307
 00:19:21,300 --> 00:19:23,500
-ou solteirona número 3?
+ou solteirona nï¿½mero 3?
 
 308
 00:19:23,700 --> 00:19:27,200
--Dois... -Três! -Dois!
+-Dois... -Trï¿½s! -Dois!
 
 309
 00:19:27,400 --> 00:19:29,100
-Um. Não, não, não.
+Um. Nï¿½o, nï¿½o, nï¿½o.
 
 310
 00:19:29,300 --> 00:19:31,400
-Três. Pegue a número
-três meu Lorde.
+Trï¿½s. Pegue a nï¿½mero
+trï¿½s meu Lorde.
 
 311
 00:19:31,600 --> 00:19:34,500
-Ok, ok. Número três.
+Ok, ok. Nï¿½mero trï¿½s.
 
 312
 00:19:34,800 --> 00:19:43,100
 Lorde Farquaad.
-Você escolheu a princesa Fiona.
+Vocï¿½ escolheu a princesa Fiona.
 
 313
 00:19:44,600 --> 00:19:49,100
-Ela é ótima. Fiona.
-Ela é perfeita.
+Ela ï¿½ ï¿½tima. Fiona.
+Ela ï¿½ perfeita.
 
 314
 00:19:49,400 --> 00:19:51,400
 Tudo o que preciso
-é encontrar alguém...
+ï¿½ encontrar alguï¿½m...
 
 315
 00:19:51,600 --> 00:19:54,200
@@ -1422,7 +1422,7 @@ que acontece a noite...
 
 317
 00:19:56,200 --> 00:19:57,700
-Silêncio!
+Silï¿½ncio!
 
 318
 00:19:57,900 --> 00:20:00,700
@@ -1432,19 +1432,19 @@ minha rainha.
 319
 00:20:00,700 --> 00:20:04,700
 E DuLoc finalmente
-terá um rei perfeito.
+terï¿½ um rei perfeito.
 
 320
 00:20:05,000 --> 00:20:07,000
-Capitão, prepare seu melhor homem.
+Capitï¿½o, prepare seu melhor homem.
 
 321
 00:20:07,300 --> 00:20:10,000
-Nós faremos um torneio.
+Nï¿½s faremos um torneio.
 
 322
 00:20:14,000 --> 00:20:15,800
-É isso, lá, logo ali, é DuLoc.
+ï¿½ isso, lï¿½, logo ali, ï¿½ DuLoc.
 
 323
 00:20:16,100 --> 00:20:17,500
@@ -1452,12 +1452,12 @@ Eu te falei que encontrava.
 
 324
 00:20:19,200 --> 00:20:22,300
-Então esse deve ser
+Entï¿½o esse deve ser
 o castelo do Lorde Farquaad.
 
 325
 00:20:22,700 --> 00:20:24,600
-Aha, este é o lugar.
+Aha, este ï¿½ o lugar.
 
 326
 00:20:24,800 --> 00:20:27,800
@@ -1470,8 +1470,8 @@ Hey, hey espere Shrek!
 
 328
 00:20:38,700 --> 00:20:41,000
--Hey, você!
--Não, não!
+-Hey, vocï¿½!
+-Nï¿½o, nï¿½o!
 
 329
 00:20:41,700 --> 00:20:43,100
@@ -1479,11 +1479,11 @@ Espere um pouco.
 
 330
 00:20:43,700 --> 00:20:45,800
-Não vou te comer!
+Nï¿½o vou te comer!
 
 331
 00:21:19,800 --> 00:21:21,500
-Está quieto.
+Estï¿½ quieto.
 
 332
 00:21:23,900 --> 00:21:26,500
@@ -1491,7 +1491,7 @@ Muito quieto.
 
 333
 00:21:28,300 --> 00:21:31,000
-Onde está todo mundo?
+Onde estï¿½ todo mundo?
 
 334
 00:21:31,200 --> 00:21:33,300
@@ -1505,29 +1505,29 @@ que cidade perfeita."
 336
 00:21:50,000 --> 00:21:53,500
 "Aqui temos regras,
-deixe-nos dizê-las."
+deixe-nos dizï¿½-las."
 
 337
 00:21:53,500 --> 00:21:55,400
-"Não faça ondas, fique na fila,"
+"Nï¿½o faï¿½a ondas, fique na fila,"
 
 338
 00:21:55,400 --> 00:21:59,400
 "e nos daremos bem.
-DuLoc é o lugar perfeito."
+DuLoc ï¿½ o lugar perfeito."
 
 339
 00:22:01,000 --> 00:22:05,000
-"Não pise na grama, lustre seus sapatos
+"Nï¿½o pise na grama, lustre seus sapatos
 e limpe sua... face."
 
 340
 00:22:05,700 --> 00:22:09,300
-"DuLoc é... DuLoc é..."
+"DuLoc ï¿½... DuLoc ï¿½..."
 
 341
 00:22:09,300 --> 00:22:13,300
-"DuLoc é o lugar perfeito."
+"DuLoc ï¿½ o lugar perfeito."
 
 342
 00:22:22,400 --> 00:22:24,200
@@ -1535,11 +1535,11 @@ Vamos fazer de novo.
 
 343
 00:22:24,200 --> 00:22:25,500
-Não.
+Nï¿½o.
 
 344
 00:22:38,100 --> 00:22:40,400
-Você está no caminho certo
+Vocï¿½ estï¿½ no caminho certo
 para um fundilho amassado.
 
 345
@@ -1548,15 +1548,15 @@ Sinto por isso.
 
 346
 00:22:43,200 --> 00:22:46,200
-O Campeão terá a honra,
+O Campeï¿½o terï¿½ a honra,
 
 347
 00:22:46,200 --> 00:22:47,000
-não, não...
+nï¿½o, nï¿½o...
 
 348
 00:22:47,000 --> 00:22:50,300
-...o privilégio
+...o privilï¿½gio
 de ir em frente e resgatar
 
 349
@@ -1565,16 +1565,16 @@ a doce princesa Fiona
 
 350
 00:22:52,800 --> 00:22:55,700
-da guarda do dragão furioso.
+da guarda do dragï¿½o furioso.
 
 351
 00:22:55,900 --> 00:23:00,300
-Se por alguma razão
-o vencedor não tiver sucesso,
+Se por alguma razï¿½o
+o vencedor nï¿½o tiver sucesso,
 
 352
 00:23:00,400 --> 00:23:03,500
-o próximo tomará seu lugar.
+o prï¿½ximo tomarï¿½ seu lugar.
 
 353
 00:23:03,600 --> 00:23:05,800
@@ -1582,11 +1582,11 @@ e assim por diante.
 
 354
 00:23:06,000 --> 00:23:08,800
-Alguns de vocês podem morrer.
+Alguns de vocï¿½s podem morrer.
 
 355
 00:23:08,800 --> 00:23:14,200
-Mas, é um sacrifício
+Mas, ï¿½ um sacrifï¿½cio
 que estou disposto a fazer.
 
 356
@@ -1595,19 +1595,19 @@ Que o torneio comece.
 
 357
 00:23:25,400 --> 00:23:28,000
-O que é isso?
+O que ï¿½ isso?
 
 358
 00:23:28,700 --> 00:23:30,200
-É medonho!
+ï¿½ medonho!
 
 359
 00:23:30,500 --> 00:23:33,000
-Isso não é muito educado.
+Isso nï¿½o ï¿½ muito educado.
 
 360
 00:23:33,200 --> 00:23:35,200
-Ele é apenas um burro.
+Ele ï¿½ apenas um burro.
 
 361
 00:23:35,400 --> 00:23:37,100
@@ -1620,7 +1620,7 @@ Cavaleiros, novo plano.
 363
 00:23:38,700 --> 00:23:42,300
 Aquele que matar o Ogro
-será nomeado Campeão.
+serï¿½ nomeado Campeï¿½o.
 
 364
 00:23:42,500 --> 00:23:44,200
@@ -1636,16 +1636,16 @@ Espere um pouco.
 
 367
 00:23:50,500 --> 00:23:53,300
-Não podemos resolver
+Nï¿½o podemos resolver
 isso com um chopp?
 
 368
 00:23:54,500 --> 00:23:55,800
-Não?
+Nï¿½o?
 
 369
 00:23:56,100 --> 00:23:58,900
-Está certo então.
+Estï¿½ certo entï¿½o.
 
 370
 00:23:59,200 --> 00:24:01,200
@@ -1653,13 +1653,13 @@ Vamos.
 
 371
 00:24:09,700 --> 00:24:11,900
-<i>Eu não estou amaldiçoando
-a minha reputação</i>
+<i>Eu nï¿½o estou amaldiï¿½oando
+a minha reputaï¿½ï¿½o</i>
 
 372
 00:24:13,600 --> 00:24:16,500
-<i>Você esta vivendo no passado
-é uma nova geração</i>
+<i>Vocï¿½ esta vivendo no passado
+ï¿½ uma nova geraï¿½ï¿½o</i>
 
 373
 00:24:18,200 --> 00:24:20,200
@@ -1668,24 +1668,24 @@ o que ela quiser fazer
 
 374
 00:24:20,200 --> 00:24:22,700
-<i>E isso é o que eu vou fazer</i>
+<i>E isso ï¿½ o que eu vou fazer</i>
 
 375
 00:24:22,700 --> 00:24:26,000
-<i>Eu não estou amaldiçoando
-a minha reputação</i>
+<i>Eu nï¿½o estou amaldiï¿½oando
+a minha reputaï¿½ï¿½o</i>
 
 376
 00:24:27,300 --> 00:24:28,500
-<i>Oh não</i>
+<i>Oh nï¿½o</i>
 
 377
 00:24:28,600 --> 00:24:30,200
-<i>Não, não, não, não, não, não, não</i>
+<i>Nï¿½o, nï¿½o, nï¿½o, nï¿½o, nï¿½o, nï¿½o, nï¿½o</i>
 
 378
 00:24:30,300 --> 00:24:31,000
-<i>Eu não</i>
+<i>Eu nï¿½o</i>
 
 379
 00:24:31,100 --> 00:24:31,900
@@ -1697,40 +1697,40 @@ Hey Shrek! Deixa comigo!
 
 381
 00:24:33,300 --> 00:24:36,200
-<i>Eu não estou amaldiçoando
-a minha reputação.</i>
+<i>Eu nï¿½o estou amaldiï¿½oando
+a minha reputaï¿½ï¿½o.</i>
 
 382
 00:24:37,100 --> 00:24:39,900
 <i>Eu nunca disse que queria
-melhorar minha estação</i>
+melhorar minha estaï¿½ï¿½o</i>
 
 383
 00:24:42,100 --> 00:24:44,500
-<i>E eu só estou me sentindo bem
+<i>E eu sï¿½ estou me sentindo bem
 quando estou me divertindo</i>
 
 384
 00:24:44,600 --> 00:24:47,000
-<i>E por favor não tenho ninguém
+<i>E por favor nï¿½o tenho ninguï¿½m
 --A cadeira.--!</i>
 
 385
 00:24:47,100 --> 00:24:49,100
-<i>Eu não estou amaldiçoando a minha reputação.
---Dê uma cadeirada.--!</i>
+<i>Eu nï¿½o estou amaldiï¿½oando a minha reputaï¿½ï¿½o.
+--Dï¿½ uma cadeirada.--!</i>
 
 386
 00:24:50,900 --> 00:24:51,600
-<i>Oh não</i>
+<i>Oh nï¿½o</i>
 
 387
 00:24:51,700 --> 00:24:53,300
-<i>Não, não, não, não, não, não, não</i>
+<i>Nï¿½o, nï¿½o, nï¿½o, nï¿½o, nï¿½o, nï¿½o, nï¿½o</i>
 
 388
 00:24:53,300 --> 00:24:54,100
-<i>Eu não</i>
+<i>Eu nï¿½o</i>
 
 389
 00:24:54,200 --> 00:24:55,800
@@ -1738,15 +1738,15 @@ quando estou me divertindo</i>
 
 390
 00:24:55,800 --> 00:24:56,600
-<i>Oh não</i>
+<i>Oh nï¿½o</i>
 
 391
 00:24:56,700 --> 00:24:57,500
-<i>Não, não, não, não, não, não, não</i>
+<i>Nï¿½o, nï¿½o, nï¿½o, nï¿½o, nï¿½o, nï¿½o, nï¿½o</i>
 
 392
 00:24:58,300 --> 00:24:59,100
-<i>Eu não</i>
+<i>Eu nï¿½o</i>
 
 393
 00:24:59,200 --> 00:25:00,800
@@ -1759,7 +1759,7 @@ Muito obrigado.
 
 395
 00:25:15,800 --> 00:25:20,000
-Eu estarei aqui até quinta.
+Eu estarei aqui atï¿½ quinta.
 Tentem a vitela!
 
 396
@@ -1768,7 +1768,7 @@ Devo dar a ordem, senhor?
 
 397
 00:25:28,400 --> 00:25:30,500
-Não. Tenho uma idéia melhor.
+Nï¿½o. Tenho uma idï¿½ia melhor.
 
 398
 00:25:30,900 --> 00:25:32,600
@@ -1776,34 +1776,34 @@ Povo de DuLoc,
 
 399
 00:25:32,700 --> 00:25:36,200
-Eu lhes dou nosso campeão!
+Eu lhes dou nosso campeï¿½o!
 
 400
 00:25:38,200 --> 00:25:39,700
-Parabéns!
+Parabï¿½ns!
 
 401
 00:25:39,800 --> 00:25:44,200
-Você ganhou a honra de embarcar
-em uma grande e nobre missão.
+Vocï¿½ ganhou a honra de embarcar
+em uma grande e nobre missï¿½o.
 
 402
 00:25:45,200 --> 00:25:47,100
-Missão?
-Eu já estou numa missão.
+Missï¿½o?
+Eu jï¿½ estou numa missï¿½o.
 
 403
 00:25:47,200 --> 00:25:49,200
-A missão de obter
-meu pântano de volta.
+A missï¿½o de obter
+meu pï¿½ntano de volta.
 
 404
 00:25:49,300 --> 00:25:50,400
-Seu pântano.
+Seu pï¿½ntano.
 
 405
 00:25:50,500 --> 00:25:55,100
-Sim, meu pântano, onde você despejou
+Sim, meu pï¿½ntano, onde vocï¿½ despejou
 suas criaturas de contos de fadas.
 
 406
@@ -1817,8 +1817,8 @@ faremos um trato.
 
 408
 00:25:59,400 --> 00:26:03,600
-Vá nesta missão por mim
-e eu darei seu pântano de volta.
+Vï¿½ nesta missï¿½o por mim
+e eu darei seu pï¿½ntano de volta.
 
 409
 00:26:04,100 --> 00:26:06,300
@@ -1826,7 +1826,7 @@ Exatamente como era antes?
 
 410
 00:26:06,400 --> 00:26:08,900
-Até o último cogumelo
+Atï¿½ o ï¿½ltimo cogumelo
 coberto de lodo.
 
 411
@@ -1835,11 +1835,11 @@ E os invasores.
 
 412
 00:26:10,600 --> 00:26:12,600
-Terão ido embora.
+Terï¿½o ido embora.
 
 413
 00:26:16,200 --> 00:26:19,300
-Que tipo de missão?
+Que tipo de missï¿½o?
 
 414
 00:26:19,500 --> 00:26:20,900
@@ -1847,46 +1847,46 @@ Deixa eu ver se entendi.
 
 415
 00:26:21,100 --> 00:26:22,400
-Vamos encontrar este dragão,
+Vamos encontrar este dragï¿½o,
 
 416
 00:26:22,400 --> 00:26:24,800
 resgatar a princesa e o Farquaad
-dará seu pântano de volta?
+darï¿½ seu pï¿½ntano de volta?
 
 417
 00:26:24,800 --> 00:26:27,100
-Que você não tem, porque ele o encheu com
+Que vocï¿½ nï¿½o tem, porque ele o encheu com
 coisas esquisitas em primeiro lugar.
 
 418
 00:26:27,400 --> 00:26:29,000
--Isto está certo?
+-Isto estï¿½ certo?
 -Sabe de uma coisa?
 
 419
 00:26:29,200 --> 00:26:32,100
-Talvez haja uma razão
-para burros não falarem.
+Talvez haja uma razï¿½o
+para burros nï¿½o falarem.
 
 420
 00:26:32,400 --> 00:26:34,000
-Não entendo Shrek.
+Nï¿½o entendo Shrek.
 
 421
 00:26:34,000 --> 00:26:35,700
-Porque você não fez
+Porque vocï¿½ nï¿½o fez
 alguma coisa de Ogro com eles?
 
 422
 00:26:35,800 --> 00:26:38,100
-Você sabe, estrangulá-los,
+Vocï¿½ sabe, estrangulï¿½-los,
 sitiar suas fortalezas.
 
 423
 00:26:38,100 --> 00:26:40,600
-Moer seus ossos para fazer pão.
-Você sabe, o velho kit de Ogro.
+Moer seus ossos para fazer pï¿½o.
+Vocï¿½ sabe, o velho kit de Ogro.
 
 424
 00:26:40,700 --> 00:26:43,200
@@ -1895,24 +1895,24 @@ Oh, sabe de uma coisa?
 425
 00:26:43,300 --> 00:26:47,100
 Talvez pudesse ter decapitado uma vila
-inteira e colocado suas cabeças em estacas.
+inteira e colocado suas cabeï¿½as em estacas.
 
 426
 00:26:47,200 --> 00:26:51,100
 Pegar uma faca, cortar os seus
-baços e beber seus fluidos.
+baï¿½os e beber seus fluidos.
 
 427
 00:26:51,200 --> 00:26:54,200
-Isso não soa bem à você?
+Isso nï¿½o soa bem ï¿½ vocï¿½?
 
 428
 00:26:54,300 --> 00:26:55,800
-Ah, não, não realmente, não.
+Ah, nï¿½o, nï¿½o realmente, nï¿½o.
 
 429
 00:26:56,400 --> 00:26:59,500
-Para seu conhecimento, há muito mais
+Para seu conhecimento, hï¿½ muito mais
 sobre Ogros do que as pessoas pensam.
 
 430
@@ -1923,59 +1923,59 @@ Exemplo.
 431
 00:27:02,400 --> 00:27:07,500
 Ok, Hamm,
-Ogros são como cebolas.
+Ogros sï¿½o como cebolas.
 
 432
 00:27:08,500 --> 00:27:09,600
 Eles fedem?
-Sim, não.
+Sim, nï¿½o.
 
 433
 00:27:09,700 --> 00:27:11,300
-Ou fazem você chorar?
--Não.
+Ou fazem vocï¿½ chorar?
+-Nï¿½o.
 
 434
 00:27:11,300 --> 00:27:12,500
-Ou vocês deixam elas sob o sol
+Ou vocï¿½s deixam elas sob o sol
 
 435
 00:27:12,600 --> 00:27:14,500
-até ficarem marrons e começarem
+atï¿½ ficarem marrons e comeï¿½arem
 a brotar pelos brancos?
 
 436
 00:27:14,700 --> 00:27:17,400
--Não! Camadas!
-Ogros têm camadas.
+-Nï¿½o! Camadas!
+Ogros tï¿½m camadas.
 
 437
 00:27:17,500 --> 00:27:21,400
-Cebolas têm camadas,
-Ogros têm camadas.
+Cebolas tï¿½m camadas,
+Ogros tï¿½m camadas.
 
 438
 00:27:22,600 --> 00:27:25,300
 Captou?
-Nós ambos temos camadas.
+Nï¿½s ambos temos camadas.
 
 439
 00:27:27,200 --> 00:27:31,200
-Oh, vocês dois têm camadas.
+Oh, vocï¿½s dois tï¿½m camadas.
 
 440
 00:27:31,400 --> 00:27:33,500
-Você sabe, nem todo mundo
+Vocï¿½ sabe, nem todo mundo
 gosta de cebolas.
 
 441
 00:27:33,800 --> 00:27:37,400
 Bolos! Todos gostam de bolos.
-Bolos têm camadas.
+Bolos tï¿½m camadas.
 
 442
 00:27:37,500 --> 00:27:39,200
-Não me importo
+Nï¿½o me importo
 
 443
 00:27:39,300 --> 00:27:40,800
@@ -1983,32 +1983,32 @@ com o que todos gostam.
 
 444
 00:27:40,900 --> 00:27:44,500
-Ogros não são como bolos.
+Ogros nï¿½o sï¿½o como bolos.
 
 445
 00:27:46,800 --> 00:27:49,200
-Você sabe o que todo mundo gosta?
+Vocï¿½ sabe o que todo mundo gosta?
 Todos gostam de parfait.
 
 446
 00:27:49,400 --> 00:27:51,700
-Já encontrou alguém que quando
-você diz vamos comer parfait
+Jï¿½ encontrou alguï¿½m que quando
+vocï¿½ diz vamos comer parfait
 
 447
 00:27:51,900 --> 00:27:54,300
-E ele diz, eu não gosto de parfait.
-Parfait é delicioso.
+E ele diz, eu nï¿½o gosto de parfait.
+Parfait ï¿½ delicioso.
 
 448
 00:27:54,300 --> 00:27:58,200
--Não! Seu tonto, irritante,
+-Nï¿½o! Seu tonto, irritante,
 miniatura de burro de carga.
 
 449
 00:27:58,300 --> 00:28:00,500
-Ogros são como cebolas.
-Fim da história.
+Ogros sï¿½o como cebolas.
+Fim da histï¿½ria.
 
 450
 00:28:01,400 --> 00:28:03,800
@@ -2021,16 +2021,16 @@ coisa mais deliciosa neste planeta.
 
 452
 00:28:15,000 --> 00:28:17,600
-Você tem um lenço?
+Vocï¿½ tem um lenï¿½o?
 
 453
 00:28:17,900 --> 00:28:21,000
-Apenas a menção da palavra parfait
-me da água na boca.
+Apenas a menï¿½ï¿½o da palavra parfait
+me da ï¿½gua na boca.
 
 454
 00:28:25,900 --> 00:28:31,800
-<i>Eu estou a caminho da miséria para
+<i>Eu estou a caminho da misï¿½ria para
 a felicidade</i>
 
 455
@@ -2040,7 +2040,7 @@ Uh-huh, uh-huh</i>
 
 456
 00:28:34,500 --> 00:28:39,900
-<i>Eu estou a caminho da miséria para
+<i>Eu estou a caminho da misï¿½ria para
 a felicidade</i>
 
 457
@@ -2050,12 +2050,12 @@ Uh-huh, uh-huh</i>
 
 458
 00:28:42,500 --> 00:28:46,500
-<i>E tudo que você recebe
-vem de lá de cima</i>
+<i>E tudo que vocï¿½ recebe
+vem de lï¿½ de cima</i>
 
 459
 00:28:46,600 --> 00:28:50,500
-<i>É o que você me dá
+<i>ï¿½ o que vocï¿½ me dï¿½
 o dia que eu vago</i>
 
 460
@@ -2068,11 +2068,11 @@ o dia que eu vago</i>
 
 462
 00:29:00,800 --> 00:29:03,100
-Oh, Shrek, você fez isso?
+Oh, Shrek, vocï¿½ fez isso?
 
 463
 00:29:03,500 --> 00:29:05,400
-Você devia avisar antes de soltar "pum".
+Vocï¿½ devia avisar antes de soltar "pum".
 
 464
 00:29:05,600 --> 00:29:07,000
@@ -2080,11 +2080,11 @@ E eu estava com minha boca aberta.
 
 465
 00:29:07,000 --> 00:29:10,600
-Acredite, se fosse eu, você estaria morto.
+Acredite, se fosse eu, vocï¿½ estaria morto.
 
 466
 00:29:11,600 --> 00:29:13,000
-É enxofre.
+ï¿½ enxofre.
 
 467
 00:29:13,300 --> 00:29:14,800
@@ -2092,11 +2092,11 @@ Devemos estar chegando perto.
 
 468
 00:29:14,500 --> 00:29:16,900
-É, certo, enxofre.
+ï¿½, certo, enxofre.
 
 469
 00:29:17,200 --> 00:29:18,100
-Não fale sobre enxofre.
+Nï¿½o fale sobre enxofre.
 
 470
 00:29:18,300 --> 00:29:19,600
@@ -2104,13 +2104,13 @@ Sei o que estou cheirando.
 
 471
 00:29:19,700 --> 00:29:22,400
-E não é enxofre e nem veio
+E nï¿½o ï¿½ enxofre e nem veio
 de pedra nenhuma.
 
 472
 00:29:40,600 --> 00:29:44,100
-Com certeza é bastante grande,
-mas olhe a localização.
+Com certeza ï¿½ bastante grande,
+mas olhe a localizaï¿½ï¿½o.
 
 473
 00:29:48,300 --> 00:29:52,600
@@ -2123,45 +2123,45 @@ Oh, sim.
 
 475
 00:29:55,200 --> 00:29:58,000
-Tenho uma pequena confissão a fazer.
+Tenho uma pequena confissï¿½o a fazer.
 
 476
 00:29:58,200 --> 00:29:58,500
-Burros não têm camadas.
+Burros nï¿½o tï¿½m camadas.
 
 477
 00:29:58,700 --> 00:30:00,800
-Nós colocamos nosso medo
+Nï¿½s colocamos nosso medo
 dentro da manga.
 
 478
 00:30:01,000 --> 00:30:04,000
 Espere um segundo.
-Burros não tem mangas.
+Burros nï¿½o tem mangas.
 
 479
 00:30:04,200 --> 00:30:05,700
-Você sabe o que quis dizer.
+Vocï¿½ sabe o que quis dizer.
 
 480
 00:30:05,800 --> 00:30:08,200
-Não diga que você
+Nï¿½o diga que vocï¿½
 tem medo de altura.
 
 481
 00:30:08,400 --> 00:30:10,100
-Não, estou apenas um pouco
-desconfortável de estar sobre
+Nï¿½o, estou apenas um pouco
+desconfortï¿½vel de estar sobre
 
 482
 00:30:10,200 --> 00:30:12,400
-uma ponte caindo aos pedaços
+uma ponte caindo aos pedaï¿½os
 sobre um lago de lava fervente.
 
 483
 00:30:12,400 --> 00:30:16,100
-Vamos lá, Burro.
-Estarei bem atrás de você.
+Vamos lï¿½, Burro.
+Estarei bem atrï¿½s de vocï¿½.
 
 484
 00:30:16,400 --> 00:30:18,900
@@ -2170,7 +2170,7 @@ Para um suporte emocional.
 485
 00:30:19,600 --> 00:30:23,100
 Vamos enfrentar isso juntos,
-um passinho de bebê por vez.
+um passinho de bebï¿½ por vez.
 
 486
 00:30:23,900 --> 00:30:24,900
@@ -2187,12 +2187,12 @@ Isso me deixou muito melhor.
 489
 00:30:27,900 --> 00:30:30,900
 Mantenha-se em movimento e
-não olhe pra baixo.
+nï¿½o olhe pra baixo.
 
 490
 00:30:31,200 --> 00:30:35,500
-Não olhe para baixo,
-não olhe para baixo.
+Nï¿½o olhe para baixo,
+nï¿½o olhe para baixo.
 
 491
 00:30:39,500 --> 00:30:42,200
@@ -2200,7 +2200,7 @@ Shrek, estou olhando para baixo.
 
 492
 00:30:42,400 --> 00:30:44,500
-Não posso fazer isso.
+Nï¿½o posso fazer isso.
 Me deixa voltar agora!
 
 493
@@ -2209,21 +2209,21 @@ Mas estamos na metade do caminho.
 
 494
 00:30:46,600 --> 00:30:48,300
-É, mas eu sei que
-essa metade é segura.
+ï¿½, mas eu sei que
+essa metade ï¿½ segura.
 
 495
 00:30:48,400 --> 00:30:50,400
-Ok, não tenho tempo
+Ok, nï¿½o tenho tempo
 para isso. Volte.
 
 496
 00:30:50,600 --> 00:30:54,900
-Shrek, não, espere.
+Shrek, nï¿½o, espere.
 
 497
 00:30:55,800 --> 00:30:57,100
-Não faça isso.
+Nï¿½o faï¿½a isso.
 
 498
 00:30:57,400 --> 00:31:00,400
@@ -2236,20 +2236,20 @@ Oh, isso?
 
 500
 00:31:03,000 --> 00:31:04,400
-É, isso.
+ï¿½, isso.
 
 501
 00:31:04,600 --> 00:31:08,000
 Sim, sim.
-Faça. Está bem.
+Faï¿½a. Estï¿½ bem.
 
 502
 00:31:08,200 --> 00:31:10,400
--Não, Shrek!
+-Nï¿½o, Shrek!
 
 503
 00:31:10,500 --> 00:31:12,900
--Você disse faça.
+-Vocï¿½ disse faï¿½a.
 Eu estou fazendo.
 
 504
@@ -2267,43 +2267,43 @@ Legal.
 
 507
 00:31:29,400 --> 00:31:31,800
-Então, onde está este soprador
-de fogo pé no saco?
+Entï¿½o, onde estï¿½ este soprador
+de fogo pï¿½ no saco?
 
 508
 00:31:32,200 --> 00:31:35,600
-Lá dentro, nos esperando para salvá-la.
+Lï¿½ dentro, nos esperando para salvï¿½-la.
 
 509
 00:31:36,100 --> 00:31:38,500
-Estava falando do dragão.
+Estava falando do dragï¿½o.
 
 510
 00:31:55,600 --> 00:31:56,700
-Está com medo?
+Estï¿½ com medo?
 
 511
 00:31:56,800 --> 00:31:58,500
-Não.
+Nï¿½o.
 
 512
 00:32:00,600 --> 00:32:02,800
-Oh, que bom, eu também não.
+Oh, que bom, eu tambï¿½m nï¿½o.
 
 513
 00:32:04,900 --> 00:32:07,500
-Porque não há nada
+Porque nï¿½o hï¿½ nada
 errado em ter medo.
 
 514
 00:32:07,800 --> 00:32:09,200
-Medo é uma reação normal
-a uma situação perigosa.
+Medo ï¿½ uma reaï¿½ï¿½o normal
+a uma situaï¿½ï¿½o perigosa.
 
 515
 00:32:10,000 --> 00:32:14,300
-Situação perigosa não familiar, devo adicionar.
-E há o dragão que solta fogo,
+Situaï¿½ï¿½o perigosa nï¿½o familiar, devo adicionar.
+E hï¿½ o dragï¿½o que solta fogo,
 
 516
 00:32:14,300 --> 00:32:15,000
@@ -2311,17 +2311,17 @@ e come cavaleiros e cospe fogo.
 
 517
 00:32:15,100 --> 00:32:17,100
-Certamente não significa
-que se é um covarde
+Certamente nï¿½o significa
+que se ï¿½ um covarde
 
 518
 00:32:17,100 --> 00:32:18,300
-quando se está um pouco assustado.
-Você sabe o que digo.
+quando se estï¿½ um pouco assustado.
+Vocï¿½ sabe o que digo.
 
 519
 00:32:18,400 --> 00:32:22,700
-Estou certo de que não se trata
+Estou certo de que nï¿½o se trata
 de covardia. Eu sei disso.
 
 520
@@ -2334,23 +2334,23 @@ Cala boca.
 
 522
 00:32:29,100 --> 00:32:31,400
-Vá até lá e veja se
+Vï¿½ atï¿½ lï¿½ e veja se
 encontra alguma escada.
 
 523
 00:32:31,700 --> 00:32:33,900
-Escadas? Achei que estávamos
+Escadas? Achei que estï¿½vamos
 procurando pela princesa.
 
 524
 00:32:34,000 --> 00:32:38,700
-A princesa está lá em cima
+A princesa estï¿½ lï¿½ em cima
 na sala mais alta da torre mais alta.
 
 525
 00:32:39,100 --> 00:32:40,700
-O que faz você achar
-que ela está lá?
+O que faz vocï¿½ achar
+que ela estï¿½ lï¿½?
 
 526
 00:32:41,000 --> 00:32:43,200
@@ -2358,7 +2358,7 @@ Li num livro uma vez.
 
 527
 00:32:43,500 --> 00:32:47,300
-Legal, você cuida do dragão,
+Legal, vocï¿½ cuida do dragï¿½o,
 eu cuido das escadas.
 
 528
@@ -2368,12 +2368,12 @@ Eu vou chicotear o traseiro delas.
 
 529
 00:32:50,800 --> 00:32:52,800
-Essas escadas não vão saber
-para onde estão indo.
+Essas escadas nï¿½o vï¿½o saber
+para onde estï¿½o indo.
 
 530
 00:32:57,300 --> 00:32:58,800
-Vou dar passos drásticos.
+Vou dar passos drï¿½sticos.
 
 531
 00:32:58,900 --> 00:32:59,500
@@ -2381,7 +2381,7 @@ Chutar os degraus.
 
 532
 00:32:59,500 --> 00:33:01,700
-Não mexa comigo.
+Nï¿½o mexa comigo.
 Sou o senhor das escadas.
 
 533
@@ -2396,15 +2396,15 @@ aqui agora, eu subiria nela.
 535
 00:33:10,000 --> 00:33:11,600
 Ao menos sabemos
-onde a princesa está,
+onde a princesa estï¿½,
 
 536
 00:33:11,900 --> 00:33:13,800
-mas onde estará o...
+mas onde estarï¿½ o...
 
 537
 00:33:13,800 --> 00:33:15,300
-Dragão!
+Dragï¿½o!
 
 538
 00:33:31,000 --> 00:33:32,200
@@ -2416,7 +2416,7 @@ Te peguei.
 
 540
 00:34:25,700 --> 00:34:27,800
-Que dentes pontiagudos você tem.
+Que dentes pontiagudos vocï¿½ tem.
 
 541
 00:34:29,000 --> 00:34:31,200
@@ -2424,17 +2424,17 @@ Quero dizer, dentes brancos e brilhantes.
 
 542
 00:34:31,200 --> 00:34:33,100
-Você provavelmente escuta isso
+Vocï¿½ provavelmente escuta isso
 todo o tempo da sua comida, mas
 
 543
 00:34:33,400 --> 00:34:36,900
-você deve escovar os dentes muito,
-porque você tem um sorriso deslumbrante.
+vocï¿½ deve escovar os dentes muito,
+porque vocï¿½ tem um sorriso deslumbrante.
 
 544
 00:34:37,100 --> 00:34:39,800
-E eu sinto o frescor de hortelã?
+E eu sinto o frescor de hortelï¿½?
 
 545
 00:34:40,100 --> 00:34:42,800
@@ -2442,28 +2442,28 @@ E sabe o que mais?
 
 546
 00:34:43,000 --> 00:34:48,300
-Você é uma garota. É, claro. Digo,
-é claro que você é uma garota dragão,
+Vocï¿½ ï¿½ uma garota. ï¿½, claro. Digo,
+ï¿½ claro que vocï¿½ ï¿½ uma garota dragï¿½o,
 
 547
 00:34:49,400 --> 00:34:53,700
-porque você exala
+porque vocï¿½ exala
 essa beleza feminina.
 
 548
 00:34:54,100 --> 00:34:57,000
-O que há com você?
+O que hï¿½ com vocï¿½?
 Tem algo em seus olhos.
 
 549
 00:34:59,000 --> 00:35:01,700
 Adoraria ficar, mas,
-sou asmático, sabe.
+sou asmï¿½tico, sabe.
 
 550
 00:35:01,900 --> 00:35:04,800
-Eu não sei se isso funcionaria. Você ficaria
-soprando anéis de fumaça e tudo o mais.
+Eu nï¿½o sei se isso funcionaria. Vocï¿½ ficaria
+soprando anï¿½is de fumaï¿½a e tudo o mais.
 
 551
 00:35:05,100 --> 00:35:09,100
@@ -2471,7 +2471,7 @@ Shrek!
 
 552
 00:35:09,400 --> 00:35:13,700
-Não, Shrek! Shrek!
+Nï¿½o, Shrek! Shrek!
 
 553
 00:35:46,300 --> 00:35:47,300
@@ -2483,16 +2483,16 @@ O que?
 
 555
 00:35:48,500 --> 00:35:50,400
-Você é a princesa Fiona?
+Vocï¿½ ï¿½ a princesa Fiona?
 
 556
 00:35:50,600 --> 00:35:55,100
 Eu sou. Esperando por um cavaleiro
-tão audacioso para me salvar.
+tï¿½o audacioso para me salvar.
 
 557
 00:35:55,500 --> 00:35:57,200
-Isso é bom.
+Isso ï¿½ bom.
 Vamos.
 
 558
@@ -2501,36 +2501,36 @@ Espere.
 
 559
 00:35:59,600 --> 00:36:01,600
-Este é o nosso primeiro encontro.
+Este ï¿½ o nosso primeiro encontro.
 
 560
 00:36:01,900 --> 00:36:05,500
-Não deveria ser um maravilhoso
-e romântico momento?
+Nï¿½o deveria ser um maravilhoso
+e romï¿½ntico momento?
 
 561
 00:36:06,200 --> 00:36:08,300
 Desculpe, senhorita,
-não há tempo para isso.
+nï¿½o hï¿½ tempo para isso.
 
 562
 00:36:08,600 --> 00:36:09,700
-O que está fazendo?
+O que estï¿½ fazendo?
 
 563
 00:36:09,700 --> 00:36:11,800
-Você deveria me carregar
-nos braços até a janela, e
+Vocï¿½ deveria me carregar
+nos braï¿½os atï¿½ a janela, e
 
 564
 00:36:11,800 --> 00:36:15,600
 descer por uma corda
-até o seu valoroso alazão.
+atï¿½ o seu valoroso alazï¿½o.
 
 565
 00:36:15,800 --> 00:36:18,600
-Parece que gastou um tempão
-planejando isso, não?
+Parece que gastou um tempï¿½o
+planejando isso, nï¿½o?
 
 566
 00:36:18,900 --> 00:36:19,500
@@ -2538,12 +2538,12 @@ Uh-um.
 
 567
 00:36:22,500 --> 00:36:25,000
-Mas nós temos que saborear este momento.
+Mas nï¿½s temos que saborear este momento.
 
 568
 00:36:25,300 --> 00:36:27,800
-Você pode recitar
-um poema épico para mim.
+Vocï¿½ pode recitar
+um poema ï¿½pico para mim.
 
 569
 00:36:28,100 --> 00:36:32,400
@@ -2552,12 +2552,12 @@ Ou qualquer coisa.
 
 570
 00:36:32,900 --> 00:36:34,100
-Eu acho que não.
+Eu acho que nï¿½o.
 
 571
 00:36:35,300 --> 00:36:39,200
 Posso pelo menos saber
-o nome do meu campeão?
+o nome do meu campeï¿½o?
 
 572
 00:36:39,900 --> 00:36:41,400
@@ -2569,8 +2569,8 @@ Sir Shrek.
 
 574
 00:36:44,900 --> 00:36:49,200
-Peço que aceite essa prenda
-como prova de minha gratidão.
+Peï¿½o que aceite essa prenda
+como prova de minha gratidï¿½o.
 
 575
 00:36:50,500 --> 00:36:54,800
@@ -2578,16 +2578,16 @@ Obrigado.
 
 576
 00:36:56,100 --> 00:37:00,400
--Você não matou o dragão?
--Está na minha lista de coisas a fazer. Agora, vamos!
+-Vocï¿½ nï¿½o matou o dragï¿½o?
+-Estï¿½ na minha lista de coisas a fazer. Agora, vamos!
 
 577
 00:37:00,700 --> 00:37:03,600
-Mas isto não está certo.
+Mas isto nï¿½o estï¿½ certo.
 
 578
 00:37:03,600 --> 00:37:05,800
-Você deveria atacá-lo,
+Vocï¿½ deveria atacï¿½-lo,
 sacar a espada, tremular a bandeira.
 
 579
@@ -2602,7 +2602,7 @@ virarem churrasquinho.
 
 581
 00:37:10,700 --> 00:37:13,500
-Este não é o ponto.
+Este nï¿½o ï¿½ o ponto.
 
 582
 00:37:14,200 --> 00:37:15,400
@@ -2610,7 +2610,7 @@ Onde estamos indo?
 
 583
 00:37:15,600 --> 00:37:17,200
-A saída é por lá.
+A saï¿½da ï¿½ por lï¿½.
 
 584
 00:37:17,200 --> 00:37:19,100
@@ -2618,11 +2618,11 @@ Preciso salvar meu burro.
 
 585
 00:37:19,500 --> 00:37:22,200
-Que tipo de cavaleiro é você?
+Que tipo de cavaleiro ï¿½ vocï¿½?
 
 586
 00:37:22,700 --> 00:37:25,100
-De um tipo único.
+De um tipo ï¿½nico.
 
 587
 00:37:25,200 --> 00:37:27,600
@@ -2630,8 +2630,8 @@ Devagar. Devagar, baby, por favor.
 
 588
 00:37:27,700 --> 00:37:31,900
-Eu acredito que é mais saudável conhecer alguém
-durante um longo período de tempo.
+Eu acredito que ï¿½ mais saudï¿½vel conhecer alguï¿½m
+durante um longo perï¿½odo de tempo.
 
 589
 00:37:32,000 --> 00:37:34,600
@@ -2639,12 +2639,12 @@ Pode me chamar de antiquado.
 
 590
 00:37:34,700 --> 00:37:37,400
-Eu não quero correr
-para uma relação física.
+Eu nï¿½o quero correr
+para uma relaï¿½ï¿½o fï¿½sica.
 
 591
 00:37:37,600 --> 00:37:41,500
-Eu não estou preparado emocionalmente
+Eu nï¿½o estou preparado emocionalmente
 para um compromisso dessa
 
 592
@@ -2658,11 +2658,11 @@ Magnitude.
 
 594
 00:37:45,400 --> 00:37:48,000
-Ei, isso foi um contato físico indesejável.
+Ei, isso foi um contato fï¿½sico indesejï¿½vel.
 
 595
 00:37:48,300 --> 00:37:49,700
-O que está fazendo?
+O que estï¿½ fazendo?
 
 596
 00:37:51,000 --> 00:37:52,600
@@ -2672,16 +2672,16 @@ e dar um passo por vez.
 597
 00:37:52,800 --> 00:37:55,100
 Devemos nos conhecer primeiro,
-você entende o que digo.
+vocï¿½ entende o que digo.
 
 598
 00:37:55,100 --> 00:37:57,800
 Como amigos, talvez como
-amigos por correspondência.
+amigos por correspondï¿½ncia.
 
 599
 00:37:57,800 --> 00:38:02,100
-Eu estou freqüentemente na estrada,
+Eu estou freqï¿½entemente na estrada,
 mas eu adoro receber cartas --
 
 600
@@ -2691,16 +2691,16 @@ ficar, mas --
 
 601
 00:38:04,600 --> 00:38:06,000
-Não faça isso. Isso é a minha cauda.
+Nï¿½o faï¿½a isso. Isso ï¿½ a minha cauda.
 Minha cauda pessoal.
 
 602
 00:38:06,200 --> 00:38:07,600
-E você vai rasgá-la...
+E vocï¿½ vai rasgï¿½-la...
 
 603
 00:38:07,600 --> 00:38:09,200
-Eu não permito isso.
+Eu nï¿½o permito isso.
 
 604
 00:38:09,300 --> 00:38:11,700
@@ -2709,12 +2709,12 @@ Hey, para que quer fazer isso?
 605
 00:38:10,800 --> 00:38:14,600
 Hey, agora. De jeito nenhum.
-Não! Não!
+Nï¿½o! Nï¿½o!
 
 606
 00:38:14,700 --> 00:38:17,500
-Não, não! Não.
-Não, não, não! Não! Oh!
+Nï¿½o, nï¿½o! Nï¿½o.
+Nï¿½o, nï¿½o, nï¿½o! Nï¿½o! Oh!
 
 607
 00:38:44,300 --> 00:38:46,300
@@ -2723,15 +2723,15 @@ Não, não, não! Não! Oh!
 
 608
 00:38:46,400 --> 00:38:50,200
-Sim. Fazê-lo calar é que é difícil.
+Sim. Fazï¿½-lo calar ï¿½ que ï¿½ difï¿½cil.
 
 609
 00:39:25,600 --> 00:39:28,400
-Ok, vocês dois vão para a saída.
+Ok, vocï¿½s dois vï¿½o para a saï¿½da.
 
 610
 00:39:29,400 --> 00:39:31,400
-Eu cuidarei do dragão.
+Eu cuidarei do dragï¿½o.
 
 611
 00:39:37,300 --> 00:39:41,600
@@ -2739,12 +2739,12 @@ Corrrra!
 
 612
 00:40:28,300 --> 00:40:30,700
-Você conseguiu, me salvou.
+Vocï¿½ conseguiu, me salvou.
 
 613
 00:40:31,300 --> 00:40:33,500
-Surpreendente, você é maravilhoso.
-Você é ...
+Surpreendente, vocï¿½ ï¿½ maravilhoso.
+Vocï¿½ ï¿½ ...
 
 614
 00:40:36,500 --> 00:40:38,400
@@ -2752,27 +2752,27 @@ Nada convencional, admito, mas
 
 615
 00:40:39,500 --> 00:40:43,500
-sua ação é grande,
-e seu coração é puro.
+sua aï¿½ï¿½o ï¿½ grande,
+e seu coraï¿½ï¿½o ï¿½ puro.
 
 616
 00:40:43,700 --> 00:40:45,700
 Estou inteiramente
-em débito com você.
+em dï¿½bito com vocï¿½.
 
 617
 00:40:47,700 --> 00:40:51,400
 E onde estaria o bravo cavaleiro
-sem este nobre alazão?
+sem este nobre alazï¿½o?
 
 618
 00:40:51,600 --> 00:40:54,400
 Espero que tenha ouvido
-me chamar de nobre alazão.
+me chamar de nobre alazï¿½o.
 
 619
 00:40:54,600 --> 00:40:57,100
-Ela pensa que sou um alazão.
+Ela pensa que sou um alazï¿½o.
 
 620
 00:40:57,800 --> 00:40:59,700
@@ -2785,12 +2785,12 @@ senhor cavaleiro.
 
 622
 00:41:02,100 --> 00:41:05,400
--Aah, não.
--Porque não?
+-Aah, nï¿½o.
+-Porque nï¿½o?
 
 623
 00:41:05,700 --> 00:41:07,000
-Meu cabelo é o capacete.
+Meu cabelo ï¿½ o capacete.
 
 624
 00:41:07,200 --> 00:41:10,100
@@ -2799,7 +2799,7 @@ o rosto de meu salvador.
 
 625
 00:41:10,200 --> 00:41:12,800
-Oh, não, você não gostaria, muito.
+Oh, nï¿½o, vocï¿½ nï¿½o gostaria, muito.
 
 626
 00:41:13,100 --> 00:41:15,400
@@ -2808,44 +2808,44 @@ Mas, como poderia me beijar?
 627
 00:41:15,600 --> 00:41:19,900
 O que?
-Isso não estava na descrição do trabalho.
+Isso nï¿½o estava na descriï¿½ï¿½o do trabalho.
 
 628
 00:41:20,000 --> 00:41:22,200
-Talvez seja uma gratificação.
+Talvez seja uma gratificaï¿½ï¿½o.
 
 629
 00:41:22,200 --> 00:41:23,700
-Não, é o destino.
+Nï¿½o, ï¿½ o destino.
 
 630
 00:41:23,800 --> 00:41:26,300
-Você deve saber como acontece.
+Vocï¿½ deve saber como acontece.
 
 631
 00:41:26,500 --> 00:41:30,600
 Uma princesa trancada na torre
-atormentada por um dragão
+atormentada por um dragï¿½o
 
 632
 00:41:30,700 --> 00:41:33,000
-é resgatada por
+ï¿½ resgatada por
 um cavaleiro corajoso,
 
 633
 00:41:33,500 --> 00:41:36,700
-e então eles trocam seu primeiro
+e entï¿½o eles trocam seu primeiro
 e verdadeiro beijo de amor.
 
 634
 00:41:37,100 --> 00:41:39,600
 Com Shrek?
-Você pensa, espera...
+Vocï¿½ pensa, espera...
 
 635
 00:41:39,800 --> 00:41:42,000
-Você acha que Shrek
-é seu amor verdadeiro.
+Vocï¿½ acha que Shrek
+ï¿½ seu amor verdadeiro.
 
 636
 00:41:42,300 --> 00:41:46,600
@@ -2853,22 +2853,22 @@ Bem, sim.
 
 637
 00:41:48,300 --> 00:41:50,400
-Você acha que Shrek
-é seu verdadeiro amor.
+Vocï¿½ acha que Shrek
+ï¿½ seu verdadeiro amor.
 
 638
 00:41:50,600 --> 00:41:52,600
-O que é tão engraçado?
+O que ï¿½ tï¿½o engraï¿½ado?
 
 639
 00:41:52,900 --> 00:41:55,300
 Deixa eu te dizer que
-não sou seu tipo, Ok?
+nï¿½o sou seu tipo, Ok?
 
 640
 00:41:55,600 --> 00:41:59,200
-Claro que é.
-Você é meu salvador.
+Claro que ï¿½.
+Vocï¿½ ï¿½ meu salvador.
 
 641
 00:41:59,400 --> 00:42:01,300
@@ -2876,8 +2876,8 @@ Agora, tire seu capacete.
 
 642
 00:42:01,600 --> 00:42:04,700
-Olhe, realmente não acho
-que seja uma boa idéia.
+Olhe, realmente nï¿½o acho
+que seja uma boa idï¿½ia.
 
 643
 00:42:04,800 --> 00:42:05,800
@@ -2885,7 +2885,7 @@ Apenas tire o capacete.
 
 644
 00:42:06,000 --> 00:42:06,400
--Eu não vou.
+-Eu nï¿½o vou.
 
 645
 00:42:06,500 --> 00:42:07,300
@@ -2893,7 +2893,7 @@ Tire-o.
 
 646
 00:42:07,300 --> 00:42:08,000
-Não.
+Nï¿½o.
 
 647
 00:42:08,100 --> 00:42:08,500
@@ -2909,12 +2909,12 @@ Como desejar, sua alteza.
 
 650
 00:42:25,600 --> 00:42:28,500
-Você é um Ogro.
+Vocï¿½ ï¿½ um Ogro.
 
 651
 00:42:28,800 --> 00:42:31,500
 Oh, estava esperando
-Príncipe Charmoso?
+Prï¿½ncipe Charmoso?
 
 652
 00:42:31,700 --> 00:42:37,200
@@ -2922,30 +2922,30 @@ Bem, sim, realmente.
 
 653
 00:42:38,000 --> 00:42:39,900
-Oh, não.
-Isto está tudo errado.
+Oh, nï¿½o.
+Isto estï¿½ tudo errado.
 
 654
 00:42:40,000 --> 00:42:42,600
-Você não deveria ser um Ogro.
+Vocï¿½ nï¿½o deveria ser um Ogro.
 
 655
 00:42:44,000 --> 00:42:46,900
 Princesa, fui mandado
-para salvá-la por Lorde Farquaad.
+para salvï¿½-la por Lorde Farquaad.
 
 656
 00:42:47,600 --> 00:42:49,900
-Ele é quem quer casar com você.
+Ele ï¿½ quem quer casar com vocï¿½.
 
 657
 00:42:50,100 --> 00:42:52,300
-Bem, então por que ele
-não veio me salvar?
+Bem, entï¿½o por que ele
+nï¿½o veio me salvar?
 
 658
 00:42:52,400 --> 00:42:55,100
-Boa pergunta, você deve
+Boa pergunta, vocï¿½ deve
 perguntar a ele quando o vir.
 
 659
@@ -2955,12 +2955,12 @@ por meu verdadeiro amor.
 
 660
 00:42:59,100 --> 00:43:01,900
-Não por algum Ogro
-e seu bicho de estimação.
+Nï¿½o por algum Ogro
+e seu bicho de estimaï¿½ï¿½o.
 
 661
 00:43:02,600 --> 00:43:03,900
-Era muito para um nobre alazão.
+Era muito para um nobre alazï¿½o.
 
 662
 00:43:03,900 --> 00:43:04,800
@@ -2968,17 +2968,17 @@ Olhe princesa,
 
 663
 00:43:04,900 --> 00:43:06,400
-você não está tornando
-o meu trabalho mais fácil.
+vocï¿½ nï¿½o estï¿½ tornando
+o meu trabalho mais fï¿½cil.
 
 664
 00:43:06,500 --> 00:43:09,400
 Sinto muito, mas seu trabalho
-não é problema meu.
+nï¿½o ï¿½ problema meu.
 
 665
 00:43:09,700 --> 00:43:14,400
-Você pode dizer a Lorde Farquaad
+Vocï¿½ pode dizer a Lorde Farquaad
 que se ele quiser me salvar
 
 666
@@ -2992,7 +2992,7 @@ por ele bem aqui.
 
 668
 00:43:18,900 --> 00:43:20,900
-Eu não sou um mensageiro.
+Eu nï¿½o sou um mensageiro.
 
 669
 00:43:21,600 --> 00:43:23,500
@@ -3000,41 +3000,41 @@ Eu sou um entregador.
 
 670
 00:43:23,600 --> 00:43:24,800
-Você não ousaria.
+Vocï¿½ nï¿½o ousaria.
 
 671
 00:43:26,200 --> 00:43:27,300
--Você vem Burro?
--Ponha-me no chão!
+-Vocï¿½ vem Burro?
+-Ponha-me no chï¿½o!
 
 672
 00:43:27,600 --> 00:43:29,200
-Sim, estou bem atrás de você.
+Sim, estou bem atrï¿½s de vocï¿½.
 
 673
 00:43:29,600 --> 00:43:32,700
-Coloque-me no chão ou
-sofrerá as conseqüências.
+Coloque-me no chï¿½o ou
+sofrerï¿½ as conseqï¿½ï¿½ncias.
 
 674
 00:43:33,100 --> 00:43:34,900
-Isto não é dignificante.
+Isto nï¿½o ï¿½ dignificante.
 
 675
 00:43:39,600 --> 00:43:41,200
-Aqui está outra questão.
+Aqui estï¿½ outra questï¿½o.
 
 676
 00:43:41,300 --> 00:43:42,100
-Veja, se uma mulher está a fim de você,
+Veja, se uma mulher estï¿½ a fim de vocï¿½,
 
 677
 00:43:42,100 --> 00:43:43,700
-mas você realmente não gosta dela,
+mas vocï¿½ realmente nï¿½o gosta dela,
 
 678
 00:43:43,800 --> 00:43:45,800
-como você poderia dispensá-la
+como vocï¿½ poderia dispensï¿½-la
 sem ferir seus sentimentos?
 
 679
@@ -3045,7 +3045,7 @@ Como faria isso?
 680
 00:43:49,400 --> 00:43:51,700
 Apenas diga a ela que
-não é seu verdadeiro amor.
+nï¿½o ï¿½ seu verdadeiro amor.
 
 681
 00:43:51,900 --> 00:43:54,700
@@ -3059,11 +3059,11 @@ a DuLoc, melhor.
 
 683
 00:44:00,700 --> 00:44:01,800
-Você vai amá-la, é linda.
+Vocï¿½ vai amï¿½-la, ï¿½ linda.
 
 684
 00:44:02,000 --> 00:44:05,700
-E o meu noivo, Lorde Farquaad, como ele é?
+E o meu noivo, Lorde Farquaad, como ele ï¿½?
 
 685
 00:44:05,800 --> 00:44:08,600
@@ -3072,24 +3072,24 @@ Deixe-me colocar dessa maneira, Princesa.
 686
 00:44:08,900 --> 00:44:13,700
 Homens da estatura de Farquaad
-são encontrados em pequenas doses.
+sï¿½o encontrados em pequenas doses.
 
 687
 00:44:15,000 --> 00:44:18,500
-Ah não, Shrek,
-há muitos que pensam pouco dele.
+Ah nï¿½o, Shrek,
+hï¿½ muitos que pensam pouco dele.
 
 688
 00:44:21,200 --> 00:44:23,700
-Parem. Parem, vocês dois.
+Parem. Parem, vocï¿½s dois.
 
 689
 00:44:24,000 --> 00:44:25,200
-Vocês estão com inveja,
+Vocï¿½s estï¿½o com inveja,
 
 690
 00:44:25,500 --> 00:44:28,000
-porque não podem se igualar
+porque nï¿½o podem se igualar
 a um grande legislador como
 
 691
@@ -3103,12 +3103,12 @@ Princesa.
 
 693
 00:44:32,100 --> 00:44:35,700
-Mas eu a deixarei medí-lo
-quando o vir amanhã.
+Mas eu a deixarei medï¿½-lo
+quando o vir amanhï¿½.
 
 694
 00:44:35,900 --> 00:44:37,700
-Amanhã?
+Amanhï¿½?
 
 695
 00:44:38,500 --> 00:44:40,200
@@ -3116,30 +3116,30 @@ Vai levar tanto tempo?
 
 696
 00:44:40,700 --> 00:44:41,900
-Não poderíamos acampar
-antes de encontrá-lo?
+Nï¿½o poderï¿½amos acampar
+antes de encontrï¿½-lo?
 
 697
 00:44:42,700 --> 00:44:44,500
-Não. Isso levaria mais tempo.
+Nï¿½o. Isso levaria mais tempo.
 
 698
 00:44:46,100 --> 00:44:48,900
-Mas há ladrões no bosque.
+Mas hï¿½ ladrï¿½es no bosque.
 
 699
 00:44:48,800 --> 00:44:51,800
 Epa, tempo Shrek.
-Acampar é definitivamente algo que soa bem.
+Acampar ï¿½ definitivamente algo que soa bem.
 
 700
 00:44:52,100 --> 00:44:53,800
-Ei vocês,
+Ei vocï¿½s,
 
 701
 00:44:53,900 --> 00:44:56,600
 eu sou a coisa mais assustadora
-que verão nesta floresta.
+que verï¿½o nesta floresta.
 
 702
 00:44:56,800 --> 00:45:00,300
@@ -3152,12 +3152,12 @@ Por aqui.
 
 704
 00:45:09,100 --> 00:45:12,100
-Nós podemos fazer melhor que isto.
-Eu não acho que isto seja digno da princesa.
+Nï¿½s podemos fazer melhor que isto.
+Eu nï¿½o acho que isto seja digno da princesa.
 
 705
 00:45:13,000 --> 00:45:16,000
-É perfeito. Precisa apenas
+ï¿½ perfeito. Precisa apenas
 de um toque caseiro.
 
 706
@@ -3175,8 +3175,8 @@ lhes desejo uma boa noite.
 
 709
 00:45:24,700 --> 00:45:27,600
-Você quer que eu conte uma história
-para você dormir, porque eu irei...
+Vocï¿½ quer que eu conte uma histï¿½ria
+para vocï¿½ dormir, porque eu irei...
 
 710
 00:45:27,800 --> 00:45:29,800
@@ -3184,11 +3184,11 @@ Eu disse boa noite.
 
 711
 00:45:32,600 --> 00:45:34,200
-O que você está fazendo?
+O que vocï¿½ estï¿½ fazendo?
 
 712
 00:45:35,600 --> 00:45:37,000
-Eu estou apenas..., você sabe...
+Eu estou apenas..., vocï¿½ sabe...
 
 713
 00:45:37,300 --> 00:45:39,800
@@ -3196,89 +3196,89 @@ Eu estava apenas brincando.
 
 714
 00:45:46,000 --> 00:45:49,000
-E aquele ali, é o Throwback.
+E aquele ali, ï¿½ o Throwback.
 
 715
 00:45:49,300 --> 00:45:52,700
-O único Ogro a cuspir
-sobre três campos de trigo.
+O ï¿½nico Ogro a cuspir
+sobre trï¿½s campos de trigo.
 
 716
 00:45:53,000 --> 00:45:56,900
-Certo. Tá bom.
+Certo. Tï¿½ bom.
 
 717
 00:45:56,900 --> 00:45:58,600
-Você pode dizer o meu
-futuro através das estrelas?
+Vocï¿½ pode dizer o meu
+futuro atravï¿½s das estrelas?
 
 718
 00:45:58,900 --> 00:46:00,900
 Bem, as estrelas
-não contam o futuro, Burro.
+nï¿½o contam o futuro, Burro.
 
 719
 00:46:01,600 --> 00:46:02,900
-Elas contam estórias.
+Elas contam estï¿½rias.
 
 720
 00:46:03,000 --> 00:46:05,900
-Aquele é Bloodnut, o Flatulento.
+Aquele ï¿½ Bloodnut, o Flatulento.
 
 721
 00:46:06,100 --> 00:46:08,300
-Você pode imaginar porque ele é famoso.
+Vocï¿½ pode imaginar porque ele ï¿½ famoso.
 
 722
 00:46:09,000 --> 00:46:10,900
 Agora eu sei que
-você está inventando isto.
+vocï¿½ estï¿½ inventando isto.
 
 723
 00:46:11,300 --> 00:46:12,900
-Lá está ele,
+Lï¿½ estï¿½ ele,
 
 724
 00:46:12,900 --> 00:46:15,000
-e lá está um grupo de caçadores,
+e lï¿½ estï¿½ um grupo de caï¿½adores,
 fugindo do cheiro dele.
 
 725
 00:46:15,400 --> 00:46:18,500
-Cara, isso não é nada,
-além de um monte de pontinhos.
+Cara, isso nï¿½o ï¿½ nada,
+alï¿½m de um monte de pontinhos.
 
 726
 00:46:19,300 --> 00:46:22,000
 Algumas vezes as coisas
-são mais do que aparentam ser.
+sï¿½o mais do que aparentam ser.
 
 727
 00:46:24,700 --> 00:46:26,600
-Esqueça.
+Esqueï¿½a.
 
 728
 00:46:31,600 --> 00:46:33,700
-O que nós faremos quando
-voltarmos para nosso pântano?
+O que nï¿½s faremos quando
+voltarmos para nosso pï¿½ntano?
 
 729
 00:46:33,800 --> 00:46:35,000
-Nosso pântano?
+Nosso pï¿½ntano?
 
 730
 00:46:35,200 --> 00:46:37,400
-Você sabe. Quando terminarmos
+Vocï¿½ sabe. Quando terminarmos
 de salvar a princesa e tudo o mais,
 
 731
 00:46:37,500 --> 00:46:41,800
-Nós? Burro, não há "nós",
-não há "nosso".
+Nï¿½s? Burro, nï¿½o hï¿½ "nï¿½s",
+nï¿½o hï¿½ "nosso".
 
 732
 00:46:42,000 --> 00:46:43,900
-Somente há "eu" e meu pântano,
+Somente hï¿½ "eu" e meu pï¿½ntano,
 
 733
 00:46:44,500 --> 00:46:45,800
@@ -3286,59 +3286,59 @@ e a primeira coisa que vou fazer
 
 734
 00:46:45,900 --> 00:46:48,100
-é construir um muro com 3 metros
+ï¿½ construir um muro com 3 metros
 de altura ao redor de minhas terras.
 
 735
 00:46:50,200 --> 00:46:54,500
-Agora você me feriu Shrek,
+Agora vocï¿½ me feriu Shrek,
 muito fundo mesmo.
 
 736
 00:46:54,900 --> 00:46:56,000
-Você sabe o que eu acho?
+Vocï¿½ sabe o que eu acho?
 
 737
 00:46:56,200 --> 00:46:59,800
 Eu acho que este muro todo
-é só para manter alguém de fora.
+ï¿½ sï¿½ para manter alguï¿½m de fora.
 
 738
 00:47:00,400 --> 00:47:03,600
-Não, você acha?
+Nï¿½o, vocï¿½ acha?
 
 739
 00:47:03,800 --> 00:47:05,900
-Você está escondendo algo?
--Deixa para lá, Burro.
+Vocï¿½ estï¿½ escondendo algo?
+-Deixa para lï¿½, Burro.
 
 740
 00:47:07,900 --> 00:47:10,100
-Esta é outra história de cebola, não é?
+Esta ï¿½ outra histï¿½ria de cebola, nï¿½o ï¿½?
 
 741
 00:47:10,900 --> 00:47:13,900
-Não. Esta é a história de coisas
+Nï¿½o. Esta ï¿½ a histï¿½ria de coisas
 como "desistir e deixar sozinho".
 
 742
 00:47:14,200 --> 00:47:15,300
-Por que você não quer falar sobre isto?
+Por que vocï¿½ nï¿½o quer falar sobre isto?
 
 743
 00:47:15,400 --> 00:47:17,800
-Por que você quer falar sobre isto?
+Por que vocï¿½ quer falar sobre isto?
 
 744
 00:47:17,800 --> 00:47:20,100
--Oh, Porque você bloqueia?
--Não estou bloqueando.
--Oh está.
+-Oh, Porque vocï¿½ bloqueia?
+-Nï¿½o estou bloqueando.
+-Oh estï¿½.
 
 745
 00:47:20,100 --> 00:47:22,000
 Eu estou te advertindo.
--Quem você está tentando afastar?
+-Quem vocï¿½ estï¿½ tentando afastar?
 
 746
 00:47:22,000 --> 00:47:23,500
@@ -3346,11 +3346,11 @@ Me conte isso. Quem?
 
 747
 00:47:23,800 --> 00:47:25,000
-Todos. Está bom?
+Todos. Estï¿½ bom?
 
 748
 00:47:27,300 --> 00:47:29,000
-Agora nós estamos chegando a algum lugar.
+Agora nï¿½s estamos chegando a algum lugar.
 
 749
 00:47:29,500 --> 00:47:31,500
@@ -3358,17 +3358,17 @@ Pelo amor de Pedro.
 
 750
 00:47:32,000 --> 00:47:34,400
-Qual é o seu problema.
-O que você tem contra o mundo?
+Qual ï¿½ o seu problema.
+O que vocï¿½ tem contra o mundo?
 
 751
 00:47:35,200 --> 00:47:37,100
-Veja. Não sou eu
+Veja. Nï¿½o sou eu
 quem tem problemas.
 
 752
 00:47:37,400 --> 00:47:40,000
-É o mundo que parece
+ï¿½ o mundo que parece
 ter um problema comigo.
 
 753
@@ -3379,7 +3379,7 @@ correm e gritam: ah, uh, socorro.
 754
 00:47:44,500 --> 00:47:47,100
 Um Ogro grande,
-estúpido e horroroso.
+estï¿½pido e horroroso.
 
 755
 00:47:49,000 --> 00:47:51,200
@@ -3388,7 +3388,7 @@ de poder me conhecer.
 
 756
 00:47:52,400 --> 00:47:55,100
-Por isso é que eu
+Por isso ï¿½ que eu
 fico melhor sozinho.
 
 757
@@ -3398,31 +3398,31 @@ Quando nos encontramos,
 
 758
 00:48:05,700 --> 00:48:08,000
-eu não pensei que
-fosse um Ogro grande e estúpido.
+eu nï¿½o pensei que
+fosse um Ogro grande e estï¿½pido.
 
 759
 00:48:10,500 --> 00:48:13,800
-É, eu sei.
+ï¿½, eu sei.
 
 760
 00:48:15,000 --> 00:48:17,100
-Há algum burro lá em cima?
+Hï¿½ algum burro lï¿½ em cima?
 
 761
 00:48:17,200 --> 00:48:21,500
-Bem, há o Tagarela,
+Bem, hï¿½ o Tagarela,
 pequeno e chato.
 
 762
 00:48:22,800 --> 00:48:25,500
 Oh, eu estou vendo.
 Aquele grande brilhando ali.
-Aquele lá?
+Aquele lï¿½?
 
 763
 00:48:27,900 --> 00:48:29,400
-Aquilo é a Lua.
+Aquilo ï¿½ a Lua.
 
 764
 00:48:53,300 --> 00:48:57,600
@@ -3439,7 +3439,7 @@ Perfeita.
 
 767
 00:50:16,700 --> 00:50:21,300
-Yeah. Você sabe, eu gosto disso.
+Yeah. Vocï¿½ sabe, eu gosto disso.
 Oh vamos gracinha...
 
 768
@@ -3454,19 +3454,19 @@ Bom dia. Como gostariam dos seus ovos?
 770
 00:50:31,200 --> 00:50:34,700
 -Bom dia princesa.
--O que é isso?
+-O que ï¿½ isso?
 
 771
 00:50:35,600 --> 00:50:38,600
-Bem, nós tivemos um mau começo ontem e
+Bem, nï¿½s tivemos um mau comeï¿½o ontem e
 
 772
 00:50:39,100 --> 00:50:40,600
-eu quero fazer as pazes com você.
+eu quero fazer as pazes com vocï¿½.
 
 773
 00:50:41,000 --> 00:50:45,000
-Afinal de contas, você me salvou.
+Afinal de contas, vocï¿½ me salvou.
 
 774
 00:50:46,600 --> 00:50:48,700
@@ -3478,7 +3478,7 @@ Coma tudo.
 
 776
 00:50:50,400 --> 00:50:52,500
-Nós teremos um grande
+Nï¿½s teremos um grande
 dia pela frente.
 
 777
@@ -3493,27 +3493,27 @@ eu sempre digo.
 
 779
 00:51:03,900 --> 00:51:07,500
-Isso não é jeito de se comportar
+Isso nï¿½o ï¿½ jeito de se comportar
 diante da princesa.
 
 780
 00:51:07,800 --> 00:51:11,400
 -Obrigada.
--Ela é tão desagradável quanto você.
+-Ela ï¿½ tï¿½o desagradï¿½vel quanto vocï¿½.
 
 781
 00:51:11,500 --> 00:51:15,300
-Você não é exatamente
+Vocï¿½ nï¿½o ï¿½ exatamente
 o que eu esperava.
 
 782
 00:51:16,600 --> 00:51:19,400
-Você não deveria julgar as pessoas
-sem antes conhecê-las.
+Vocï¿½ nï¿½o deveria julgar as pessoas
+sem antes conhecï¿½-las.
 
 783
 00:51:22,600 --> 00:51:25,900
-La liberté.
+La libertï¿½.
 
 784
 00:51:25,900 --> 00:51:28,700
@@ -3521,7 +3521,7 @@ Princesa!
 
 785
 00:51:29,200 --> 00:51:30,500
-O que está fazendo?
+O que estï¿½ fazendo?
 
 786
 00:51:30,600 --> 00:51:33,700
@@ -3538,22 +3538,22 @@ E eu estou lhe salvando desta
 
 789
 00:51:40,100 --> 00:51:43,400
-Ei, esta é minha princesa,
-vá procurar a sua.
+Ei, esta ï¿½ minha princesa,
+vï¿½ procurar a sua.
 
 790
 00:51:43,600 --> 00:51:47,900
-Por favor monstro, não vê que
+Por favor monstro, nï¿½o vï¿½ que
 estou um pouco ocupado aqui.
 
 791
 00:51:48,800 --> 00:51:51,700
 Olhe companheiro,
-eu não sei quem você pensa que é.
+eu nï¿½o sei quem vocï¿½ pensa que ï¿½.
 
 792
 00:51:52,600 --> 00:51:54,300
-Ah, claro! Que rude, uh-lá-lá!
+Ah, claro! Que rude, uh-lï¿½-lï¿½!
 
 793
 00:51:54,600 --> 00:51:56,300
@@ -3575,11 +3575,11 @@ e dou aos necessitados
 797
 00:52:08,000 --> 00:52:10,100
 -ele pega uma percentagem
--mas não sou mesquinho.
+-mas nï¿½o sou mesquinho.
 
 798
 00:52:10,100 --> 00:52:12,200
-Salvo moças bonitas.
+Salvo moï¿½as bonitas.
 Como eu sou bom!
 
 799
@@ -3598,36 +3598,36 @@ e donzelas impertinentes.
 
 802
 00:52:21,100 --> 00:52:24,000
--Ele está dizendo que gosta de ser
+-Ele estï¿½ dizendo que gosta de ser
 -Pago!
 
 803
 00:52:24,100 --> 00:52:26,400
-Então quando um Ogro no arbusto
+Entï¿½o quando um Ogro no arbusto
 pega uma donzela contra a vontade.
 
 804
 00:52:26,400 --> 00:52:28,500
-Isso é mau!
+Isso ï¿½ mau!
 
 805
 00:52:28,600 --> 00:52:31,300
-Quando a bela está
+Quando a bela estï¿½
 com a fera fico muito bravo!
 
 806
 00:52:31,400 --> 00:52:33,000
--Ele está realmente zangado!
+-Ele estï¿½ realmente zangado!
 
 807
 00:52:33,000 --> 00:52:35,200
-Agora pego minha lâmina
-e atravesso o seu coração.
+Agora pego minha lï¿½mina
+e atravesso o seu coraï¿½ï¿½o.
 
 808
 00:52:35,200 --> 00:52:39,200
 Olhem para mim,
-porque vou começaaaaaar...
+porque vou comeï¿½aaaaaar...
 
 809
 00:52:46,600 --> 00:52:48,400
@@ -3651,7 +3651,7 @@ Espere, de onde veio isso?
 
 814
 00:53:30,700 --> 00:53:33,300
-Lá atrás. Aquilo foi incrível.
+Lï¿½ atrï¿½s. Aquilo foi incrï¿½vel.
 
 815
 00:53:33,400 --> 00:53:34,700
@@ -3659,34 +3659,34 @@ Onde aprendeu isso?
 
 816
 00:53:36,500 --> 00:53:40,400
-Você sabe, quando se vive sozinha, tem-se
+Vocï¿½ sabe, quando se vive sozinha, tem-se
 de aprender isso no caso de haver...
 
 817
 00:53:40,700 --> 00:53:41,800
-há uma flecha em você.
+hï¿½ uma flecha em vocï¿½.
 
 818
 00:53:42,100 --> 00:53:44,700
-O que? Oh, veja só.
+O que? Oh, veja sï¿½.
 
 819
 00:53:45,000 --> 00:53:47,800
-Oh, não...
+Oh, nï¿½o...
 Isso tudo foi culpa minha, sinto muito.
 
 820
 00:53:48,100 --> 00:53:48,800
--O que há de errado?
+-O que hï¿½ de errado?
 
 821
 00:53:48,900 --> 00:53:50,900
--Shrek está ferido.
--Shrek está ferido? Shrek!
+-Shrek estï¿½ ferido.
+-Shrek estï¿½ ferido? Shrek!
 
 822
 00:53:51,100 --> 00:53:52,600
--Oh, não.
+-Oh, nï¿½o.
 Shrek vai morrer.
 
 823
@@ -3695,22 +3695,22 @@ Burro, eu estou bem.
 
 824
 00:53:54,500 --> 00:53:56,900
-Você não pode fazer isso comigo.
+Vocï¿½ nï¿½o pode fazer isso comigo.
 Sou muito jovem para te ver morrer.
 
 825
 00:53:57,100 --> 00:53:58,500
 Mantenha as pernas para cima.
-Vire a cabeça e tussa.
+Vire a cabeï¿½a e tussa.
 
 826
 00:53:58,700 --> 00:54:01,700
-Alguém conhece o Heimlich?
+Alguï¿½m conhece o Heimlich?
 -Burro, acalme-se.
 
 827
 00:54:02,200 --> 00:54:06,300
-Se você quer ajudar Shrek vá ao bosque e
+Se vocï¿½ quer ajudar Shrek vï¿½ ao bosque e
 encontre uma flor azul com um espinho vermelho.
 
 828
@@ -3725,7 +3725,7 @@ Flor azul, espinhos vermelhos.
 
 830
 00:54:10,600 --> 00:54:13,400
-Não morra Shrek. E se você vir um túnel
+Nï¿½o morra Shrek. E se vocï¿½ vir um tï¿½nel
 comprido, fique longe da luz!
 
 831
@@ -3743,7 +3743,7 @@ Somente para nos livrar do Burro.
 
 834
 00:54:22,000 --> 00:54:24,400
-Fique parado, eu a tirarei de você.
+Fique parado, eu a tirarei de vocï¿½.
 
 835
 00:54:24,500 --> 00:54:25,500
@@ -3755,18 +3755,18 @@ Sinto muito, mas ela tem que sair.
 
 837
 00:54:28,600 --> 00:54:31,900
-Não, não. Isso é macio.
-O que você está fazendo é o oposto de ajudar.
+Nï¿½o, nï¿½o. Isso ï¿½ macio.
+O que vocï¿½ estï¿½ fazendo ï¿½ o oposto de ajudar.
 
 838
 00:54:32,200 --> 00:54:38,500
--Não se mexa.
+-Nï¿½o se mexa.
 -Ok, Veja. Tempo.
 -Poderia... Ok.
 
 839
 00:54:38,700 --> 00:54:40,700
-O que você propõe que façamos?
+O que vocï¿½ propï¿½e que faï¿½amos?
 
 840
 00:54:40,900 --> 00:54:43,100
@@ -3775,8 +3775,8 @@ Flor azul, espinhos vermelhos.
 
 841
 00:54:43,300 --> 00:54:45,500
-Isto seria muito mais fácil
-se eu não fosse daltônico.
+Isto seria muito mais fï¿½cil
+se eu nï¿½o fosse daltï¿½nico.
 
 842
 00:54:45,700 --> 00:54:47,600
@@ -3785,7 +3785,7 @@ Flor azul, espinhos vermelhos.
 
 843
 00:54:47,900 --> 00:54:51,200
-Agüente, Shrek. Estou indo!
+Agï¿½ente, Shrek. Estou indo!
 
 844
 00:54:53,400 --> 00:54:54,900
@@ -3793,8 +3793,8 @@ Nada bom.
 
 845
 00:54:54,800 --> 00:54:59,200
-Ok, ok, Eu posso perdê-la.
-Só mais um pouquinho.
+Ok, ok, Eu posso perdï¿½-la.
+Sï¿½ mais um pouquinho.
 
 846
 00:55:03,900 --> 00:55:04,800
@@ -3802,7 +3802,7 @@ Nada aconteceu.
 
 847
 00:55:05,000 --> 00:55:06,700
-Nós estávamos apenas...
+Nï¿½s estï¿½vamos apenas...
 
 848
 00:55:06,900 --> 00:55:09,600
@@ -3811,8 +3811,8 @@ bastava pedir.
 
 849
 00:55:09,900 --> 00:55:13,200
-Isso era a última coisa que
-passaria pela minha cabeça.
+Isso era a ï¿½ltima coisa que
+passaria pela minha cabeï¿½a.
 
 850
 00:55:13,500 --> 00:55:17,800
@@ -3820,8 +3820,8 @@ A princesa aqui estava apenas... Au!
 
 851
 00:55:22,600 --> 00:55:26,800
-Hey, o que é isso?
-Isso é sangue...
+Hey, o que ï¿½ isso?
+Isso ï¿½ sangue...
 
 852
 00:55:41,700 --> 00:55:45,800
@@ -3829,7 +3829,7 @@ Isso é sangue...
 
 853
 00:55:45,800 --> 00:55:50,400
-<i>Nós vamos em todos os lugares juntos</i>
+<i>Nï¿½s vamos em todos os lugares juntos</i>
 
 854
 00:55:50,400 --> 00:55:55,800
@@ -3838,40 +3838,40 @@ isso tem quatro mangas</i>
 
 855
 00:55:55,800 --> 00:56:00,400
-<i>Nós terminamos
+<i>Nï¿½s terminamos
 Todos os tipos de tempo</i>
 
 856
 00:56:00,800 --> 00:56:05,800
-<i>Ela sempre será
-a única coisa</i>
+<i>Ela sempre serï¿½
+a ï¿½nica coisa</i>
 
 857
 00:56:05,800 --> 00:56:10,000
 <i>Isso coloca eu
-e a terrível picada</i>
+e a terrï¿½vel picada</i>
 
 858
 00:56:10,000 --> 00:56:17,100
 <i>Isso vem de morar em um outro mundo
-Isso é assim, uma maldição</i>
+Isso ï¿½ assim, uma maldiï¿½ï¿½o</i>
 
 859
 00:56:56,700 --> 00:56:58,700
-Lá está, princesa.
+Lï¿½ estï¿½, princesa.
 
 860
 00:56:59,600 --> 00:57:01,100
-Seu vestido espera por você.
+Seu vestido espera por vocï¿½.
 
 861
 00:57:01,400 --> 00:57:02,600
-Aquela é DuLoc?
+Aquela ï¿½ DuLoc?
 
 862
 00:57:03,600 --> 00:57:05,900
-É, Shrek pensa que Farquaad
-está compensando por algo,
+ï¿½, Shrek pensa que Farquaad
+estï¿½ compensando por algo,
 
 863
 00:57:06,200 --> 00:57:07,800
@@ -3880,7 +3880,7 @@ que ele tem uma
 
 864
 00:57:10,500 --> 00:57:12,200
-É melhor nos mexermos.
+ï¿½ melhor nos mexermos.
 
 865
 00:57:12,500 --> 00:57:16,800
@@ -3892,7 +3892,7 @@ Estou preocupada com o Burro.
 
 867
 00:57:21,200 --> 00:57:23,500
-Sua aparência não está nada boa.
+Sua aparï¿½ncia nï¿½o estï¿½ nada boa.
 
 868
 00:57:23,600 --> 00:57:24,700
@@ -3900,12 +3900,12 @@ Estou bem.
 
 869
 00:57:24,700 --> 00:57:26,600
-Isso é o que eles sempre dizem.
+Isso ï¿½ o que eles sempre dizem.
 
 870
 00:57:26,700 --> 00:57:28,800
-E a próxima coisa que acontece
-estará de costas.
+E a prï¿½xima coisa que acontece
+estarï¿½ de costas.
 
 871
 00:57:29,600 --> 00:57:30,700
@@ -3913,86 +3913,86 @@ Morto!
 
 872
 00:57:30,700 --> 00:57:32,900
-Ela está certa, sua aparência é terrível.
+Ela estï¿½ certa, sua aparï¿½ncia ï¿½ terrï¿½vel.
 
 873
 00:57:33,200 --> 00:57:34,700
-Você quer sentar lá?
+Vocï¿½ quer sentar lï¿½?
 
 874
 00:57:34,700 --> 00:57:35,900
-Lhe farei um chá.
+Lhe farei um chï¿½.
 
 875
 00:57:36,100 --> 00:57:37,400
-Bem, eu não ia dizer, mas
+Bem, eu nï¿½o ia dizer, mas
 
 876
 00:57:37,600 --> 00:57:40,900
-eu tenho esta torção no pescoço. E se eu
-viro a cabeça assim, veja. Au, vê?
+eu tenho esta torï¿½ï¿½o no pescoï¿½o. E se eu
+viro a cabeï¿½a assim, veja. Au, vï¿½?
 
 877
 00:57:41,100 --> 00:57:42,900
-Ele está faminto.
+Ele estï¿½ faminto.
 Acharei algo para jantarmos.
 
 878
 00:57:42,900 --> 00:57:45,900
 Pegarei a lenha.
-Onde estão indo?
+Onde estï¿½o indo?
 
 879
 00:57:46,200 --> 00:57:50,700
-Oh, cara. Eu não posso sentir meus dedos.
-Eu não tenho nenhum dedo!
+Oh, cara. Eu nï¿½o posso sentir meus dedos.
+Eu nï¿½o tenho nenhum dedo!
 
 880
 00:57:52,000 --> 00:57:54,700
-Eu acho que preciso de um abraço.
+Eu acho que preciso de um abraï¿½o.
 
 881
 00:58:01,600 --> 00:58:02,900
-Isso é bom, realmente bom.
+Isso ï¿½ bom, realmente bom.
 
 882
 00:58:06,500 --> 00:58:07,800
-O que é isto?
+O que ï¿½ isto?
 Rato do mato.
 
 883
 00:58:09,400 --> 00:58:13,700
 -Estilo grelhado.
--Não brinca.
+-Nï¿½o brinca.
 
 884
 00:58:13,800 --> 00:58:17,300
--Oh, isto é delicioso.
--Bem, eles são ótimos também ensopados.
+-Oh, isto ï¿½ delicioso.
+-Bem, eles sï¿½o ï¿½timos tambï¿½m ensopados.
 
 885
 00:58:17,600 --> 00:58:21,900
-Agora, eu não gosto de me gabar,
-mas eu faço o melhor rato ensopado.
+Agora, eu nï¿½o gosto de me gabar,
+mas eu faï¿½o o melhor rato ensopado.
 
 886
 00:58:26,100 --> 00:58:29,700
-Eu penso que nós teremos um jantar
-um pouco diferente amanhã.
+Eu penso que nï¿½s teremos um jantar
+um pouco diferente amanhï¿½.
 
 887
 00:58:31,000 --> 00:58:34,200
-Talvez você possa me
-visitar no pântano algum dia.
+Talvez vocï¿½ possa me
+visitar no pï¿½ntano algum dia.
 
 888
 00:58:35,200 --> 00:58:37,100
-Eu poderia cozinhar de tudo para você.
+Eu poderia cozinhar de tudo para vocï¿½.
 
 889
 00:58:37,200 --> 00:58:40,600
-Sopa de sapo do pântano, olho de
-peixe tártaro. Você escolhe.
+Sopa de sapo do pï¿½ntano, olho de
+peixe tï¿½rtaro. Vocï¿½ escolhe.
 
 890
 00:58:42,900 --> 00:58:44,800
@@ -4005,11 +4005,11 @@ Eu gostaria disso.
 
 892
 00:59:03,200 --> 00:59:05,800
-Eu gostaria de saber se você...
+Eu gostaria de saber se vocï¿½...
 
 893
 00:59:05,900 --> 00:59:10,200
-Você vai... a...
+Vocï¿½ vai... a...
 
 894
 00:59:11,100 --> 00:59:13,700
@@ -4017,17 +4017,17 @@ Vai comer isso?
 
 895
 00:59:19,900 --> 00:59:22,900
-Cara, isso não é romântico?
-Olhe só para o por do sol.
+Cara, isso nï¿½o ï¿½ romï¿½ntico?
+Olhe sï¿½ para o por do sol.
 
 896
 00:59:23,000 --> 00:59:26,700
 Por do sol?!
-Oh, não. Está tarde.
+Oh, nï¿½o. Estï¿½ tarde.
 
 897
 00:59:26,900 --> 00:59:28,500
-Está muito tarde.
+Estï¿½ muito tarde.
 -O que?
 
 898
@@ -4036,17 +4036,17 @@ Está muito tarde.
 
 899
 00:59:29,900 --> 00:59:32,100
-Já entendi o que
-está acontecendo aqui.
+Jï¿½ entendi o que
+estï¿½ acontecendo aqui.
 
 900
 00:59:32,200 --> 00:59:33,800
-Você está com
+Vocï¿½ estï¿½ com
 medo do escuro.
 
 901
 00:59:34,000 --> 00:59:35,300
-Sim, sim. É isso.
+Sim, sim. ï¿½ isso.
 
 902
 00:59:35,400 --> 00:59:38,400
@@ -4055,18 +4055,18 @@ Acho melhor entrar.
 
 903
 00:59:38,400 --> 00:59:39,400
-Mas não se sinta mau,
+Mas nï¿½o se sinta mau,
 Princesa.
 
 904
 00:59:39,500 --> 00:59:41,200
 Eu costumava ficar com
-medo no escuro também.
+medo no escuro tambï¿½m.
 
 905
 00:59:41,300 --> 00:59:43,100
-Até...
-Hey, não, espere.
+Atï¿½...
+Hey, nï¿½o, espere.
 
 906
 00:59:43,200 --> 00:59:45,900
@@ -4081,52 +4081,52 @@ com medo do escuro.
 908
 00:59:53,700 --> 00:59:57,800
 Ahh. Agora eu vejo o que
-está acontecendo aqui.
+estï¿½ acontecendo aqui.
 
 909
 00:59:57,900 --> 00:59:59,400
-Do que você está falando?
+Do que vocï¿½ estï¿½ falando?
 
 910
 00:59:59,500 --> 01:00:01,500
-Eu não quero nem escutar.
+Eu nï¿½o quero nem escutar.
 Eu sou um animal e tenho instintos.
 
 911
 01:00:01,700 --> 01:00:04,200
-Vocês dois estão gostando um do outro.
+Vocï¿½s dois estï¿½o gostando um do outro.
 Eu posso sentir isso.
 
 912
 01:00:04,300 --> 01:00:08,500
-Você está louco. Estou apenas estou
+Vocï¿½ estï¿½ louco. Estou apenas estou
 levando-a de volta para Farquaad.
 
 913
 01:00:08,500 --> 01:00:10,900
-Dá um tempo, Shrek.
-Acorde e cheire as feromônias.
+Dï¿½ um tempo, Shrek.
+Acorde e cheire as feromï¿½nias.
 
 914
 01:00:11,300 --> 01:00:13,000
-Apenas vá lá e diga o que sente.
+Apenas vï¿½ lï¿½ e diga o que sente.
 
 915
 01:00:14,100 --> 01:00:15,500
-Não há nada a dizer.
+Nï¿½o hï¿½ nada a dizer.
 
 916
 01:00:15,800 --> 01:00:18,100
-Além disso, mesmo se contasse a ela que,
+Alï¿½m disso, mesmo se contasse a ela que,
 
 917
 01:00:18,900 --> 01:00:22,900
-eu não estou dizendo que
-sinto, porque eu não sinto.
+eu nï¿½o estou dizendo que
+sinto, porque eu nï¿½o sinto.
 
 918
 01:00:23,900 --> 01:00:25,900
-Ela é uma princesa e eu sou...
+Ela ï¿½ uma princesa e eu sou...
 
 919
 01:00:26,300 --> 01:00:28,100
@@ -4138,7 +4138,7 @@ Sim, um Ogro.
 
 921
 01:00:32,400 --> 01:00:33,800
-Onde você está indo?
+Onde vocï¿½ estï¿½ indo?
 
 922
 01:00:33,900 --> 01:00:36,900
@@ -4150,7 +4150,7 @@ Princesa. Princesa Fiona?
 
 924
 01:01:03,900 --> 01:01:06,400
-Princesa, onde você está?
+Princesa, onde vocï¿½ estï¿½?
 
 925
 01:01:11,600 --> 01:01:15,900
@@ -4158,32 +4158,32 @@ Princesa?
 
 926
 01:01:18,000 --> 01:01:22,000
-Aqui é muito fantasmagórico
-e não estamos brincando de joguinhos.
+Aqui ï¿½ muito fantasmagï¿½rico
+e nï¿½o estamos brincando de joguinhos.
 
 927
 01:01:31,200 --> 01:01:33,900
--Não, não.
+-Nï¿½o, nï¿½o.
 -Socorro! Shrek! Shrek!
 
 928
 01:01:34,200 --> 01:01:35,800
--Não. -Shrek!
+-Nï¿½o. -Shrek!
 -Tudo bem. Tudo bem.
 
 929
 01:01:36,100 --> 01:01:39,100
--O que você fez com a princesa?
+-O que vocï¿½ fez com a princesa?
 -Burro, shhh. Eu sou a princesa.
 
 930
 01:01:39,400 --> 01:01:43,700
 -Sou eu, neste corpo.
--Oh meu Deus. Você comeu a princesa.
+-Oh meu Deus. Vocï¿½ comeu a princesa.
 
 931
 01:01:44,100 --> 01:01:44,700
--Você pode me escutar?
+-Vocï¿½ pode me escutar?
 
 932
 01:01:45,100 --> 01:01:45,700
@@ -4192,7 +4192,7 @@ Burro...
 933
 01:01:45,800 --> 01:01:49,000
 Continue respirando.
-Eu vou lhe tirar daí.
+Eu vou lhe tirar daï¿½.
 
 934
 01:01:49,200 --> 01:01:51,900
@@ -4204,11 +4204,11 @@ Sou eu.
 
 936
 01:01:58,800 --> 01:02:02,700
-Princesa, o que aconteceu com você?
+Princesa, o que aconteceu com vocï¿½?
 
 937
 01:02:02,900 --> 01:02:05,000
-você está...
+vocï¿½ estï¿½...
 
 938
 01:02:05,700 --> 01:02:06,500
@@ -4216,7 +4216,7 @@ diferente.
 
 939
 01:02:06,700 --> 01:02:08,000
-Eu estou feia. Está bom.
+Eu estou feia. Estï¿½ bom.
 
 940
 01:02:08,000 --> 01:02:08,800
@@ -4224,20 +4224,20 @@ Sim.
 
 941
 01:02:08,900 --> 01:02:10,000
-Foi algo que você comeu?
+Foi algo que vocï¿½ comeu?
 
 942
 01:02:10,100 --> 01:02:11,800
 Eu disse ao Shrek que aqueles ratos
-não eram uma boa idéia.
+nï¿½o eram uma boa idï¿½ia.
 
 943
 01:02:11,800 --> 01:02:13,300
-Você é o que come, eu digo.
+Vocï¿½ ï¿½ o que come, eu digo.
 
 944
 01:02:13,400 --> 01:02:14,500
-Não.
+Nï¿½o.
 
 945
 01:02:14,700 --> 01:02:18,300
@@ -4246,7 +4246,7 @@ desde que me lembro.
 
 946
 01:02:18,400 --> 01:02:19,400
-O que você quer dizer?
+O que vocï¿½ quer dizer?
 
 947
 01:02:19,500 --> 01:02:21,400
@@ -4255,39 +4255,39 @@ desta maneira antes.
 
 948
 01:02:21,500 --> 01:02:24,300
-Somente acontece quando o sol se põe.
+Somente acontece quando o sol se pï¿½e.
 
 949
 01:02:25,900 --> 01:02:29,100
-À noite de um jeito, de dia de outro.
+ï¿½ noite de um jeito, de dia de outro.
 
 950
 01:02:29,500 --> 01:02:31,400
-Esta será a regra...
+Esta serï¿½ a regra...
 
 951
 01:02:31,500 --> 01:02:34,600
-até encontrares o beijo
+atï¿½ encontrares o beijo
 do seu verdadeiro amor.
 
 952
 01:02:34,700 --> 01:02:39,100
-Então, que o amor tome
+Entï¿½o, que o amor tome
 a sua verdadeira forma.
 
 953
 01:02:40,300 --> 01:02:42,800
-Isto é lindo.
-Não sabia que escrevia poesia.
+Isto ï¿½ lindo.
+Nï¿½o sabia que escrevia poesia.
 
 954
 01:02:42,800 --> 01:02:45,100
-É um feitiço.
+ï¿½ um feitiï¿½o.
 
 955
 01:02:45,900 --> 01:02:50,200
 Quando eu era pequena, uma
-bruxa pôs um encanto em mim.
+bruxa pï¿½s um encanto em mim.
 
 956
 01:02:50,500 --> 01:02:52,400
@@ -4295,7 +4295,7 @@ Toda noite eu me torno isto,
 
 957
 01:02:54,100 --> 01:02:57,000
-esta besta horrível e horrorosa.
+esta besta horrï¿½vel e horrorosa.
 
 958
 01:02:59,200 --> 01:03:03,500
@@ -4304,8 +4304,8 @@ em que meu verdadeiro amor me salvaria.
 
 959
 01:03:04,200 --> 01:03:06,800
-É por isso que tenho de casar
-com Lorde Farquaad amanhã,
+ï¿½ por isso que tenho de casar
+com Lorde Farquaad amanhï¿½,
 
 960
 01:03:06,900 --> 01:03:10,300
@@ -4319,24 +4319,24 @@ desta maneira.
 962
 01:03:14,600 --> 01:03:17,400
 Tudo bem, tudo bem. Acalme-se.
-Olhe, não é tão ruim.
+Olhe, nï¿½o ï¿½ tï¿½o ruim.
 
 963
 01:03:17,400 --> 01:03:18,800
-Você não é tão feia.
+Vocï¿½ nï¿½o ï¿½ tï¿½o feia.
 
 964
 01:03:18,900 --> 01:03:21,800
-Espere, eu não vou mentir.
-Você é feia.
+Espere, eu nï¿½o vou mentir.
+Vocï¿½ ï¿½ feia.
 
 965
 01:03:17,700 --> 01:03:23,900
-Mas você só é assim a noite.
+Mas vocï¿½ sï¿½ ï¿½ assim a noite.
 
 966
 01:03:23,900 --> 01:03:25,400
-Shrek é feio 24 hs por dia.
+Shrek ï¿½ feio 24 hs por dia.
 
 967
 01:03:25,600 --> 01:03:28,400
@@ -4344,7 +4344,7 @@ Mas Burro, eu sou uma princesa,
 
 968
 01:03:28,400 --> 01:03:30,900
-e esse não é o visual de uma princesa.
+e esse nï¿½o ï¿½ o visual de uma princesa.
 
 969
 01:03:32,600 --> 01:03:34,100
@@ -4352,7 +4352,7 @@ Princesa,
 
 970
 01:03:34,200 --> 01:03:36,600
-e se não casar com Farquaad?
+e se nï¿½o casar com Farquaad?
 
 971
 01:03:36,700 --> 01:03:38,000
@@ -4365,12 +4365,12 @@ amor pode quebrar o encanto.
 
 973
 01:03:41,500 --> 01:03:44,900
-Você sabe, você é um tipo de Ogro,
+Vocï¿½ sabe, vocï¿½ ï¿½ um tipo de Ogro,
 
 974
 01:03:45,200 --> 01:03:48,400
 e Shrek...
-vocês tem muito em comum.
+vocï¿½s tem muito em comum.
 
 975
 01:03:48,600 --> 01:03:50,100
@@ -4379,47 +4379,47 @@ Shrek?
 976
 01:03:50,400 --> 01:03:53,300
 Princesa, eu... primeiro de tudo,
-como estás indo?
+como estï¿½s indo?
 
 977
 01:03:53,300 --> 01:03:57,500
-Bem? Bom para mim também.
+Bem? Bom para mim tambï¿½m.
 
 978
 01:03:58,600 --> 01:04:01,300
-Eu vi esta flor e pensei em você.
+Eu vi esta flor e pensei em vocï¿½.
 
 979
 01:04:01,400 --> 01:04:02,400
-Porque ela é bela.
+Porque ela ï¿½ bela.
 
 980
 01:04:02,600 --> 01:04:05,400
-Eu realmente não gosto dela,
+Eu realmente nï¿½o gosto dela,
 
 981
 01:04:05,400 --> 01:04:07,900
-mas você poderia gostar,
-porque você é linda,
+mas vocï¿½ poderia gostar,
+porque vocï¿½ ï¿½ linda,
 
 982
 01:04:08,600 --> 01:04:12,900
-Mas eu gosto de você
+Mas eu gosto de vocï¿½
 de qualquer maneira...
 
 983
 01:04:13,500 --> 01:04:16,900
 Estou encrencado.
-Aqui vamos nós.
+Aqui vamos nï¿½s.
 
 984
 01:04:17,000 --> 01:04:19,500
-Eu não posso casar
+Eu nï¿½o posso casar
 com quem eu quiser.
 
 985
 01:04:19,500 --> 01:04:21,800
-Dê uma boa olhada em mim, Burro.
+Dï¿½ uma boa olhada em mim, Burro.
 
 986
 01:04:22,000 --> 01:04:23,900
@@ -4428,44 +4428,44 @@ Digo, realmente,
 987
 01:04:24,000 --> 01:04:26,600
 quem poderia amar
-uma besta tão horrorosa.
+uma besta tï¿½o horrorosa.
 
 988
 01:04:26,700 --> 01:04:29,100
-Princesa e feiúra não andam juntas.
+Princesa e feiï¿½ra nï¿½o andam juntas.
 
 989
 01:04:29,200 --> 01:04:31,100
-Este é o motivo por que
-não posso ficar aqui com Shrek.
+Este ï¿½ o motivo por que
+nï¿½o posso ficar aqui com Shrek.
 
 990
 01:04:31,400 --> 01:04:36,100
-Minha única chance de ser feliz para sempre,
-é casar com meu verdadeiro amor.
+Minha ï¿½nica chance de ser feliz para sempre,
+ï¿½ casar com meu verdadeiro amor.
 
 991
 01:04:36,200 --> 01:04:39,600
-Você não vê, Burro,
+Vocï¿½ nï¿½o vï¿½, Burro,
 
 992
 01:04:39,700 --> 01:04:43,000
-é assim que tem que ser.
+ï¿½ assim que tem que ser.
 
 993
 01:04:43,900 --> 01:04:46,300
-Este é o único meio
-de quebrar o feitiço.
+Este ï¿½ o ï¿½nico meio
+de quebrar o feitiï¿½o.
 
 994
 01:04:46,400 --> 01:04:48,300
-Pelo menos, nós deveríamos
+Pelo menos, nï¿½s deverï¿½amos
 contar a verdade a Shrek.
 
 995
 01:04:48,600 --> 01:04:51,400
-Não, não. Você não pode dizer uma única
-palavra. Ninguém pode saber jamais.
+Nï¿½o, nï¿½o. Vocï¿½ nï¿½o pode dizer uma ï¿½nica
+palavra. Ninguï¿½m pode saber jamais.
 
 996
 01:04:51,600 --> 01:04:54,100
@@ -4474,18 +4474,18 @@ se tem de guardar segredos?
 
 997
 01:04:54,300 --> 01:04:56,600
-Prometa que não contará.
+Prometa que nï¿½o contarï¿½.
 Prometa!
 
 998
 01:04:56,900 --> 01:05:00,500
-Está bem. Eu não contarei,
-mas você deveria.
+Estï¿½ bem. Eu nï¿½o contarei,
+mas vocï¿½ deveria.
 
 999
 01:05:00,500 --> 01:05:03,300
 Antes disso acabar eu precisarei
-de uma série de terapias sérias.
+de uma sï¿½rie de terapias sï¿½rias.
 
 1000
 01:05:03,600 --> 01:05:07,900
@@ -4493,11 +4493,11 @@ Olhe para o meu olho se contraindo.
 
 1001
 01:05:30,200 --> 01:05:34,500
-Eu direi a ele, eu não direi a ele.
+Eu direi a ele, eu nï¿½o direi a ele.
 
 1002
 01:05:34,700 --> 01:05:38,500
-Eu direi a ele, eu não direi a ele.
+Eu direi a ele, eu nï¿½o direi a ele.
 
 1003
 01:05:38,700 --> 01:05:40,300
@@ -4505,11 +4505,11 @@ Eu direi a ele.
 
 1004
 01:05:40,500 --> 01:05:44,800
-Shrek, Shrek! Há algo que eu queria...
+Shrek, Shrek! Hï¿½ algo que eu queria...
 
 1005
 01:06:06,500 --> 01:06:10,400
-Você está bem?
+Vocï¿½ estï¿½ bem?
 
 1006
 01:06:10,700 --> 01:06:13,300
@@ -4521,15 +4521,15 @@ Eu tenho algo para te dizer.
 
 1008
 01:06:17,400 --> 01:06:19,400
-Você não tem que me dizer nada.
+Vocï¿½ nï¿½o tem que me dizer nada.
 
 1009
 01:06:19,700 --> 01:06:21,400
-Eu já escutei o bastante na noite passada.
+Eu jï¿½ escutei o bastante na noite passada.
 
 1010
 01:06:21,500 --> 01:06:22,800
-Você escutou o que eu disse?
+Vocï¿½ escutou o que eu disse?
 
 1011
 01:06:23,200 --> 01:06:24,500
@@ -4537,17 +4537,17 @@ Cada palavra.
 
 1012
 01:06:24,600 --> 01:06:26,200
-Eu pensei que você entenderia.
+Eu pensei que vocï¿½ entenderia.
 
 1013
 01:06:27,600 --> 01:06:31,600
-Como você disse, quem
-poderia amar uma besta horrível?
+Como vocï¿½ disse, quem
+poderia amar uma besta horrï¿½vel?
 
 1014
 01:06:33,200 --> 01:06:35,300
 Mas eu pensei que
-não importaria para você.
+nï¿½o importaria para vocï¿½.
 
 1015
 01:06:35,700 --> 01:06:37,900
@@ -4566,7 +4566,7 @@ O que eu perdi?
 1018
 01:06:52,200 --> 01:06:54,800
 Quem disse isso?
-Não pode ter sido um burro.
+Nï¿½o pode ter sido um burro.
 
 1019
 01:06:56,400 --> 01:06:58,700
@@ -4575,26 +4575,26 @@ Princesa Fiona.
 1020
 01:06:58,900 --> 01:07:00,700
 Como prometido...
-agora passa para cá.
+agora passa para cï¿½.
 
 1021
 01:07:01,300 --> 01:07:05,800
-Muito bem, Ogro. O título do seu pântano.
+Muito bem, Ogro. O tï¿½tulo do seu pï¿½ntano.
 Quitado como combinado.
 
 1022
 01:07:06,000 --> 01:07:09,700
-Pegue-o e vá, antes que eu mude de idéia.
+Pegue-o e vï¿½, antes que eu mude de idï¿½ia.
 
 1023
 01:07:10,600 --> 01:07:14,800
-Perdoe-me princesa por surpreendê-la.
-Mas você me surpreende.
+Perdoe-me princesa por surpreendï¿½-la.
+Mas vocï¿½ me surpreende.
 
 1024
 01:07:15,200 --> 01:07:18,900
 Eu nunca tinha vista
-uma beleza tão radiante.
+uma beleza tï¿½o radiante.
 
 1025
 01:07:19,200 --> 01:07:23,500
@@ -4603,7 +4603,7 @@ uma beleza tão radiante.
 
 1026
 01:07:24,600 --> 01:07:26,600
-Oh, não não...
+Oh, nï¿½o nï¿½o...
 
 1027
 01:07:26,600 --> 01:07:32,400
@@ -4616,20 +4616,20 @@ adeus.
 
 1029
 01:07:34,600 --> 01:07:38,900
-Isso é tão doce. Você não deve desperdiçar
+Isso ï¿½ tï¿½o doce. Vocï¿½ nï¿½o deve desperdiï¿½ar
 boas maneiras com o Ogro.
 
 1030
 01:07:39,800 --> 01:07:41,600
-Não pense que isso tem sentimentos.
+Nï¿½o pense que isso tem sentimentos.
 
 1031
 01:07:41,700 --> 01:07:43,200
-Não, você está certo.
+Nï¿½o, vocï¿½ estï¿½ certo.
 
 1032
 01:07:43,300 --> 01:07:45,400
-Isso não tem.
+Isso nï¿½o tem.
 
 1033
 01:07:45,700 --> 01:07:46,900
@@ -4641,50 +4641,50 @@ linda, sem defeitos, Fiona.
 
 1035
 01:07:49,500 --> 01:07:52,600
-Eu te peço a mão em casamento.
+Eu te peï¿½o a mï¿½o em casamento.
 
 1036
 01:07:52,700 --> 01:07:57,300
-Você será a noiva perfeita
+Vocï¿½ serï¿½ a noiva perfeita
 para o noivo perfeito?
 
 1037
 01:08:01,600 --> 01:08:05,900
 Lorde Farquaad, eu aceito.
-Nada irá...
+Nada irï¿½...
 
 1038
 01:08:06,200 --> 01:08:09,700
-Excelente. Eu começarei os preparativos
-para amanhã nos casarmos...
+Excelente. Eu comeï¿½arei os preparativos
+para amanhï¿½ nos casarmos...
 
 1039
 01:08:09,900 --> 01:08:13,800
-Não! Digo...
+Nï¿½o! Digo...
 Por que esperar?
 
 1040
 01:08:14,100 --> 01:08:17,900
 Vamos nos casar hoje
-antes do pôr do sol.
+antes do pï¿½r do sol.
 
 1041
 01:08:18,200 --> 01:08:21,800
-Oh, estamos ansiosos? Você está certa.
+Oh, estamos ansiosos? Vocï¿½ estï¿½ certa.
 Quanto antes melhor.
 
 1042
 01:08:22,000 --> 01:08:24,500
-Há tanto a ser feito.
+Hï¿½ tanto a ser feito.
 
 1043
 01:08:24,600 --> 01:08:27,100
-Há o banquete, o bolo,
+Hï¿½ o banquete, o bolo,
 a banda, a lista de convidados.
 
 1044
 01:08:27,100 --> 01:08:30,200
-Capitão!
+Capitï¿½o!
 Convoque alguns convidados.
 
 1045
@@ -4693,58 +4693,58 @@ Adeus Ogro.
 
 1046
 01:08:33,200 --> 01:08:35,300
-Shrek, o que está fazendo?
-Você a deixou escapar.
+Shrek, o que estï¿½ fazendo?
+Vocï¿½ a deixou escapar.
 
 1047
 01:08:35,500 --> 01:08:36,700
-E daí?
+E daï¿½?
 
 1048
 01:08:36,800 --> 01:08:39,800
-Há algo sobre ela que você não sabe.
+Hï¿½ algo sobre ela que vocï¿½ nï¿½o sabe.
 
 1049
 01:08:39,800 --> 01:08:40,700
-Eu falei com ela ontem à noite. Ela...
+Eu falei com ela ontem ï¿½ noite. Ela...
 
 1050
 01:08:40,700 --> 01:08:43,700
-Eu sei que você falou
+Eu sei que vocï¿½ falou
 com ela na noite passada.
 
 1051
 01:08:43,600 --> 01:08:45,000
-Vocês são grandes amigos, não são.
+Vocï¿½s sï¿½o grandes amigos, nï¿½o sï¿½o.
 
 1052
 01:08:45,000 --> 01:08:48,700
-Já que são tão bons amigos,
-por que não a seguiu até em casa?
+Jï¿½ que sï¿½o tï¿½o bons amigos,
+por que nï¿½o a seguiu atï¿½ em casa?
 
 1053
 01:08:48,800 --> 01:08:51,600
-Shrek, eu quero ir com você.
-Já lhe disse, não?
+Shrek, eu quero ir com vocï¿½.
+Jï¿½ lhe disse, nï¿½o?
 
 1054
 01:08:51,800 --> 01:08:53,400
-Você não vai voltar
+Vocï¿½ nï¿½o vai voltar
 para casa comigo.
 
 1055
 01:08:53,600 --> 01:08:57,600
 Eu vivo sozinho.
-Eu, meu pântano e ninguém mais.
+Eu, meu pï¿½ntano e ninguï¿½m mais.
 
 1056
 01:08:57,700 --> 01:08:59,700
-Entende? Ninguém!
+Entende? Ninguï¿½m!
 
 1057
 01:08:59,800 --> 01:09:04,700
 Principalmente, burros falantes
-sem utilidade, patéticos e chatos.
+sem utilidade, patï¿½ticos e chatos.
 
 1058
 01:09:05,200 --> 01:09:06,200
@@ -4752,7 +4752,7 @@ Eu pensei...
 
 1059
 01:09:06,200 --> 01:09:10,400
-Você sabe o que?
+Vocï¿½ sabe o que?
 Pensou errado.
 
 1060
@@ -4761,7 +4761,7 @@ Shrek.
 
 1061
 01:09:19,900 --> 01:09:23,800
-<i>Eu ouvi lá
+<i>Eu ouvi lï¿½
 era uma corda secreta</i>
 
 1062
@@ -4771,7 +4771,7 @@ e agradou a Deus</i>
 
 1063
 01:09:27,400 --> 01:09:31,300
-<i>Mas você não quer nenhuma musica
+<i>Mas vocï¿½ nï¿½o quer nenhuma musica
 certo?</i>
 
 1064
@@ -4781,7 +4781,7 @@ o quarto, o quinto</i>
 
 1065
 01:09:37,400 --> 01:09:39,600
-<i>O outono secundário
+<i>O outono secundï¿½rio
 o elevador principal</i>
 
 1066
@@ -4803,27 +4803,27 @@ compondo aleluia</i>
 
 1070
 01:10:07,200 --> 01:10:10,500
-<i>Eu conheço essa sala
-Eu andei nesse chão</i>
+<i>Eu conheï¿½o essa sala
+Eu andei nesse chï¿½o</i>
 
 1071
 01:10:09,600 --> 01:10:15,500
-<i>Eu vivia só
-antes de conhecer você</i>
+<i>Eu vivia sï¿½
+antes de conhecer vocï¿½</i>
 
 1072
 01:10:17,200 --> 01:10:21,200
 <i>Eu vi sua bandeira
-no arco de mármore</i>
+no arco de mï¿½rmore</i>
 
 1073
 01:10:21,200 --> 01:10:23,900
-<i>Amor não é uma marcha de vitória</i>
+<i>Amor nï¿½o ï¿½ uma marcha de vitï¿½ria</i>
 
 1074
 01:10:23,300 --> 01:10:29,700
-<i>É um frio
-É uma separação. Aleluia</i>
+<i>ï¿½ um frio
+ï¿½ uma separaï¿½ï¿½o. Aleluia</i>
 
 1075
 01:10:30,400 --> 01:10:36,600
@@ -4835,27 +4835,27 @@ no arco de mármore</i>
 
 1077
 01:10:48,300 --> 01:10:51,000
-<i>E tudo o que eu já aprendi de amor</i>
+<i>E tudo o que eu jï¿½ aprendi de amor</i>
 
 1078
 01:10:51,300 --> 01:10:56,000
-<i>Era como atirar em alguém
+<i>Era como atirar em alguï¿½m
 que foi puxado</i>
 
 1079
 01:10:57,500 --> 01:11:01,000
-<i>Não é um grito
-você pode ouvir à noite</i>
+<i>Nï¿½o ï¿½ um grito
+vocï¿½ pode ouvir ï¿½ noite</i>
 
 1080
 01:11:00,900 --> 01:11:03,500
-<i>Não é alguém
+<i>Nï¿½o ï¿½ alguï¿½m
 que viu a luz</i>
 
 1081
 01:11:03,800 --> 01:11:09,700
-<i>É um frio
-é uma separação Aleluia</i>
+<i>ï¿½ um frio
+ï¿½ uma separaï¿½ï¿½o Aleluia</i>
 
 1082
 01:11:10,000 --> 01:11:16,400
@@ -4871,22 +4871,22 @@ Burro?
 
 1085
 01:11:38,100 --> 01:11:38,700
-O que você está fazendo?
+O que vocï¿½ estï¿½ fazendo?
 
 1086
 01:11:38,900 --> 01:11:42,100
-De todas as pessoas eu pensei que você
+De todas as pessoas eu pensei que vocï¿½
 reconheceria uma parede quando visse uma.
 
 1087
 01:11:42,300 --> 01:11:47,200
 Sim, mas a parede era para estar ao redor
-do meu pântano, não através dele.
+do meu pï¿½ntano, nï¿½o atravï¿½s dele.
 
 1088
 01:11:47,300 --> 01:11:49,900
-Está em torno da sua metade. Vê?
-Essa é a sua e esta a minha metade.
+Estï¿½ em torno da sua metade. Vï¿½?
+Essa ï¿½ a sua e esta a minha metade.
 
 1089
 01:11:50,200 --> 01:11:52,800
@@ -4900,30 +4900,30 @@ Eu ajudei a salvar a princesa.
 1091
 01:11:56,200 --> 01:11:57,900
 Eu fiz metade do trabalho.
-Eu obtive metade do espólio.
+Eu obtive metade do espï¿½lio.
 
 1092
 01:11:58,000 --> 01:12:00,600
-Agora me dê aquela pedra grande e velha
-ali que parece a sua cabeça.
+Agora me dï¿½ aquela pedra grande e velha
+ali que parece a sua cabeï¿½a.
 
 1093
 01:12:01,500 --> 01:12:03,000
-Vá embora.
+Vï¿½ embora.
 
 1094
 01:12:03,100 --> 01:12:03,800
-Não, vá embora você.
+Nï¿½o, vï¿½ embora vocï¿½.
 
 1095
 01:12:04,100 --> 01:12:05,800
-Este é meu pântano.
-Nosso pântano.
+Este ï¿½ meu pï¿½ntano.
+Nosso pï¿½ntano.
 
 1096
 01:12:06,000 --> 01:12:07,600
 -Desista, Burro!
--Desiste você!
+-Desiste vocï¿½!
 
 1097
 01:12:07,800 --> 01:12:09,700
@@ -4932,11 +4932,11 @@ Ogro fedorento.
 
 1098
 01:12:09,900 --> 01:12:11,800
-Ótimo!
+ï¿½timo!
 
 1099
 01:12:12,100 --> 01:12:14,300
-Volte aqui, não terminei ainda.
+Volte aqui, nï¿½o terminei ainda.
 
 1100
 01:12:14,500 --> 01:12:15,800
@@ -4944,46 +4944,46 @@ Estou farto.
 
 1101
 01:12:15,900 --> 01:12:18,800
-Você sempre diz:
+Vocï¿½ sempre diz:
 eu, eu, eu.
 
 1102
 01:12:19,100 --> 01:12:21,400
 Bem adivinha o que?
-Agora, é a minha vez.
+Agora, ï¿½ a minha vez.
 
 1103
 01:12:21,600 --> 01:12:24,400
-Apenas cale a boca e preste atenção.
+Apenas cale a boca e preste atenï¿½ï¿½o.
 
 1104
 01:12:24,600 --> 01:12:26,000
-Você é mau para mim,
+Vocï¿½ ï¿½ mau para mim,
 
 1105
 01:12:26,200 --> 01:12:28,500
-me insulta, não gosta
-de nada do que faço.
+me insulta, nï¿½o gosta
+de nada do que faï¿½o.
 
 1106
 01:12:28,800 --> 01:12:30,900
-Está sempre me deixando
+Estï¿½ sempre me deixando
 de lado ou de fora.
 
 1107
 01:12:31,200 --> 01:12:35,500
-Se eu te tratei tão mau,
-porque você voltou?
+Se eu te tratei tï¿½o mau,
+porque vocï¿½ voltou?
 
 1108
 01:12:35,700 --> 01:12:39,100
-Porque isto é o que os amigos fazem.
+Porque isto ï¿½ o que os amigos fazem.
 Eles perdoam uns aos outros.
 
 1109
 01:12:39,300 --> 01:12:43,200
-Estás certo Burro.
-Eu o perdôo...
+Estï¿½s certo Burro.
+Eu o perdï¿½o...
 
 1110
 01:12:43,500 --> 01:12:46,300
@@ -4991,18 +4991,18 @@ por ter me apunhalado pelas costas!
 
 1111
 01:12:48,700 --> 01:12:50,400
-Você está tão enrolado
-em camadas, cabeça de cebola.
+Vocï¿½ estï¿½ tï¿½o enrolado
+em camadas, cabeï¿½a de cebola.
 
 1112
 01:12:50,500 --> 01:12:52,100
-Está com medo dos
-seus próprios sentimentos.
+Estï¿½ com medo dos
+seus prï¿½prios sentimentos.
 
 1113
 01:12:52,300 --> 01:12:54,300
--Vá embora. -Vê?
-Lá está você, fazendo de novo.
+-Vï¿½ embora. -Vï¿½?
+Lï¿½ estï¿½ vocï¿½, fazendo de novo.
 
 1114
 01:12:54,400 --> 01:12:55,600
@@ -5011,7 +5011,7 @@ Assim como fez com Fiona.
 1115
 01:12:55,800 --> 01:12:58,000
 E tudo que ela sempre fez, foi gostar
-de você. Talvez ela até o ame.
+de vocï¿½. Talvez ela atï¿½ o ame.
 
 1116
 01:12:58,600 --> 01:13:00,600
@@ -5025,11 +5025,11 @@ Uma criatura horrorosa.
 1118
 01:13:02,800 --> 01:13:04,700
 Eu escutei do que
-vocês dois conversavam.
+vocï¿½s dois conversavam.
 
 1119
 01:13:04,800 --> 01:13:05,800
-Ela não estava falando sobre você.
+Ela nï¿½o estava falando sobre vocï¿½.
 
 1120
 01:13:05,900 --> 01:13:07,700
@@ -5041,23 +5041,23 @@ outra pessoa.
 
 1122
 01:13:11,200 --> 01:13:15,700
-Ela não estava falando de mim?
-De quem ela estava falando então?
+Ela nï¿½o estava falando de mim?
+De quem ela estava falando entï¿½o?
 
 1123
 01:13:16,400 --> 01:13:19,900
-De jeito nenhum. Eu não vou dizer nada.
-Você não me escuta, certo?
+De jeito nenhum. Eu nï¿½o vou dizer nada.
+Vocï¿½ nï¿½o me escuta, certo?
 
 1124
 01:13:20,200 --> 01:13:22,500
 -Burro.
--Não!
+-Nï¿½o!
 
 1125
 01:13:22,700 --> 01:13:27,000
 Ok, veja.
-Eu sinto muito, está bem?
+Eu sinto muito, estï¿½ bem?
 
 1126
 01:13:33,000 --> 01:13:34,600
@@ -5066,7 +5066,7 @@ Eu sinto muito.
 1127
 01:13:34,900 --> 01:13:39,900
 Acho que sou apenas um Ogro grande,
-horroroso e estúpido.
+horroroso e estï¿½pido.
 
 1128
 01:13:40,100 --> 01:13:42,100
@@ -5074,7 +5074,7 @@ Me perdoa?
 
 1129
 01:13:44,400 --> 01:13:46,300
-Para isso é que servem os amigos. Certo?
+Para isso ï¿½ que servem os amigos. Certo?
 
 1130
 01:13:46,400 --> 01:13:49,000
@@ -5086,20 +5086,20 @@ Para isso é que servem os amigos. Certo?
 
 1132
 01:13:51,600 --> 01:13:55,900
-Então, o que Fiona falou sobre mim?
+Entï¿½o, o que Fiona falou sobre mim?
 
 1133
 01:13:57,000 --> 01:13:59,700
-Por que você está perguntando a mim?
-Por que não pergunta a ela?
+Por que vocï¿½ estï¿½ perguntando a mim?
+Por que nï¿½o pergunta a ela?
 
 1134
 01:13:59,900 --> 01:14:03,500
-O casamento. Nós nunca chegaremos a tempo.
+O casamento. Nï¿½s nunca chegaremos a tempo.
 
 1135
 01:14:03,700 --> 01:14:05,700
-Nada tema. Se há vontade há solução.
+Nada tema. Se hï¿½ vontade hï¿½ soluï¿½ï¿½o.
 
 1136
 01:14:06,000 --> 01:14:10,300
@@ -5116,8 +5116,8 @@ Burro?
 
 1139
 01:14:21,000 --> 01:14:23,900
-Certo. Certo. Não fique todo babão.
-Ninguém gosta de beijar um Burro.
+Certo. Certo. Nï¿½o fique todo babï¿½o.
+Ninguï¿½m gosta de beijar um Burro.
 
 1140
 01:14:24,300 --> 01:14:26,000
@@ -5125,8 +5125,8 @@ Certo, suba e segure firme.
 
 1141
 01:14:26,200 --> 01:14:30,500
-Eu ainda não tive a chance
-de instalar cintos de segurança.
+Eu ainda nï¿½o tive a chance
+de instalar cintos de seguranï¿½a.
 
 1142
 01:15:01,300 --> 01:15:06,300
@@ -5136,12 +5136,12 @@ Nos reunimos aqui hoje
 1143
 01:15:06,300 --> 01:15:11,600
 para testemunhar
-a união do nosso novo rei...
+a uniï¿½o do nosso novo rei...
 
 1144
 01:15:11,700 --> 01:15:16,000
 Desculpe.
-Podíamos pular direto para os "aceito"?
+Podï¿½amos pular direto para os "aceito"?
 
 1145
 01:15:16,700 --> 01:15:20,000
@@ -5149,22 +5149,22 @@ Continue.
 
 1146
 01:15:24,000 --> 01:15:29,300
-Vá em frente e divirta-se. Se precisarmos
-de você assobio. Que tal?
+Vï¿½ em frente e divirta-se. Se precisarmos
+de vocï¿½ assobio. Que tal?
 
 1147
 01:15:29,900 --> 01:15:32,300
 Shrek, espere, espere um minuto.
-Você quer fazer isto direito?
+Vocï¿½ quer fazer isto direito?
 
 1148
 01:15:32,500 --> 01:15:33,800
-O que você está falando?
+O que vocï¿½ estï¿½ falando?
 
 1149
 01:15:33,800 --> 01:15:35,600
--É a deixa,
-você tem de esperar o momento.
+-ï¿½ a deixa,
+vocï¿½ tem de esperar o momento.
 
 1150
 01:15:34,900 --> 01:15:38,000
@@ -5173,21 +5173,21 @@ O Padre vai dizer:
 
 1151
 01:15:38,000 --> 01:15:40,800
-e aí você diz:
+e aï¿½ vocï¿½ diz:
 "eu me oponho".
 
 1152
 01:15:41,000 --> 01:15:42,100
--Eu não tenho tempo para isso.
+-Eu nï¿½o tenho tempo para isso.
 
 1153
 01:15:42,100 --> 01:15:44,100
--Espere, espere. O que está fazendo?
+-Espere, espere. O que estï¿½ fazendo?
 Escute-me!
 
 1154
 01:15:44,300 --> 01:15:45,500
-Olhe, amas esta mulher, não ama?
+Olhe, amas esta mulher, nï¿½o ama?
 
 1155
 01:15:45,500 --> 01:15:46,300
@@ -5195,7 +5195,7 @@ Olhe, amas esta mulher, não ama?
 
 1156
 01:15:46,400 --> 01:15:47,000
--Quer abraçá-la!
+-Quer abraï¿½ï¿½-la!
 
 1157
 01:15:47,100 --> 01:15:47,500
@@ -5203,7 +5203,7 @@ Olhe, amas esta mulher, não ama?
 
 1158
 01:15:47,600 --> 01:15:48,100
--Agradá-la!
+-Agradï¿½-la!
 
 1159
 01:15:48,200 --> 01:15:48,700
@@ -5211,13 +5211,13 @@ Olhe, amas esta mulher, não ama?
 
 1160
 01:15:48,800 --> 01:15:52,500
-Então você tem de, tem de tentar
+Entï¿½o vocï¿½ tem de, tem de tentar
 um pouco de ternura.
 
 1161
 01:15:52,700 --> 01:15:53,800
 -As gatinhas adoram
-esse lixo romântico.
+esse lixo romï¿½ntico.
 
 1162
 01:15:53,900 --> 01:15:55,100
@@ -5230,7 +5230,7 @@ Quando o cara diz a fala?
 
 1164
 01:15:58,200 --> 01:15:59,600
-Nós temos que descobrir.
+Nï¿½s temos que descobrir.
 
 1165
 01:15:59,600 --> 01:16:02,800
@@ -5238,20 +5238,20 @@ E pelo poder investido em mim...
 
 1166
 01:16:03,000 --> 01:16:03,500
-O que você viu?
+O que vocï¿½ viu?
 
 1167
 01:16:03,600 --> 01:16:04,900
--A cidade inteira está lá.
+-A cidade inteira estï¿½ lï¿½.
 
 1168
 01:16:04,900 --> 01:16:09,200
 -Eu os pronuncio marido e mulher.
--Eles estão no altar!
+-Eles estï¿½o no altar!
 
 1169
 01:16:10,000 --> 01:16:11,500
--Santa Maria, ele já disse.
+-Santa Maria, ele jï¿½ disse.
 
 1170
 01:16:11,600 --> 01:16:14,400
@@ -5271,7 +5271,7 @@ Agora, o que ele quer?
 
 1174
 01:16:25,500 --> 01:16:29,500
-Oi, todo mundo. Se divertindo, não estão?
+Oi, todo mundo. Se divertindo, nï¿½o estï¿½o?
 
 1175
 01:16:29,700 --> 01:16:31,400
@@ -5280,12 +5280,12 @@ Muito limpa.
 
 1176
 01:16:31,600 --> 01:16:32,600
-O que está fazendo aqui?
+O que estï¿½ fazendo aqui?
 
 1177
 01:16:32,700 --> 01:16:35,900
-Realmente. Já é bastante rude estar vivo
-quando ninguém o quer.
+Realmente. Jï¿½ ï¿½ bastante rude estar vivo
+quando ninguï¿½m o quer.
 
 1178
 01:16:36,300 --> 01:16:38,400
@@ -5294,39 +5294,39 @@ sem ser convidado...
 
 1179
 01:16:38,600 --> 01:16:40,800
-Fiona, eu preciso falar com você.
+Fiona, eu preciso falar com vocï¿½.
 
 1180
 01:16:40,800 --> 01:16:42,700
-Agora você quer falar.
+Agora vocï¿½ quer falar.
 
 1181
 01:16:42,900 --> 01:16:45,700
-É um pouco tarde para isso.
-Então, se me permitir...
+ï¿½ um pouco tarde para isso.
+Entï¿½o, se me permitir...
 
 1182
 01:16:45,900 --> 01:16:48,700
-Mas você não pode se casar com ele.
--Por que não?
+Mas vocï¿½ nï¿½o pode se casar com ele.
+-Por que nï¿½o?
 
 1183
 01:16:48,700 --> 01:16:52,700
-Porque ele só está se casando
-com você, para ser o rei.
+Porque ele sï¿½ estï¿½ se casando
+com vocï¿½, para ser o rei.
 
 1184
 01:16:53,000 --> 01:16:55,000
 -Revoltante!
-Fiona, não lhe dê ouvidos.
+Fiona, nï¿½o lhe dï¿½ ouvidos.
 
 1185
 01:16:55,100 --> 01:16:56,500
-Ele não é seu verdadeiro amor.
+Ele nï¿½o ï¿½ seu verdadeiro amor.
 
 1186
 01:16:56,500 --> 01:16:58,200
-O que você sabe sobre verdadeiro amor?
+O que vocï¿½ sabe sobre verdadeiro amor?
 
 1187
 01:16:58,300 --> 01:17:02,200
@@ -5335,7 +5335,7 @@ Eu estou...
 
 1188
 01:17:02,300 --> 01:17:05,600
-Isto é precioso.
+Isto ï¿½ precioso.
 
 1189
 01:17:05,800 --> 01:17:08,900
@@ -5355,11 +5355,11 @@ O Ogro e a Princesa.
 
 1193
 01:17:19,200 --> 01:17:22,500
-Shrek, é verdade?
+Shrek, ï¿½ verdade?
 
 1194
 01:17:23,400 --> 01:17:25,000
-Quem se importa. É revoltante.
+Quem se importa. ï¿½ revoltante.
 
 1195
 01:17:25,400 --> 01:17:29,200
@@ -5372,7 +5372,7 @@ Agora, beije-me.
 
 1197
 01:17:35,900 --> 01:17:40,200
-À noite de um jeito,
+ï¿½ noite de um jeito,
 de dia de outro,
 
 1198
@@ -5385,7 +5385,7 @@ Bem, isto explica muita coisa.
 
 1200
 01:18:12,900 --> 01:18:14,900
-Isso é repugnante.
+Isso ï¿½ repugnante.
 
 1201
 01:18:15,200 --> 01:18:18,400
@@ -5394,30 +5394,30 @@ Guardas, guardas, tirem-nos daqui.
 1202
 01:18:19,200 --> 01:18:23,500
 -Agora! Peguem-nos! Agarrem, os dois!
--Não!
+-Nï¿½o!
 
 1203
 01:18:24,600 --> 01:18:28,900
-Este casamento é válido, e isso torna-me
-um rei. Vê? Vê?
+Este casamento ï¿½ vï¿½lido, e isso torna-me
+um rei. Vï¿½? Vï¿½?
 
 1204
 01:18:29,000 --> 01:18:30,300
 -Shrek!
--Não.
+-Nï¿½o.
 
 1205
 01:18:30,600 --> 01:18:34,800
--Não fiquem aí parados, seus cachorros.
+-Nï¿½o fiquem aï¿½ parados, seus cachorros.
 -Saiam do meu caminho.
 
 1206
 01:18:42,900 --> 01:18:45,300
-Não! Shrek!
+Nï¿½o! Shrek!
 
 1207
 01:18:45,500 --> 01:18:47,900
-E para você minha esposa,
+E para vocï¿½ minha esposa,
 
 1208
 01:18:48,000 --> 01:18:52,800
@@ -5426,17 +5426,17 @@ pelo resto de sua vida.
 
 1209
 01:18:52,900 --> 01:18:58,000
-Eu terei ordem. Eu terei perfeição.
+Eu terei ordem. Eu terei perfeiï¿½ï¿½o.
 Eu terei...
 
 1210
 01:19:03,400 --> 01:19:04,600
-Ninguém se mexa.
+Ninguï¿½m se mexa.
 
 1211
 01:19:04,700 --> 01:19:07,500
-Eu tenho um dragão aqui
-e não tenho medo de usá-lo.
+Eu tenho um dragï¿½o aqui
+e nï¿½o tenho medo de usï¿½-lo.
 
 1212
 01:19:08,100 --> 01:19:12,400
@@ -5445,11 +5445,11 @@ Sou um burro na crista!
 1213
 01:19:13,800 --> 01:19:18,100
 Casamento de celebridades
-nunca duram, não é?
+nunca duram, nï¿½o ï¿½?
 
 1214
 01:19:19,500 --> 01:19:22,900
-Vá em frente Shrek.
+Vï¿½ em frente Shrek.
 
 1215
 01:19:23,100 --> 01:19:27,400
@@ -5470,16 +5470,16 @@ Verdade, Verdade.
 
 1219
 01:19:39,100 --> 01:19:41,000
-Eu te amo também.
+Eu te amo tambï¿½m.
 
 1220
 01:19:49,200 --> 01:19:52,500
-"Até que aches o primeiro
+"Atï¿½ que aches o primeiro
 beijo do verdadeiro amor...
 
 1221
 01:19:52,500 --> 01:19:55,800
-e então que o amor tome
+e entï¿½o que o amor tome
 a sua verdadeira forma."
 
 1222
@@ -5493,12 +5493,12 @@ Fiona?
 1224
 01:20:33,700 --> 01:20:38,000
 Fiona?
-Você está bem?
+Vocï¿½ estï¿½ bem?
 
 1225
 01:20:39,800 --> 01:20:43,800
 Sim.
-Mas, eu não entendo.
+Mas, eu nï¿½o entendo.
 
 1226
 01:20:44,100 --> 01:20:48,400
@@ -5506,7 +5506,7 @@ Eu pensei que fosse ficar bela.
 
 1227
 01:20:49,100 --> 01:20:53,000
-Mas você é linda.
+Mas vocï¿½ ï¿½ linda.
 
 1228
 01:20:53,400 --> 01:20:57,700
@@ -5516,12 +5516,12 @@ este ser um final feliz.
 1229
 01:20:59,800 --> 01:21:05,200
 <i>Eu pensei que amor era
-só verdadeiro em contos de fadas</i>
+sï¿½ verdadeiro em contos de fadas</i>
 
 1230
 01:21:05,700 --> 01:21:09,000
 <i>Significa para outra pessoa
-mas não para mim</i>
+mas nï¿½o para mim</i>
 
 1231
 01:21:11,500 --> 01:21:14,400
@@ -5529,15 +5529,15 @@ mas não para mim</i>
 
 1232
 01:21:14,400 --> 01:21:16,900
-<i>É desse modo que parece</i>
+<i>ï¿½ desse modo que parece</i>
 
 1233
 01:21:17,300 --> 01:21:21,100
-<i>Decepção assombrou todos meus sonhos</i>
+<i>Decepï¿½ï¿½o assombrou todos meus sonhos</i>
 
 1234
 01:21:21,900 --> 01:21:24,000
-<i>E então eu vi o amor dela de frente</i>
+<i>E entï¿½o eu vi o amor dela de frente</i>
 
 1235
 01:21:25,500 --> 01:21:27,300
@@ -5545,11 +5545,11 @@ mas não para mim</i>
 
 1236
 01:21:28,600 --> 01:21:30,600
-<i>Não há rastro</i>
+<i>Nï¿½o hï¿½ rastro</i>
 
 1237
 01:21:31,100 --> 01:21:33,100
-<i>De dúvida em minha mente</i>
+<i>De dï¿½vida em minha mente</i>
 
 1238
 01:21:34,400 --> 01:21:37,300
@@ -5561,16 +5561,16 @@ mas não para mim</i>
 
 1240
 01:21:39,400 --> 01:21:42,200
-<i>Eu não a pude deixar de tentar</i>
+<i>Eu nï¿½o a pude deixar de tentar</i>
 
 1241
 01:21:43,500 --> 01:21:47,500
-Deus abençoe a todos nós.
+Deus abenï¿½oe a todos nï¿½s.
 
 1242
 01:21:47,500 --> 01:21:51,000
 <i>Vamos todos!
-E então eu vi o amor dela de frente</i>
+E entï¿½o eu vi o amor dela de frente</i>
 
 1243
 01:21:51,100 --> 01:21:54,300
@@ -5579,7 +5579,7 @@ Escute!</i>
 
 1244
 01:21:54,400 --> 01:21:57,100
-<i>Não há rastro</i>
+<i>Nï¿½o hï¿½ rastro</i>
 
 1245
 01:21:57,200 --> 01:22:00,000
@@ -5593,7 +5593,7 @@ Ooh-ahh</i>
 1247
 01:22:03,400 --> 01:22:07,700
 <i>Eu acredito
-Eu não a pude deixar de tentar</i>
+Eu nï¿½o a pude deixar de tentar</i>
 
 1248
 01:22:07,800 --> 01:22:10,600
@@ -5602,7 +5602,7 @@ Eu não a pude deixar de tentar</i>
 
 1249
 01:22:10,700 --> 01:22:13,300
-<i>E então eu vi o amor dela de frente</i>
+<i>E entï¿½o eu vi o amor dela de frente</i>
 
 1250
 01:22:13,400 --> 01:22:16,400
@@ -5611,7 +5611,7 @@ Hey!</i>
 
 1251
 01:22:16,400 --> 01:22:19,200
-<i>Não há rastro
+<i>Nï¿½o hï¿½ rastro
 Uhh! Yeah.</i>
 
 1252
@@ -5650,7 +5650,7 @@ Eu</i>
 1259
 01:22:38,400 --> 01:22:41,300
 <i>Eu acredito
-Pessoal lá atrás!</i>
+Pessoal lï¿½ atrï¿½s!</i>
 
 1260
 01:22:41,400 --> 01:22:44,300
@@ -5676,16 +5676,11 @@ Fim.
 
 1265
 01:22:57,300 --> 01:22:59,500
-Oh, isso é engraçado.
+Oh, isso ï¿½ engraï¿½ado.
 Oh. Oh.
 
 1266
 01:22:59,600 --> 01:23:02,200
-Não posso respirar.
-Não consigo respirar.
-
-1267
-01:23:03,400 --> 01:24:02,200
-Filmes, Jogos e Programas
-Visite -> www.cdsfull.k6.com.br
+Nï¿½o posso respirar.
+Nï¿½o consigo respirar.
 
