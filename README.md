@@ -5,7 +5,7 @@ Este repositório possui os meus arquivos da faculdade separados por semestres e
 
 ### Sobre os Commits
 
-Por ser um repositório somente para arquivos da faculdade e não havendo, pelo menos por enquanto, a existência de um projeto que exija cuidados com versionamento, as mensagens de commit são feitas com as frases do Shrek e seus respectivos timestamps. Adotei este hábito no 12° commit iniciando pelo famoso diálogo da cebola. Algumas frases não seguem a legenda original, pois são modificadas a fim de se aproximar mais do diálogo da versão dublada do filme (que, convenhamos, é muito melhor).
+Por ser um repositório somente para arquivos da faculdade e não havendo, pelo menos por enquanto, a existência de um projeto que exija cuidados com versionamento, as mensagens de commit são feitas com as frases do Shrek e seus respectivos timestamps. Algumas frases não seguem a legenda original, pois são modificadas a fim de se aproximar mais do diálogo da versão dublada do filme (que, convenhamos, é muito melhor).
 
 O motivo disso além de, é claro, Shrek ser incrível, não existe.
 
