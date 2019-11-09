@@ -15,25 +15,30 @@ Declaro que eu não aprovo este tipo de prática a não ser que tenha argumentos
 ### Semestres
 
 #### 1° Semestre (19.2)
- <table>
-  <tr>
-    <th>Disciplina</th>
-    <th>Código</th>
-  </tr>
-  <tr>
-    <td><a href="./EEL5105">Circuitos e Técnicas Digitais</a></td>
-    <td>EEL5105</td>
-  </tr>
-  <tr>
-    <td><a href="./INE5401">Introdução à Computação</a></td>
-    <td>INE5401</td>
-  </tr>  
-  <tr>
-    <td><a href="./INE5402">Programação Orientada a Objetos I</a></td>
-    <td>INE5402</td>
-  </tr>
+<table>
     <tr>
-    <td><a href="./MTM3100">Pré-Cálculo</a></td>
-    <td>MTM3100</td>
+        <th>Disciplina</th>
+        <th>Código</th>
+    </tr>
+    <tr>
+        <td><a href="./EEL5105">Circuitos e Técnicas Digitais</a></td>
+        <td>EEL5105</td>
+    </tr>
+    <tr>
+        <td><a href="./INE5401">Introdução à Computação</a></td>
+        <td>INE5401</td>
+    </tr>  
+    <tr>
+        <td><a href="./INE5402">Programação Orientada a Objetos I</a></td>
+        <td>INE5402</td>
+    </tr>
+    <tr>
+        <td><a href="./INE5403">Fundamentos de Matemática Discreta para Computação</a></td>
+        <td>INE5403</td>
+    </tr>
+    <tr>
+        <td><a href="./MTM3100">Pré-Cálculo</a></td>
+        <td>MTM3100</td>
+    </tr>
   </tr>
 </table> 
