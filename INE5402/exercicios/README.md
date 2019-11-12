@@ -10,6 +10,6 @@
 | [Listas e tuplas 2](./7-listas-tuplas/) | Aula 12 - Lista Exercícios (Tupla, Lista) | 7-listas-tuplas |
 | [OBI](./8-obi/) | Lista de Exercícios - 07/10 | 8-obi |
 | [Lista Composta](./9-lista-composta/) | Aula 14 - Lista Composta (Matrizes) | 9-lista-composta |
-| [Lista Composta](./10-matrizes/) | Aula 15 - Lista de Exercícios Matrizes | 10-matrizes |
-| [Lista Composta](./11-dicionarios/) | Aula 16 - Dicionário Arquivo | 9-lista-composta |
-| [Lista Composta](./12-dicionarios2/) | Aula 17 - Lista de Exercícios Dicionário | 12-dicionarios2 |
+| [Matrizes](./10-matrizes/) | Aula 15 - Lista de Exercícios Matrizes | 10-matrizes |
+| [Dicionários](./11-dicionarios/) | Aula 16 - Dicionário Arquivo | 9-dicionarios |
+| [Dicionários 2](./12-dicionarios2/) | Aula 17 - Lista de Exercícios Dicionário | 12-dicionarios2 |
