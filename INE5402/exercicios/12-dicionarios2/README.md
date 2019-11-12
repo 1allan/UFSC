@@ -1,0 +1,3 @@
+[1.a.](1a.py) Crie um programa com 4 jogadores que joguem um dado (o valor do dado vai de zero a seis). Guarde esses resultados em um dicionário. Imprima esta estrutura.  No  final  colocar  o  dicionário  em  ordem,  considerando  que  o vencedor tirou o maior número no dado.Resolva de 2 formas:1.a) Utilizando a função itemgetter (do pacote operator)
+
+[1.b.](1b.py) Crie o algoritmo  de  ordenamento  e  o  defina  em  uma  funçãoque  será chamada quando desejar ordenar o dicionário.
