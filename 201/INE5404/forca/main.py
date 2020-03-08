@@ -32,7 +32,7 @@ while True:
         print('\nA cadeira foi puxada. Estás morto.')
         print('"Press "F" to pay respect" :^)')
         # Please, tell me you understood the reference >:(
-        # youtube.com/watch?v=TtMzTGfs-fc
+        # http://www.youtube.com/watch?v=TtMzTGfs-fc
 
         if input().upper() == 'F':
             print('Não há respeito para infratores >:^)')

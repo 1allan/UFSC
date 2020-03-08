@@ -28,6 +28,18 @@ Declaro que eu não aprovo este tipo de prática a não ser que tenha argumentos
         <td><a href="./192/EEL5105">Circuitos e Técnicas Digitais</a></td>
         <td>EEL5105</td>
     </tr>
+    <tr>
+        <td><a href="./192/INE5401">Introdução à Computação</a></td>
+        <td>INE5401</td>
+    </tr>
+    <tr>
+        <td><a href="./192/INE5403">Fundamentos da Matemática Discreta para Computação</a></td>
+        <td>INE5403</td>
+    </tr>
+    <tr>
+        <td><a href="./192/MTM3100">Pré-Cálculo</a></td>
+        <td>MTM3100</td>
+    </tr>
   </tr>
 </table> 
 
@@ -40,6 +52,22 @@ Declaro que eu não aprovo este tipo de prática a não ser que tenha argumentos
     <tr>
         <td><a href="./201/INE5404">Programação Orientada a Objetos II</a></td>
         <td>INE5404</td>
+    </tr>
+    <tr>
+        <td><a href="./201/INE5406">Sistemas Digitais</a></td>
+        <td>INE5406</td>
+    </tr>
+    <tr>
+        <td><a href="./201/MTM3101">Cálculo I</a></td>
+        <td>MTM3101</td>
+    </tr>
+    <tr>
+        <td><a href="./201/MTM5512">Geometria Analítica</a></td>
+        <td>MTM5512</td>
+    </tr>
+    <tr>
+        <td><a href="./201/INE5407">Ciência, Tecnologia e Sociedade</a></td>
+        <td>INE5407</td>
     </tr>
   </tr>
 </table> 
