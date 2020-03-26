@@ -9,7 +9,7 @@ Por ser um repositório somente para arquivos da faculdade e não havendo, pelo 
 
 O motivo disso além de, é claro, Shrek ser incrível, não existe.
 
-Declaro que eu não aprovo este tipo de prática a não ser que tenha argumentos válidos como os demonstrados acima, façam commits com mensagens que fazem sentido, pelo amor do Lord Farquaad.
+Declaro que eu não aprovo este tipo de prática a não ser que tenha argumentos válidos como os demonstrados acima, façam commits com mensagens que fazem sentido, pelo amor de Farquaad.
 
 
 ### Semestres
