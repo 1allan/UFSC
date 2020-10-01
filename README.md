@@ -3,7 +3,7 @@
 Este repositório possui os meus arquivos da faculdade separados por semestres e disciplinas, e os commits são feitos com as frases do filme Shrek.
 
 
-### Sobre os Commits
+### Sobre os commits
 
 Por ser um repositório somente para arquivos da faculdade e não havendo, pelo menos por enquanto, a existência de um projeto que exija cuidados com versionamento, as mensagens de commit são feitas com as frases do Shrek e seus respectivos timestamps. Algumas frases não seguem a legenda original, pois são modificadas a fim de se aproximar mais do diálogo da versão dublada do filme (que, convenhamos, é muito melhor).
 
@@ -11,6 +11,9 @@ O motivo disso além de, é claro, Shrek ser incrível, não existe.
 
 Declaro que eu não aprovo este tipo de prática a não ser que tenha argumentos válidos como os demonstrados acima, façam commits com mensagens que fazem sentido, pelo amor de Farquaad.
 
+### Trabalhos finais
+
+Decidi manter os trabalhos finais e outras atividades mais complexas em repositórios próprios por questão de organização. Nesses casos, na pasta onde haveria a atividade, há um README.md com o link para o repositório da mesma. 
 
 ### Semestres
 
@@ -52,10 +55,6 @@ Declaro que eu não aprovo este tipo de prática a não ser que tenha argumentos
     <tr>
         <td><a href="./201/INE5404">Programação Orientada a Objetos II</a></td>
         <td>INE5404</td>
-    </tr>
-    <tr>
-        <td><a href="./201/INE5406">Sistemas Digitais</a></td>
-        <td>INE5406</td>
     </tr>
     <tr>
         <td><a href="./201/MTM3101">Cálculo I</a></td>

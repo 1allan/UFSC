@@ -24,3 +24,9 @@ class MeuDicionario:
         idx = self.chaves.index(chave)
         self.chaves.pop(idx)
         self.itens.pop(idx)
+
+    def __str__(self):
+        out = '{'
+        for i, chave in enumerate(self.chaves):
+            out +=  f'{chave}: {self.itens[i]},'
+        return out[:-1] += '}'

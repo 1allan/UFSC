@@ -55,4 +55,6 @@ class Livro:
                 self.capitulos.remove(c)
                 
     def findCapituloByTitulo(self, tituloCapitulo: str):
-        self.tituloCapitulo = None
+        for c in self.capitulos:
+            if c.titulo == tituloCapitulo:
+                return c
