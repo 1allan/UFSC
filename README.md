@@ -5,7 +5,7 @@ Este repositório possui os meus arquivos da faculdade separados por semestres e
 
 ### Sobre os commits
 
-Por ser um repositório somente para arquivos da faculdade e não havendo, pelo menos por enquanto, a existência de um projeto que exija cuidados com versionamento, as mensagens de commit são feitas com as frases do Shrek e seus respectivos timestamps. Algumas frases não seguem a legenda original, pois são modificadas a fim de se aproximar mais do diálogo da versão dublada do filme (que, convenhamos, é muito melhor).
+Por ser um repositório somente para arquivos da faculdade e não havendo, pelo menos por enquanto, a existência de um projeto que exija cuidados com versionamento, as mensagens de commit são feitas com as frases do Shrek e seus respectivos timestamps. Algumas frases não seguem a legenda original, pois são modificadas a fim de se aproximar da versão dublada do filme que convenhamos, é muito melhor.
 
 O motivo disso além de, é claro, Shrek ser incrível, não existe.
 
@@ -43,7 +43,6 @@ Decidi manter os trabalhos finais e outras atividades mais complexas em reposit�
         <td><a href="./192/MTM3100">Pré-Cálculo</a></td>
         <td>MTM3100</td>
     </tr>
-  </tr>
 </table> 
 
 #### 2° Semestre (20.1)
@@ -68,5 +67,4 @@ Decidi manter os trabalhos finais e outras atividades mais complexas em reposit�
         <td><a href="./201/INE5407">Ciência, Tecnologia e Sociedade</a></td>
         <td>INE5407</td>
     </tr>
-  </tr>
 </table> 
