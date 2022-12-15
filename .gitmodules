@@ -22,3 +22,6 @@
 [submodule "EEL5105"]
 	path = EEL5105
 	url = git@github.com:1allan/EEL5105
+[submodule "INE5202"]
+	path = INE5202
+	url = https://github.com/1allan/INE5202
