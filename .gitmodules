@@ -1,0 +1,24 @@
+[submodule "INE5413"]
+	path = INE5413
+	url = git@github.com:1allan/INE5413
+[submodule "INE5418"]
+	path = INE5418
+	url = git@github.com:1allan/INE5418
+[submodule "INE5406"]
+	path = INE5406
+	url = git@github.com:1allan/INE5406
+[submodule "INE5408"]
+	path = INE5408
+	url = git@github.com:1allan/INE5408
+[submodule "INE5410"]
+	path = INE5410
+	url = git@github.com:1allan/INE5410
+[submodule "INE5416"]
+	path = INE5416
+	url = git@github.com:1allan/INE5416
+[submodule "INE5402"]
+	path = INE5402
+	url = git@github.com:1allan/INE5402
+[submodule "EEL5105"]
+	path = EEL5105
+	url = git@github.com:1allan/EEL5105
