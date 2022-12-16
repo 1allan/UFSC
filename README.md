@@ -1,8 +1,8 @@
 # UFSC - Ciência da Computação
 
-| Id          | Semestre | Nome                                                                   | Dificuldade   | Observação                                            |
+| Id          | Semestre | Nome                                                                   | Dificuldade   |                                             |
 | ----------- |:-------- |:---------------------------------------------------------------------- | :---------------------------|:----------------------------------------------------- |
-| INE5416     | 22.2     | [Paradigmas de Programação](https://github.com/1allan/INE5416)         | ⭐            | Haskell :D CLisp :\| Prolog :(               |
+| INE5416     | 22.2     | [Paradigmas de Programação](https://github.com/1allan/INE5416)         | ⭐            | Haskell :D Lisp :\| Prolog :(               |
 | INE5418     | 22.2     | [Computação Distribuída](https://github.com/1allan/INE5418)            | ⭐⭐          |                                             |
 | INE5419     | 22.2     | Engenharia de Software II                                              | ⭐⭐          |                                             |
 | ~~INE5405~~ | ~~22.2~~ | ~~Probabilidade e Estatística~~                                        | ⭐⭐⭐⭐⭐   | Voltaremos mais fortes                   |
